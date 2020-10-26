@@ -1,0 +1,1176 @@
+Emapp,id,Produit,Code NFH,Famille,Ss-Famille,Gamme,Variante,Conditmt,Prix indicatif,Unite Energ.,Poids/Volume par piece,Calcium,Sodium,Proteines,Glucides,Lipides,kJ,kcal,dont acides gras satures,dont sucres,% de net
+EMApp,1,Choux fleurs,10.10,Fruits_et_légumes,Légumes,surgelé,Brut,Kg,2 €,kg,1,23.80,8.92,2.46,2.21,0.31,118,28,0,0,1
+EMApp,2,Sucre de canne blond,10.14,Epicerie,Epicerie,déshydraté,,kg,1.74 €,kg,1,134,0,1.90,96.70,0,1650,387,0,96,1
+EMApp,3,Poule découpée en morceaux,10.07,Viandes_Poissons,Volaille,brut,morceaux,Kg,7.90 €,kg,1,13,78,30.40,0,11.90,957,229,2.92,0,0.70
+EMApp,4,Sauté de canard ss os ss peau,10.07,Viandes_Poissons,Volaille,brut,sauté,sachet,7.89 €,kg,1,6.78,155,23.30,0,11.20,810,194,3.36,0,1
+EMApp,5,Encornet,10.02,Surgelés,Surgelé poisson,surgelé,anneaux,Kg,2.37 €,kg,1,15.70,195,16.00,0.60,1.47,337,80,0,0,1
+EMApp,6,Pois chiche,10.14,Epicerie,Epicerie,déshydraté,,kg,4.50 €,kg,1,41,154,8.86,21.10,1.09,588,139,0,0,1
+EMApp,7,Melon,10.10,Fruits_et_légumes,Fruits,brut,,unité,1.40 €,kg,1,11.40,11.40,0.71,6.49,0.15,136,32,0.05,5.94,0.60
+EMApp,8,Kiwi,10.10,Fruits_et_légumes,Fruits,brut,,unité,5.25 €,kg,1,26.60,3.10,1.10,9.37,0.73,243,58,0.03,9.10,0.90
+EMApp,9,Chili poudre,10.14,Epicerie,Epicerie,déshydraté,,kg,0 €,kg,1,278,1010,12.26,54.66,16.76,1314,314,2.95,7.19,1
+EMApp,10,Moutarde graine,10.14,Epicerie,Epicerie,appertisé,,kg,0 €,kg,1,266,13,26.08,36.24,28.09,2126,508,1.99,6.79,1
+EMApp,11,Curcuma poudre,10.14,Epicerie,Epicerie,déshydraté,,,0 €,kg,1,168,27,9.68,44.40,3.25,1220,291,1.84,3.21,1
+EMApp,12,Flocon d’avoine,10.14,Epicerie,Epicerie,déshydraté,,250g,3.50 €,kg,1,84.30,5.68,13.30,57.90,6.51,1550,367,1.13,0.97,1
+EMApp,13,Huile de coco,10.14,Epicerie,Epicerie,déshydraté,Liquide,Litre,3.52 €,litre,1,0,0,0.00,0,100,3700,900,9.87,0,1
+EMApp,14,Foie gras de canard,10.07,Viandes_Poissons,Charcuterie,cuit sous vide,bloc,kg,35 €,kg,1,0,514,6.88,2.19,50.10,2010,488,21.60,1.41,1
+EMApp,15,Fressure,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4.82 €,kg,1,27.20,749,14.80,1.80,21.60,1100,266,11.50,0,1
+EMApp,16,Citron confit,10.14,Epicerie,Epicerie,déshydraté,,bocal,10 €,kg,1,171,6,1.50,2.49,0.30,211,50.60,0.04,2.49,1
+EMApp,17,Poulet-émincé,10.07,Viandes_Poissons,Volaille,cru sous vide,15-30g,Kg,7.50 €,kg,1,8,54.60,23.50,0.45,1.34,457,108,0.39,0.20,0.80
+EMApp,18,Poulet-Sauté,10.07,Viandes_Poissons,Volaille,cru sous vide,60-80g,Kg,5.50 €,kg,1,11,81,20.00,0,3.17,457,108,0.76,0,0.80
+EMApp,19,Poulet-Sauté,10.07,Viandes_Poissons,Volaille,cru sous vide,40-60g,Kg,5.50 €,kg,1,11,81,20.00,0,3.17,457,108,0.76,0,0.80
+EMApp,20,Farine de blé,10.14,Epicerie,Epicerie,déshydraté,Type 65,2.5 kg,1 €,kg,1,25.30,2.50,12.60,68.70,0.85,1460,345,0,1.68,1
+EMApp,21,Farine de blé,10.14,Epicerie,Epicerie,déshydraté,Type 80,2.5 kg,1 €,kg,1,25.40,2.72,9.95,73.20,1.18,1510,355,0.17,1.77,1
+EMApp,22,Farine de blé,10.14,Epicerie,Epicerie,déshydraté,Type 55,2.5 kg,1 €,kg,1,19.50,1.97,11.40,71.50,1.15,1470,348,0.23,2.71,1
+EMApp,23,Poisson-Saumon (cubes),10.02,Surgelés,Surgelé poisson,surgelé,cubes 20g,colis de 5kg,9.90 €,kg,1,11.20,47,19.90,0,11.30,756,181,0,0,0.90
+EMApp,24,Persil,10.03,Surgelés,Surgelé légume,surgelé,haché,Kg,10 €,kg,1,190,90.70,3.00,4.57,0.84,194,47,0,0,0.50
+EMApp,25,Fromage-Chèvre,10.12,BOF,Fromages affinés à pâte molle,brut,frais en dés,kg,5.60 €,kg,1,94,297,10.60,2.75,12.40,687,165,9.55,2.75,1
+EMApp,26,Fromage-Emmental,10.12,BOF,Fromages affinés à pâte dure,brut,dés,kg,4.59 €,kg,1,971,277,28.20,0,28.30,1530,369,18.70,0,1
+EMApp,27,Chips,10.14,Epicerie,Epicerie,déshydraté,,kg,4.50 €,kg,1,27.10,622,6.50,52.90,27,2030,487,4,1.09,1
+EMApp,28,Mesclun,10.09,Fruits_et_légumes,Légumes,cru sous vide,,sachet,5.20 €,kg,1,0,252,1.90,1.70,0.50,90,21.53,0.50,0.80,1
+EMApp,29,Citron zeste confit,10.14,Epicerie,Epicerie,déshydraté,,sachet,15 €,kg,1,171,6,1.50,2.49,0.30,211,50.60,0.04,2.49,1
+EMApp,30,Porc - Mini rillauds,10.07,Viandes_Poissons,Charcuterie,cuit sous vide,,kg,8.90 €,kg,1,0,1.20,21.40,0,30.20,1483,358,11.60,0,1
+EMApp,31,Cabillaud (Dos),10.08,Viandes_Poissons,Poisson,brut,,Kg,12 €,kg,1,10,65,18.50,0,0.90,350,83,0.16,0,1
+EMApp,32,Pain,10.14,Epicerie,Epicerie,déshydraté,,kg,0.85 €,kg,1,39.20,525,7.54,52.30,0.95,1090,258,0.27,1.80,1
+EMApp,33,Tortillas de blé,10.04,Surgelés,Surgelé entrée,surgelé,,Piece,0.25 €,piece,0.050,0,0,8.80,51.80,5.70,1276,302,3,2.80,1
+EMApp,34,Baies roses,10.14,Epicerie,Epicerie,déshydraté,,,30 €,kg,1,0,4.40,11.00,61,3,1551,369,3,0.01,1
+EMApp,35,Crème de soja,10.12,BOF,Crèmes et spécialités à base de crème,brut,litre,litre,2.50 €,litre,1,0,0.04,3.10,4.50,14,651,157,2.60,1.40,1
+EMApp,36,Glace vanille,10.04,Surgelés,Surgelé dessert,surgelé,,bac,11.20 €,kg,1,0,0,3.20,23.60,8.80,780,186,5.90,20.90,1
+EMApp,37,Macédoine de légumes,10.03,Surgelés,Surgelé légume,surgelé,,kg,1.80 €,kg,1,35.50,358,1.90,6.70,0.80,200,47.60,0.05,2.41,1
+EMApp,38,Pâtes pépinettes,10.14,Epicerie,Epicerie,déshydraté,,kg,1.25 €,kg,1,41.25,287,12.13,74.25,2,1602,377.50,0.26,1.18,1
+EMApp,39,Pâtes perles,10.14,Epicerie,Epicerie,déshydraté,,kg,1.25 €,kg,1,41.25,287,12.13,74.25,2,1602,377.50,0.26,1.18,1
+EMApp,40,Sel gris fin,10.14,Epicerie,Epicerie,déshydraté,,,1 €,kg,1,171,37700,0.00,0,0,0,0,0,0,1
+EMApp,41,Pomme de terre,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.85 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,0.90
+EMApp,42,Saumon,10.08,Viandes_Poissons,Poisson,brut,,Kg,6.50 €,kg,1,11.20,47,19.90,0,11.30,756,181,2.32,0,0.50
+EMApp,43,Lentille corail,10.14,Epicerie,Epicerie,déshydraté,,kg,2.40 €,kg,1,64.50,307.50,20.20,41.50,1.37,1185,280,0.12,3.07,1
+EMApp,44,Cornichons rondelles,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,5 €,kg,1,32,551,1.20,3,0.30,116,28,0,2.40,1
+EMApp,45,Pétale de maïs non sucré,10.14,Epicerie,Epicerie,déshydraté,,,4 €,kg,1,100,449,7.50,83.70,0.76,1600,378,0.14,8,1
+EMApp,46,Pétale de maïs sucrée,10.14,Epicerie,Epicerie,déshydraté,,,4 €,kg,1,343,470,6.00,85.50,1.16,1620,381,0.22,37.20,1
+EMApp,47,Poisson-Cabillaud (Filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,12 €,kg,1,10,65,18.50,0,0.90,350,83,0.16,0,0.60
+EMApp,48,Poisson-Maquereau (filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,16.25 €,kg,1,12.80,83,23.90,0,15.80,991,238,4.64,0,0.80
+EMApp,49,Persil haché,10.09,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,haché,Kg,6 €,kg,1,190,90.70,3.00,4.57,0.84,194,47,0,0,0.50
+EMApp,50,Canard-Effiloché confit,10.07,Viandes_Poissons,Volaille,brut,confit,kg,7.20 €,kg,1,9.60,944,30.70,0,10.50,910,217,4.80,0,1
+EMApp,51,Porc-Jambon dés,10.07,Viandes_Poissons,Charcuterie,brut,Dés,kg,4.13 €,kg,1,7.20,745,20.90,0.50,3.20,479,114,1.08,0,1
+EMApp,52,Poisson-Saumon ss peau ss aretes Pavé,10.02,Surgelés,Surgelé poisson,surgelé,120-140g,Kg,9.90 €,kg,1,11.20,47,19.90,0,11.30,756,181,0,0,0.90
+EMApp,53,Poulet-Haut de Cuisse,10.07,Viandes_Poissons,Volaille,brut,160-200g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,1
+EMApp,54,Poulet-Haut de Cuisse,10.07,Viandes_Poissons,Volaille,brut,110-130g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,1
+EMApp,55,Poulet-Pilon,10.07,Viandes_Poissons,Volaille,brut,90-110g,Kg,3.45 €,kg,1,15,103,26.00,0,9.57,796,190,2.26,0,0.30
+EMApp,56,Poulet-Cuisses (Déjointées),10.07,Viandes_Poissons,Volaille,brut,220-240g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,0.50
+EMApp,57,Poulet-Cuisses (Déjointées),10.07,Viandes_Poissons,Volaille,brut,200-220g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,0.50
+EMApp,58,Poulet-Cuisse,10.01,Surgelés,Surgelé viande,surgelé,220-240g,Kg,2.15 €,kg,1,14.50,103,26.00,0,9,775,185,0,0,0.50
+EMApp,59,Poulet-Cuisse,10.01,Surgelés,Surgelé viande,surgelé,200-220g,Kg,2.15 €,kg,1,14.50,103,26.00,0,9,775,185,0,0,0.50
+EMApp,60,Poulet-Cuisse,10.01,Surgelés,Surgelé viande,surgelé,180-200g,Kg,2.15 €,kg,1,14.50,103,26.00,0,9,775,185,0,0,0.50
+EMApp,61,Poulet-Suprême,10.07,Viandes_Poissons,Volaille,brut,120-140g,colis,10.50 €,kg,1,13.60,415,26.20,0.35,1.76,511,121,0.59,0,1
+EMApp,62,Poulet-Filet (Escalope),10.07,Viandes_Poissons,Volaille,brut,120-140g,Kg,6.80 €,kg,1,13.60,415,26.20,0.35,1.76,511,121,0.59,0,1
+EMApp,63,Poulet-Filet (Escalope),10.07,Viandes_Poissons,Volaille,brut,100-120g,Kg,6.80 €,kg,1,13.60,415,26.20,0.35,1.76,511,121,0.59,0,1
+EMApp,64,Dinde-Escalope,10.07,Viandes_Poissons,Volaille,brut,120-140g,Kg,5.25 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.40,0,0.90
+EMApp,65,saute de dinde ss os ss peau,10.07,Viandes_Poissons,Volaille,brut,60-80g,Kg,3.60 €,kg,1,11,87.50,28.50,0,1.44,538,127,0.50,0,0.80
+EMApp,66,saute de dinde ss os ss peau,10.07,Viandes_Poissons,Volaille,brut,40-60g,Kg,3.60 €,kg,1,11,87.50,28.50,0,1.44,538,127,0.50,0,0.80
+EMApp,67,Dinde-Filet (émincé),10.07,Viandes_Poissons,Volaille,brut,20-40g,Kg,6.20 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.40,0,1
+EMApp,68,Porc-Joue (sauté),10.07,Viandes_Poissons,Porc,brut,,Kg,6.50 €,kg,1,10,67,17.30,0,16.50,932,224,5.88,0,1
+EMApp,69,Céréales gourmandes,10.14,Epicerie,Epicerie,déshydraté,,sac de 4.5 kg,5.67 €,kg,1,0,0,16.00,63,3.90,1579,373,0.60,4.20,1
+EMApp,70,Chocolat noir,10.14,Epicerie,Epicerie,déshydraté,palets,cart 5 kg,6.90 €,kg,1,0,0,9.25,33.30,41.90,2370,572,30.60,21.30,1
+EMApp,71,Quinoa gourmand,10.14,Epicerie,Epicerie,déshydraté,,sac de 4.5kg,8.63 €,kg,1,0,0,13.00,65,4.30,1523,360,0.50,2.70,1
+EMApp,72,Porc-Rouelle,10.07,Viandes_Poissons,Porc,brut,,Kg,4.50 €,kg,1,0,0,20.02,0,7.56,623,149,0,0,1
+EMApp,73,Porc-Poitrine,10.07,Viandes_Poissons,Porc,brut,,Kg,4.50 €,kg,1,6.17,57.10,16.90,0,21.40,1076,259,8.67,0,1
+EMApp,74,Veau-collier (sauté),10.07,Viandes_Poissons,Veau,brut,60-80 g,Kg,6.95 €,kg,1,10,51,17.80,0,5.92,582,124,1.99,0,0.90
+EMApp,75,Porc-Epaule(sauté),10.07,Viandes_Poissons,Porc,brut,60-80 gr,Kg,3.87 €,kg,1,10,67,30.00,0,14.30,1060,253,5.56,0,1
+EMApp,76,Porc-Filet rôti,10.07,Viandes_Poissons,Porc,brut,,kg,4.10 €,kg,1,7.60,63.60,18.60,0,10.60,725,174,3.81,0,1
+EMApp,77,Porc-Echine (côte),10.07,Viandes_Poissons,Porc,brut,140-160 g,Kg,3.86 €,kg,1,18,0,27.30,0,13.90,1014,242,4.20,0,0.90
+EMApp,78,Veau-Côte,10.07,Viandes_Poissons,Veau,brut,,,14.56 €,kg,1,11,60,16.40,0,12.80,6,181,6,0,1
+EMApp,79,Agneau-Sauté (épaule),10.07,Viandes_Poissons,Agneau,brut,60-80 g,Kg,12.45 €,kg,1,0,0,21.00,0,12,803,192,6.14,0,1
+EMApp,80,Veau-Poitrine (sauté),10.07,Viandes_Poissons,Veau,brut,60-80 g,Kg,8.49 €,kg,1,0,0,19.50,0,4.63,503,120,2.16,0,1
+EMApp,81,Agneau-Collier (sauté),10.07,Viandes_Poissons,Agneau,brut,60-80 g,Kg,10.40 €,kg,1,0,0,16.40,0,13.20,767,184,5.80,0,1
+EMApp,82,Boeuf-Cuit,10.07,Viandes_Poissons,Bœuf,cuit sous vide,,Kg,8.50 €,kg,1,17,52,28.50,0,14,1000,240,6.05,0,1
+EMApp,83,Veau-Epaule (sauté),10.07,Viandes_Poissons,Veau,brut,60-80 g,Kg,8.49 €,kg,1,10,0,18.50,0,4.63,486,116,2.16,0,1
+EMApp,84,Boeuf-Viande hachée 10% MG,10.01,Surgelés,Surgelé viande,surgelé,,Kg,5.60 €,kg,1,8.50,65.50,20.60,0,9.60,705,169,3.67,0,1
+EMApp,85,Boeuf-Viande hachée 5% MG,10.01,Surgelés,Surgelé viande,surgelé,,Kg,6.50 €,kg,1,7,58,19.60,0,4.69,507,121,1.64,0,1
+EMApp,86,Boeuf-Viande hachée 5% MG,10.07,Viandes_Poissons,Bœuf,brut,,Kg,6.50 €,kg,1,7,58,19.60,0,4.69,507,121,1.64,0,1
+EMApp,87,Fromage-Tomme pyrénnée brebis,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,,0.25 €,piece,0.025,788,648,71.90,1.15,33.60,1670,403,20.60,0,1
+EMApp,88,Boeuf-Coeur (pad),10.07,Viandes_Poissons,Bœuf,brut,,Kg,2.50 €,kg,1,6.24,93.50,16.60,0.60,2.59,388,92.10,0.59,0.50,1
+EMApp,89,Boeuf-Foie,10.07,Viandes_Poissons,Bœuf,brut,120-140 g,Kg,4.50 €,kg,1,5.99,81,19.00,5.09,4.46,575,136,1.24,0,0.90
+EMApp,90,Yaourt aux fruits demi-écrémé brassé,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,,,0.20 €,piece,1,111,41,2.70,13.90,1.77,361,88.30,0.87,11.10,1
+EMApp,91,Filet de boeuf,10.07,Viandes_Poissons,Bœuf,brut,,Kg,20 €,kg,1,10.10,153,26.40,0,3.78,589,140,0.95,0,1
+EMApp,92,Boeuf-Tende de tranche (rôti),10.07,Viandes_Poissons,Bœuf,cru sous vide,,Kg,8.50 €,kg,1,0,0,20.60,0,3.69,487,116,0.80,0,1
+EMApp,93,Boeuf-Entrecôte,10.07,Viandes_Poissons,Bœuf,brut,120_140 g,Kg,12 €,kg,1,7,59.50,18.40,0,17,942,227,8.06,0,0.80
+EMApp,94,Boeuf-Entrecôte,10.07,Viandes_Poissons,Bœuf,brut,100-120 g,Kg,12 €,kg,1,7,59.50,18.40,0,17,942,227,8.06,0,1
+EMApp,95,Boeuf-Steak haché surgelé 15 % MG,10.01,Surgelés,Surgelé viande,surgelé,120 g,Kg,5.42 €,kg,1,10.20,110,18.70,1,13.60,830,199,5.88,0,0.80
+EMApp,96,Boeuf-Steak haché 20% MG,10.07,Viandes_Poissons,Bœuf,brut,120 g,Kg,6.50 €,kg,1,11,64.50,16.80,0,24.20,1180,285,9.79,0,1
+EMApp,97,Boeuf-Steak haché 15% MG,10.07,Viandes_Poissons,Bœuf,brut,120 g,Kg,6.50 €,kg,1,10.20,110,18.70,0,13.60,830,199,5.88,0,1
+EMApp,98,Boeuf-Steak haché 10% MG,10.07,Viandes_Poissons,Bœuf,brut,120 g,Kg,5.60 €,kg,1,8.50,65.50,20.60,0,9.60,705,169,3.67,0,1
+EMApp,99,Boeuf-Steak haché 5% MG,10.07,Viandes_Poissons,Bœuf,brut,120 g,Kg,6.50 €,kg,1,7,58,19.60,0,4.69,507,121,1.64,0,1
+EMApp,100,Boeuf-Hampe,10.07,Viandes_Poissons,Bœuf,brut,120-140 g,Kg,6.50 €,kg,1,0,0,18.00,0,8.62,625,150,3.91,0,1
+EMApp,101,Boeuf-Faux filet,10.07,Viandes_Poissons,Bœuf,brut,100-120 g,Kg,9.50 €,kg,1,0,62.50,21.60,0,3.37,492,117,1.55,0,1
+EMApp,102,Boeuf-Faux filet,10.07,Viandes_Poissons,Bœuf,brut,120-140 g,Kg,9.50 €,kg,1,0,62.50,21.60,0,3.37,492,117,1.55,0,0.80
+EMApp,103,Boeuf-Bavette,10.07,Viandes_Poissons,Bœuf,brut,120-140 g,Kg,8.25 €,kg,1,0,0,18.30,0,3.27,432,103,1.45,0,1
+EMApp,104,Boeuf-Joue (sauté),10.07,Viandes_Poissons,Bœuf,brut,60-80 g,Poche,8.25 €,kg,1,0,0,22.30,0,5,561,134,44.20,0,1
+EMApp,105,Boeuf-Bavette,10.07,Viandes_Poissons,Bœuf,brut,100-120 g,Kg,8.25 €,kg,1,0,0,18.30,0,3.27,432,103,1.45,0,1
+EMApp,106,Boeuf-Joue (sauté),10.07,Viandes_Poissons,Bœuf,brut,40-60 g,Poche,8.25 €,kg,1,0,0,22.30,0,5,561,134,44.20,0,1
+EMApp,107,Boeuf-Joue (pad),10.07,Viandes_Poissons,Bœuf,brut,,Poche,8.25 €,kg,1,0,0,22.30,0,5,561,134,44.20,0,1
+EMApp,108,Boeuf-Collier (sauté),10.07,Viandes_Poissons,Bœuf,brut,60-80 g,Poche,6.68 €,kg,1,0,0,33.00,0,5.80,776,184,1.97,0,1
+EMApp,109,Boeuf-Collier (sauté),10.07,Viandes_Poissons,Bœuf,brut,40-60 g,Poche,6.68 €,kg,1,0,0,33.00,0,5.80,776,184,1.97,0,1
+EMApp,110,Fromage-Roquefort,10.12,BOF,Fromages affinés à pâte persillée,brut,portion,pièce,0.38 €,piece,0.020,601,1560,19.10,1.78,32.10,1550,375,18.40,0.10,1
+EMApp,111,Boeuf-Paleron (pad),10.07,Viandes_Poissons,Bœuf,brut,,Poche,5.15 €,kg,1,0,0,20.01,0,6.53,583,139,2.59,0,1
+EMApp,112,Boeuf-Paleron (sauté),10.07,Viandes_Poissons,Bœuf,brut,60-80 g,Poche,6.68 €,kg,1,0,0,20.01,0,6.53,583,139,2.59,0,1
+EMApp,113,riz soufflé grillé,10.14,Epicerie,Epicerie,déshydraté,,,8 €,kg,1,0,0,0.07,0.09,0,1628,384,0,0.01,1
+EMApp,114,Chocolat au lait,10.14,Epicerie,Epicerie,déshydraté,,kg,4 €,kg,1,0,0.19,0.00,0.05,0.04,2399,576,0.02,0,1
+EMApp,115,Veau - viande hachée fraîche,10.07,Viandes_Poissons,Veau,brut,,,13.50 €,kg,1,0,0.19,18.50,0.50,13,804,192,0.20,0.50,1
+EMApp,116,Courge spaghetti,10.10,Fruits_et_légumes,Légumes,brut,,,0 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.01,0.60,0.80
+EMApp,117,Cacahuète sans sel,10.14,Epicerie,Epicerie,déshydraté,,kg,3.63 €,kg,1,47.40,0,27.30,9.73,47.40,2540,613,0,0,1
+EMApp,118,Caramel liquide,10.14,Epicerie,Epicerie,déshydraté,,litre,6.90 €,litre,1,0,0.01,0.50,79,0.50,1300,320,0,79,1
+EMApp,119,Veau-Epaule (émincé),10.07,Viandes_Poissons,Veau,brut,,Kg,7.90 €,kg,1,10,51,18.50,0.10,4.63,486,116,2.16,0,0.90
+EMApp,120,Préparation déshydratée pour milk drink,10.14,Epicerie,Epicerie,,Chocolat,boîte,38 €,kg,1,0,72,2.50,91,2.90,1722,406,1.80,61,1
+EMApp,121,Crudimix,10.14,Epicerie,Epicerie,déshydraté,,pot,10 €,kg,1,0,0,1.00,91,1,387,1641,0.10,7,1
+EMApp,122,Gîte,10.07,Viandes_Poissons,Bœuf,brut,,Kg,7.90 €,kg,1,0,0,20.10,0,6.53,583,139,2.59,0,0.80
+EMApp,123,Farine de riz,10.14,Epicerie,Epicerie,déshydraté,,kg,0 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,124,Cuisse de canette,10.07,Viandes_Poissons,Volaille,brut,,kg,4.90 €,kg,1,6.78,155,23.30,0,11.20,810,194,3.36,0,0.60
+EMApp,125,Sucre de canne brun,10.14,Epicerie,Epicerie,déshydraté,,kg,1.74 €,kg,1,134,0,1.90,96.70,0,1650,387,0,96,1
+EMApp,126,Cardamome,10.14,Epicerie,Epicerie,déshydraté,,,0 €,kg,1,383,18,10.76,68.47,6.70,1810.86,433.22,0.01,0,1
+EMApp,127,Oeuf poudre - Jaune,10.14,Epicerie,Epicerie,déshydraté,,Boite,29.75 €,kg,1,26,17,30.00,2.50,59,2876,688,0,0,1
+EMApp,128,Dinde-Sot ly laisse,10.07,Viandes_Poissons,Volaille,brut,,Kg,5.50 €,kg,1,11,87.50,28.50,0,1.44,538,127,0.48,0,0.80
+EMApp,129,Fromage frais kg,10.12,BOF,Fromages ultrafrais,brut,,Kg,6.90 €,kg,1,85,610,15.00,3,13.30,801,191,8.40,3,1
+EMApp,130,Biscuit sec petit beurre,10.14,Epicerie,Epicerie,déshydraté,,Kg,7.50 €,kg,1,46.70,371,8.20,72.50,12.70,1850,440,7.86,21.60,1
+EMApp,131,Maïs à éclater,10.14,Epicerie,Epicerie,déshydraté,,,3.50 €,kg,1,0,0.02,11.00,62,4.70,1530,364,0,0,1
+EMApp,132,Muesli aux fruits,10.14,Epicerie,Epicerie,déshydraté,,sachet,7.50 €,kg,1,60,237,9.00,69.40,5.28,1580,374,1.71,24,1
+EMApp,133,Thé à la menthe,10.14,Epicerie,Epicerie,déshydraté,,kg,5.15 €,kg,1,104,2.52,0.50,0.50,0,0,16.72,0,0,1
+EMApp,134,Crozets au sarrasin,10.14,Epicerie,Epicerie,déshydraté,,sac,6.47 €,kg,1,0,0,13.00,68,3,1488,351,0,0,1
+EMApp,135,Crozets nature,10.14,Epicerie,Epicerie,déshydraté,,sac,5 €,kg,1,0,0,13.00,70,3,1522,359,0,0,1
+EMApp,136,Cannelle,10.14,Epicerie,Epicerie,déshydraté,poudre,boite,7 €,kg,1,1000,10,3.87,27.50,1.22,1000,243,0.44,2.17,1
+EMApp,137,Pommes dauphines,10.04,Surgelés,Surgelé légume,surgelé,,colis,2.39 €,kg,1,0,1.20,3.70,26.10,15.90,1117,268,0,0,1
+EMApp,138,Tomate,10.09,Fruits_et_légumes,Légumes,cru sous vide,cubes,,5.90 €,kg,1,13,3.15,0.70,6,0.10,117,28,0.05,1.68,1
+EMApp,139,Fromage de chèvre,10.12,BOF,Fromages affinés à pâte molle,brut,buchette,pièce,2.80 €,kg,1,107,511,19.30,1.50,24.10,1270,305,16.60,0.80,1
+EMApp,140,Poisson-Filet,10.08,Viandes_Poissons,Poisson,brut,,Kg,9.90 €,kg,1,11.20,47,19.90,0,11.30,756,181,2.32,0,1
+EMApp,141,Butternut,10.10,Fruits_et_légumes,Légumes,brut,,caisse,2.80 €,kg,1,48,4,1.00,4.03,0.10,105,25,0.02,2.20,0.80
+EMApp,142,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,1 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,143,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cru sous vide,Quartier,Kg,1.33 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,144,Bière blonde,10.14,Epicerie,Epicerie,brut,,bouteille,2.35 €,litre,1,8,4.44,0.37,1.65,0,135,32.30,0,1.65,1
+EMApp,145,Lait protéine uht,10.12,BOF,Laits,brut,,brique,2.50 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,146,Surimi,10.08,Viandes_Poissons,Crustacés et mollusques,brut,Miette,sachet,5.20 €,kg,1,17.10,670,8.65,11.80,2.15,427,101,0.29,0,1
+EMApp,147,Poulet-Filet (Entier),10.07,Viandes_Poissons,Volaille,brut,,Kg,6.80 €,kg,1,13.60,415,26.20,0.35,1.76,511,121,0.59,0,1
+EMApp,148,Sauté de canard ss os avec peau,10.07,Viandes_Poissons,Volaille,brut,sauté,sachet,7.89 €,kg,1,6.78,155,23.30,0,11.20,810,194,3.36,0,1
+EMApp,149,Haricot rouge,10.14,Epicerie,Epicerie,déshydraté,,sac,3.99 €,kg,1,42.90,161,8.58,14.40,0.52,469,111,0.08,3.80,1
+EMApp,150,Boeuf-Paleron (sauté),10.07,Viandes_Poissons,Bœuf,brut,40-60 g,Poche,6.68 €,kg,1,0,0,20.01,0,6.53,583,139,2.59,0,1
+EMApp,151,Coq ss os ss ailes,10.07,Viandes_Poissons,Volaille,cru sous vide,Découpe de coq,poche,5.65 €,kg,1,0,0,22.00,0,5.59,578.13,138.31,1.71,0,0.90
+EMApp,152,Haricot plat coupé,10.03,Surgelés,Surgelé légume,surgelé,,Sachet,5.76 €,kg,1,0,0.03,1.40,3.50,0.20,100,26,0,0,1
+EMApp,153,Segment d'agrumes,10.09,Fruits_et_légumes,Fruits,cru sous vide,segment,Seau,3.80 €,kg,1,0,3,0.80,9,0.20,181,44,0.05,8.30,1
+EMApp,154,Pintade,10.07,Viandes_Poissons,Volaille,brut,cuisse,Kg,5 €,kg,1,12,73,23.30,0,5.59,630.30,150.80,1.71,0,0.90
+EMApp,155,Mogette,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.85 €,kg,1,55.20,77.50,8.42,13.60,0.30,437,104,0.09,0.76,1
+EMApp,156,Tandoori,10.14,Epicerie,Epicerie,déshydraté,,pot,17.77 €,kg,1,0,5.64,9.60,27.30,9.70,1200,288,0,0,1
+EMApp,157,Speculoos haché,10.14,Epicerie,Epicerie,déshydraté,,Sachet,5.45 €,kg,1,0,0.31,5.40,68.10,22,2080,496,0,0,1
+EMApp,158,Poulet-Entier (PAC),10.07,Viandes_Poissons,Volaille,brut,1.1kg,Kg,3.95 €,kg,1,15,103,26.00,0,9.57,796,190,0,0,0.70
+EMApp,159,Quatre épices,10.14,Epicerie,Epicerie,déshydraté,,Pot,33 €,kg,1,0,0.07,5.80,28.70,5.10,780,180,0,0,1
+EMApp,160,Dinde-Cuisse (émincé),10.07,Viandes_Poissons,Volaille,brut,20-40g,Kg,6.20 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.40,0,1
+EMApp,161,Pintade,10.07,Viandes_Poissons,Volaille,brut,PAC,Kg,4.65 €,kg,1,12,73,23.30,0,6.40,630.30,150.80,1.71,0,0.60
+EMApp,162,Poulet-Suprême,10.07,Viandes_Poissons,Volaille,brut,100-120g,colis,10.50 €,kg,1,13.60,415,26.20,0.35,1.76,511,121,0.59,0,1
+EMApp,163,Porc-Filet (côte),10.07,Viandes_Poissons,Porc,cru sous vide,140-160 g,kg,4.10 €,kg,1,7.60,63.60,18.60,0,10.60,725,174,3.81,0,1
+EMApp,164,Brocolis,10.10,Fruits_et_légumes,Légumes,brut,frais,colis,2.90 €,kg,1,55.80,53,2.10,2.82,0.51,120,28.70,0.12,1.39,0.80
+EMApp,165,Gousse de vanille,10.14,Epicerie,Epicerie,déshydraté,,Gousse,3 €,piece,0.003,11,9,0.06,16.65,0,1203.84,288,0,0,1
+EMApp,166,Poudre de lait 1/2 écrémé,10.14,Epicerie,Epicerie,déshydraté,,boite,3.40 €,kg,1,1030,347,28.50,43.90,14.60,1780,423,9.70,43.90,1
+EMApp,167,Poudre de lait entier,10.14,Epicerie,Epicerie,déshydraté,,boite,3.40 €,kg,1,965,365,27.70,36.20,26.40,2060,493,16.50,36.20,1
+EMApp,168,Poudre de lait écrémé,10.14,Epicerie,Epicerie,déshydraté,,boite,3.40 €,kg,1,1230,422,35.80,51.80,0.75,1520,357,0.50,51.80,1
+EMApp,169,Ciboulette,10.03,Surgelés,Surgelé légume,surgelé,hachée,sachet 125g,3.05 €,kg,1,69.50,12.30,2.30,4.45,0.43,145,34.40,0,0,1
+EMApp,170,Beurre de cacao,10.14,Epicerie,Epicerie,déshydraté,kg,kg,12.90 €,kg,1,0,0,0.01,0.01,100,3700,900,63,0,1
+EMApp,171,Farine de Sarrazin,10.14,Epicerie,Epicerie,déshydraté,,kg,1.20 €,kg,1,23.80,6,9.11,70.50,2.24,1470,347,0.41,1.50,1
+EMApp,172,Fond pizza sce tomate cuisinée gastronomes,10.04,Surgelés,Surgelé entrée,surgelé,,830gr x8,4.69 €,kg,1,22.80,439,4.80,35.30,3.30,805,190,0,0,1
+EMApp,173,Pintade,10.07,Viandes_Poissons,Volaille,brut,suprême,Kg,5 €,kg,1,12,73,23.30,0,6.40,630.30,150.80,1.71,0,0.90
+EMApp,174,Eau de rose,10.14,Epicerie,Epicerie,,Liquide,Litre,48 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,175,Biscuit sec sablé,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.17 €,piece,0.025,26.20,313,7.55,64.80,21.50,2040,486,12.20,24.50,1
+EMApp,176,Sirop de lavande,10.10,Epicerie,Epicerie,,Liquide,Litre,9.90 €,litre,1,4,0,0.10,61.90,0.10,1070,251,0,60,1
+EMApp,177,Melon vert,10.10,Fruits_et_légumes,Fruits,brut,,unité,1.80 €,kg,1,11.40,11.40,0.71,6.49,0.15,136,32,0.05,5.94,0.60
+EMApp,178,Riz spécial risotto,10.14,Epicerie,Epicerie,déshydraté,,kg,0.76 €,kg,1,11.10,38.60,7.27,77.75,3.60,1595,377,1.40,0.12,1
+EMApp,179,Sucre poudre vanillé,10.14,Epicerie,Epicerie,déshydraté,,,19.80 €,piece,0.008,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,180,Asperge verte,10.10,Fruits_et_légumes,Légumes,brut,,Kg,5.26 €,kg,1,20,8.50,2.68,3.18,0.32,125,30,0.07,0.81,0.80
+EMApp,181,Romarin,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,6 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,182,Cerfeuil,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,42 €,kg,1,272,10,3.30,6.47,0.57,203,48.20,0,0,1
+EMApp,183,Riz thai,10.14,Epicerie,Epicerie,déshydraté,,kg,0.80 €,kg,1,11.10,38.60,7.27,77.75,3.50,1595,377,1.40,0.12,1
+EMApp,184,Porc-Filet mignon,10.07,Viandes_Poissons,Porc,brut,,kg,7.50 €,kg,1,8.99,43.80,21.20,0,4.09,512,122,1.49,0,1
+EMApp,185,Bouillon de boeuf,10.14,Epicerie,Epicerie,déshydraté,,boite,8.99 €,kg,1,1,222,0.70,0.10,0.40,28.40,6.80,0.06,0,1
+EMApp,186,Agneau-Boulette,10.01,Surgelés,Surgelé viande,surgelé,,Colis,4.90 €,kg,1,0,720,13.80,2,18,930,221,6,0,1
+EMApp,187,Polenta de maïs,10.14,Epicerie,Epicerie,brut,,kg,5 €,kg,1,8.90,3,3.50,33,0.77,655,154,0.10,0,1
+EMApp,188,Colombo,10.14,Epicerie,Epicerie,déshydraté,,kg,102 €,kg,1,521,0,12.00,37.10,8.32,1360,327,0,0,1
+EMApp,189,Biscuit sec (cuillère ou boudoir),10.14,Epicerie,Epicerie,déshydraté,,Kg,29.60 €,kg,1,26.80,110,8.16,80.30,3.71,1640,388,0.72,55,1
+EMApp,190,Crème dessert portion,10.12,BOF,Crèmes et spécialités à base de crème,brut,pot vanille,piece,0.18 €,piece,0.125,117,53.30,3.64,19.30,4,538,128,1.98,15.40,1
+EMApp,191,Crème dessert portion,10.12,BOF,Crèmes et spécialités à base de crème,brut,pot chocolat,piece,0.18 €,piece,0.125,117,75.30,3.21,19.50,5.07,591,140,1.52,16.30,1
+EMApp,192,Yaourt nature,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,lait entier,colis,0.28 €,piece,0.125,128,49.90,4.12,3.54,2.57,239,56.90,1.61,3.54,1
+EMApp,193,Patate douce,10.10,Fruits_et_légumes,Légumes,brut,,Colis,4.50 €,kg,1,32.50,31.50,1.69,16.30,0.15,334,79.10,0.03,6.11,0.85
+EMApp,194,Citronnelle,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,botte,1.50 €,piece,0.100,65,0,1.82,25.31,0.49,414,99,0,0,0.95
+EMApp,195,Boeuf-Viande hachée 10 %MG,10.07,Viandes_Poissons,Bœuf,cru sous vide,,kg,6.30 €,kg,1,8.50,65.50,20.60,0,9.60,705,169,3.67,0,1
+EMApp,196,Fromage-Tomme fraîche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,,sous vide,11.90 €,kg,1,600,697,23.00,1,27,1440,350,0,0,1
+EMApp,197,Matière grasse végétale oméga 3 et 6,10.12,BOF,Margarines et matières grasses composées,brut,,Bidon,10.50 €,kg,1,4.30,114,0.10,0.30,57.20,2120,516,12.80,0,1
+EMApp,198,Fromage fondu,10.12,BOF,Fromages fondus,brut,,,7.50 €,kg,1,576,737,10.20,6.50,22.50,1150,277,13.90,6.50,1
+EMApp,199,Huile de tournesol,10.14,Epicerie,Epicerie,,Liquide,litre,2.10 €,litre,1,2.57,1.11,0.00,0,100,3700,900,10.40,0,1
+EMApp,200,Oignons blancs,10.03,Surgelés,Surgelé légume,surgelé,ciselé,sachet 2.5kg,1.70 €,kg,1,31,39,1.00,9.10,0.20,193,46,0.05,2.20,1
+EMApp,201,Veau-Osso bucco,10.07,Viandes_Poissons,Veau,cru sous vide,,kg,9.37 €,kg,1,0,0,21.30,0,2.60,435,104,36.20,0,0.60
+EMApp,202,Crème liquide végétale,10.12,BOF,Crèmes et spécialités à base de crème,,,litre,2.85 €,litre,1,0,0.03,2.50,4,31,1300,310,28,3,1
+EMApp,203,Eau,,Epicerie,Epicerie,déshydraté,LIQUIDE,Litre,0 €,litre,1,7.13,2.40,0.00,0,0,0,0,0,0,1
+EMApp,204,Agneau-Emincé,10.07,Viandes_Poissons,Agneau,brut,,Kg,8.35 €,kg,1,0,0,16.00,0,16.70,880.30,210.60,7.44,0,1
+EMApp,205,Porc-Echine (côte),10.07,Viandes_Poissons,Porc,cru sous vide,120-140 g,kg,5.99 €,kg,1,0,58.50,28.00,0,15.30,1042,250,5.34,0,0.90
+EMApp,206,Boeuf-Viande hachée 15%MG,10.01,Surgelés,Surgelé viande,surgelé,,Kg,5.99 €,kg,1,10.20,110,18.70,0,13.60,830,199,5.88,0,1
+EMApp,207,Lait de coco,10.14,Epicerie,Epicerie,,Liquide,Litre,2.90 €,litre,1,0,0,2.02,6.33,17.60,795,192,15.70,1.80,1
+EMApp,208,Chocolat blanc,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.90 €,kg,1,262,55,8.00,57.70,32,2300,551,0,57.10,1
+EMApp,209,Amandes hachées,10.14,Epicerie,Epicerie,déshydraté,,kg,6.57 €,kg,1,248,1.61,25.40,1.50,53.40,2620,634,4.04,1.08,1
+EMApp,210,Bâtonnet chocolat noir,10.14,Epicerie,Epicerie,déshydraté,,paquet,22.28 €,kg,1,130,19.10,4.90,54.90,30.20,2190,526,18.10,40.40,1
+EMApp,211,Oeuf blanc liquide,10.12,BOF,Oeufs et dérivés,brut,bidon,Litre,2.40 €,litre,1,6.67,155,10.30,0.71,0.18,194,45.70,0,0.71,1
+EMApp,212,Sauce chili,10.14,Epicerie,Epicerie,appertisé,Liquide,Litre,5.60 €,litre,1,0,2643,0.50,1.80,0.40,45.98,11,0,0,1
+EMApp,213,Boeuf-Langue,10.07,Viandes_Poissons,Bœuf,cru sous vide,,Poche,9.90 €,kg,1,0,75.30,16.80,0,13.80,802,192,43.60,0,1
+EMApp,214,Cocktail de fruits de mer,10.02,Surgelés,Surgelé poisson,surgelé,,kg,3.70 €,kg,1,70,183,13.50,2.20,1,302,72,0,0,1
+EMApp,215,Yaourt soja,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,pot,colis,0.32 €,piece,0.125,60.20,35.10,4.27,2.59,2.68,216,51.60,0.45,1.50,1
+EMApp,216,Yaourt nature,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,12 écremé,colis,0.10 €,piece,0.125,117,42.60,3.28,4.80,1.53,193,45.80,0.90,4.80,1
+EMApp,217,Yaourt nature,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,12 écrémé seau,seau,1.50 €,kg,1,117,42.60,3.28,4.80,1.53,193,45.80,0.90,4.80,1
+EMApp,218,Yaourt bulgare,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,pot,piece,0.23 €,piece,0.125,133,59.40,3.80,4.26,6.90,404,97,0,0,1
+EMApp,219,Yaourt au fruit,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,entier,piece,0.18 €,piece,0.125,115,44.90,3.51,15.20,2.81,436,103,1.86,12.70,1
+EMApp,220,Yaourt au fruit,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,1/2 écrèmé,piece,0.16 €,piece,0.125,114,58.30,4.30,14.60,1.71,401,94.80,0.86,14.60,1
+EMApp,221,Vinaigrette,10.14,Epicerie,Epicerie,,Liquide,Litre,1.89 €,litre,1,14.20,382,0.00,0.10,52.50,1940,473,5.86,0,1
+EMApp,222,Vinaigre de xeres,10.14,Epicerie,Epicerie,,Liquide,Litre,5.26 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,223,Vinaigre de vin,10.14,Epicerie,Epicerie,,Liquide,Litre,0.56 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,224,Vinaigre de riz,10.14,Epicerie,Epicerie,,Liquide,Litre,3.61 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,225,Vinaigre de framboise,10.14,Epicerie,Epicerie,,Liquide,Litre,2.56 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,226,Vinaigre de cidre,10.14,Epicerie,Epicerie,,Liquide,Litre,1.77 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,227,Vinaigre d'alcool blanc 6°,10.14,Epicerie,Epicerie,,Liquide,Litre,0.36 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,228,Vinaigre balsamique,10.14,Epicerie,Epicerie,,Liquide,Litre,3.49 €,litre,1,7,7.67,0.13,0.68,0.15,98,22.80,0,0.32,1
+EMApp,229,Vin rouge cuisine,10.14,Epicerie,Epicerie,,Liquide,Litre,1.17 €,litre,1,5.42,1.01,0.06,4.02,0,326,78.20,0,0.48,1
+EMApp,230,Vin blanc cuisine,10.14,Epicerie,Epicerie,,Liquide,Litre,1.22 €,litre,1,5.64,1.70,0.08,3.86,0,322,77.30,0,0.53,1
+EMApp,231,Verveine,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,4.03 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,232,Vermicelle multicolore,10.14,Epicerie,Epicerie,,,kg,3.14 €,kg,1,0,0,1.00,80,13.50,1880,449,1.50,77,1
+EMApp,233,Fromage-Vacherin mont d'Or,10.12,BOF,Fromages affinés à pâte molle,brut,entier,piece,11.01 €,kg,1,700,450,17.60,0.67,24,1200,289,15.50,0,1
+EMApp,234,Turbot,10.08,Viandes_Poissons,Poisson,brut,,Kg,28.30 €,kg,1,62,9,22.70,0,3.50,515,122,0.86,0,0.50
+EMApp,235,Truite,10.08,Viandes_Poissons,Poisson,brut,,Kg,9.20 €,kg,1,0,52.60,19.00,0,5,508,121,1.03,0,0.50
+EMApp,236,Porc-Travers,10.07,Viandes_Poissons,Porc,brut,,Kg,5.70 €,kg,1,8.28,55.01,23.10,0,26.60,1380,332,10.90,0,0.70
+EMApp,237,Tourteau. cuit,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,2.50 €,kg,1,15,402,19.30,0.50,5.38,536,128,0.70,0,0.20
+EMApp,238,Tortis,10.14,Epicerie,Epicerie,déshydraté,,kg,1.18 €,kg,1,17,115,12.12,74.25,1.87,1602,377,0.25,1.17,1
+EMApp,239,Torsades,10.14,Epicerie,Epicerie,déshydraté,,kg,0.99 €,kg,1,17,115,12.12,74.20,1.87,1602,377,0.25,1.17,1
+EMApp,240,Topinambour,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.15 €,kg,1,32.90,35.90,2.00,12.80,0.70,300,71,0,9.60,0.60
+EMApp,241,Fromage-Tomme noire,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,carton,0.23 €,piece,0.025,869,697,28.60,0.20,25.60,1430,345,15.90,0,1
+EMApp,242,Fromage-Tomme de Savoie,10.12,BOF,Fromages affinés à pâte ferme,brut,entière,piece,11.18 €,kg,1,626,807,22.60,0.23,30.10,1500,363,19.10,0,1
+EMApp,243,Fromage-Tomme blanche,10.12,BOF,Fromages affinés à pâte ferme,brut,entière,piece,4.35 €,kg,1,869,697,28.60,0.20,25.60,1430,345,15.90,0,1
+EMApp,244,Fromage-Tomme blanche,10.12,BOF,Fromages affinés à pâte ferme,brut,prédecoupé,colis,6.41 €,kg,1,869,697,28.60,0.20,25.60,1430,345,15.90,0,1
+EMApp,245,Fromage-Tomme pyrénnée,10.12,BOF,Fromages affinés à pâte ferme,brut,entiere,carton,5.84 €,kg,1,626,807,22.60,0.23,30.10,1500,363,19.10,0,1
+EMApp,246,Fromage-Tomme pyrénnée,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,,0.25 €,piece,0.025,626,807,22.60,0.23,30.10,1500,363,19.10,0,1
+EMApp,247,Tomate pelée concassée,10.14,Epicerie,Epicerie,appertisé,,kg,0.56 €,kg,1,19.90,239,1.40,7.54,0.40,199,47.10,0.09,3.64,1
+EMApp,248,Tomate confite,10.09,Fruits_et_légumes,Légumes,cuit sous vide,,Kg,7.88 €,kg,1,0,0,5.00,23,14,995,238,0,0,1
+EMApp,249,Tomate cerise,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.04 €,kg,1,11,13,0.80,5,0.80,124,29,0.02,3,0.90
+EMApp,250,Tomate,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1 €,kg,1,8.24,3.29,0.80,1.72,0.26,69,16,0.05,1.68,0.90
+EMApp,251,Tilapia du Nil,10.08,Viandes_Poissons,Poisson,brut,,Kg,3.90 €,kg,1,0,42.60,17.00,0,2,363,86,0.10,0,0.50
+EMApp,252,Thym,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,47.50 €,kg,1,1260,36.70,6.07,41.70,4.94,1220,291,0,0,1
+EMApp,253,Thym,10.14,Epicerie,Epicerie,déshydraté,,kg,39.50 €,kg,1,1260,36.70,6.07,41.70,4.94,1220,291,2.73,1.71,1
+EMApp,254,Thon naturel,10.14,Epicerie,Epicerie,appertisé,poche,kg,10.70 €,kg,1,1.50,283,26.40,0,1.04,487,115,0.37,0,1
+EMApp,255,Thon naturel,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,13.43 €,kg,1,1.50,283,26.40,0,1.04,487,115,0.37,0,1
+EMApp,256,Thé,10.14,Epicerie,Epicerie,déshydraté,,kg,5.15 €,kg,1,0,0,0.10,0,0,1.67,0.40,0,0,1
+EMApp,257,Terrine de poisson,10.14,Epicerie,Epicerie,appertisé,,kg,8.12 €,kg,1,31,405,10.00,5.50,21.10,1040,252,2.15,1.50,1
+EMApp,258,Terrine de canard,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,8.50 €,kg,1,40.40,615,15.20,3.53,26.10,1280,310,9.78,0,1
+EMApp,259,Tartelette sablée,10.14,Epicerie,Epicerie,déshydraté,8 cm,Unité,0.21 €,piece,0.025,0,0,5.00,50.30,24.20,1863,446,0,0,1
+EMApp,260,Tartelette sablée,10.14,Epicerie,Epicerie,déshydraté,11 cm,Unité,0.28 €,piece,0.030,0,0,5.00,50.30,24.20,1863,446,0,0,1
+EMApp,261,Tarte fond 28 cm,10.14,Epicerie,Epicerie,déshydraté,,Unité,2.40 €,piece,0.300,0,0,5.00,50.30,24.20,1863,446,0,0,1
+EMApp,262,Tarte aux pommes,10.06,Surgelés,Surgelé pâtisserie,surgelé,75g indivi,unité,0.34 €,piece,0.075,14.60,139,17.50,27.20,7.10,1024,243,0,0,1
+EMApp,263,Tagliatelle,10.14,Epicerie,Epicerie,déshydraté,,kg,2.35 €,kg,1,17,115,12.12,74.20,1.87,1602,377,0.25,1.17,1
+EMApp,264,Tabasco,10.14,Epicerie,Epicerie,,,Flacon,32 €,litre,1,0,0,1.90,0.80,0.76,50,12,0,0,1
+EMApp,265,Surimi,10.14,Epicerie,Epicerie,appertisé,,Kg,6.50 €,kg,1,17,670,8.65,11.80,2.15,427,101,0.29,0,1
+EMApp,266,Sucre semoule,10.14,Epicerie,Epicerie,déshydraté,,kg,0.97 €,kg,1,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,267,Sucre poudre,10.14,Epicerie,Epicerie,déshydraté,,kg,0.98 €,kg,1,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,268,Sucre morceau n° 4,10.14,Epicerie,Epicerie,déshydraté,,kg,0.96 €,kg,1,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,269,Sucre glace,10.14,Epicerie,Epicerie,déshydraté,,kg,1.08 €,kg,1,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,270,Sucre dose semoule,10.14,Epicerie,Epicerie,déshydraté,,kg,2.13 €,kg,1,4,2.17,0.00,99.60,0,1690,398,0,99,1
+EMApp,271,Fromage-Ste-Maure,10.12,BOF,Fromages affinés à pâte molle,brut,buche 250g,kg,24.68 €,kg,1,151,1040,21.80,1.15,28.20,1460,351,18.50,0.87,1
+EMApp,272,Boeuf-Steak haché 5% MG,10.01,Surgelés,Surgelé viande,surgelé,100 g,Kg,6.50 €,kg,1,7,58,19.60,0,4.69,507,121,1.64,0,1
+EMApp,273,Boeuf-Steak haché 20% MG,10.01,Surgelés,Surgelé viande,surgelé,100 g,Kg,6.50 €,kg,1,11,64.50,16.80,0,24.20,1180,285,9.79,0,1
+EMApp,274,Boeuf-Steak haché 10% MG,10.01,Surgelés,Surgelé viande,surgelé,100 g,Kg,5.60 €,kg,1,8.50,65.50,20.60,0,9.60,705,169,3.67,0,1
+EMApp,275,Boeuf-Steak haché surgelé 15 % MG,10.01,Surgelés,Surgelé viande,surgelé,100 g,Kg,5.42 €,kg,1,10.20,110,18.70,1,13.60,830,199,5.88,0,0.80
+EMApp,276,Steak de thon,10.08,Viandes_Poissons,Poisson,brut,,Kg,8.40 €,kg,1,24,45.70,23.70,0,4.60,573,136,1.20,0,0.90
+EMApp,277,Veau-Steak de veau,10.01,Surgelés,Surgelé viande,surgelé,120g,Kg,4.63 €,kg,1,9.50,76.50,28.40,0,2.75,585,138,0,0,0.80
+EMApp,278,Steak de thon,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,5.45 €,kg,1,24,45.70,23.70,0,4.60,573,136,0,0,1
+EMApp,279,Steak de merlu,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,2.85 €,kg,1,9.20,80,17.60,0,2.34,386,92,0,0,1
+EMApp,280,Steak de lieu,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,4.85 €,kg,1,14.30,155,18.80,0,0.35,333,79,0,0,1
+EMApp,281,Speculos concassé,10.14,Epicerie,Epicerie,déshydraté,,kg,2.91 €,kg,1,10,255,6.50,66.20,19.80,1990,475,6.34,23.60,1
+EMApp,282,Spaghetti,10.14,Epicerie,Epicerie,déshydraté,,kg,1.18 €,kg,1,17,115,12.12,74.20,1.87,1602,377,0.25,1.17,1
+EMApp,283,Soupe de poisson,10.14,Epicerie,Epicerie,appertisé,Liquide,Litre,2.02 €,litre,1,89,424,3.60,5.69,1.89,233,55.50,0.45,1.15,1
+EMApp,284,Sole,10.08,Viandes_Poissons,Poisson,brut,,Kg,9.99 €,kg,1,96,117,20.30,0,1.50,400,95,0.01,0,0.50
+EMApp,285,Sirop de menthe,10.14,Epicerie,Epicerie,,Liquide,Litre,1.22 €,litre,1,4,2.39,0.12,61.90,0.05,1070,251,0,58.90,1
+EMApp,286,Sésame,10.14,Epicerie,Epicerie,déshydraté,,kg,4.40 €,kg,1,962,2.31,17.70,20.90,56.40,2660,644,7.60,0.45,1
+EMApp,287,Semoule moyenne,10.14,Epicerie,Epicerie,déshydraté,,kg,0.78 €,kg,1,15,123,9.47,89.20,1.92,1792,422,0.07,0.25,1
+EMApp,288,Semoule de blé fine,10.14,Epicerie,Epicerie,déshydraté,,kg,0.94 €,kg,1,15,123,9.47,89.20,1.92,1792,422,0.07,0.25,1
+EMApp,289,Sel blanc gros,10.14,Epicerie,Epicerie,déshydraté,,kg,0.24 €,kg,1,13,39000,0.00,0,0,0,0,0,0,1
+EMApp,290,Sel blanc fin,10.14,Epicerie,Epicerie,déshydraté,,kg,0.76 €,kg,1,13.30,39100,0.00,0,0,0,0,0,0,1
+EMApp,291,Seiche crue,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,4.50 €,kg,1,59,370,16.10,0.70,0.70,312,74,0.20,0,0.60
+EMApp,292,Scarole,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,4.97 €,kg,1,65.50,16,1.40,0.95,0.25,74,18,0.05,0.70,1
+EMApp,293,Scarole,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,3.97 €,kg,1,65.50,16,1.40,0.95,0.25,74,18,0.05,0.70,1
+EMApp,294,Scarole,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3 €,kg,1,65.50,16,1.40,0.95,0.25,74,18,0.05,0.70,0.50
+EMApp,295,Veau-Epaule (sauté),10.07,Viandes_Poissons,Veau,brut,40-60 g,Kg,8.49 €,kg,1,10,0,18.50,0,4.63,486,116,2.16,0,1
+EMApp,296,Porc-Epaule(sauté),10.07,Viandes_Poissons,Porc,brut,40-60 gr,Kg,3.87 €,kg,1,10,67,30.00,0,14.30,1060,253,5.56,0,1
+EMApp,297,saute de dinde ss os ss peau,10.07,Viandes_Poissons,Volaille,brut,20-40g,Kg,3.60 €,kg,1,11,87.50,28.50,0,1.44,538,127,0.50,0,0.80
+EMApp,298,Agneau-Sauté (épaule),10.07,Viandes_Poissons,Agneau,brut,40-60 g,Kg,12.45 €,kg,1,0,0,21.00,0,12,803,192,6.14,0,1
+EMApp,299,Poisson-Saumonette,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,4.55 €,kg,1,0,0,17.50,0,11.70,736,176,0,0,0.80
+EMApp,300,Saumon fumé,10.08,Viandes_Poissons,Poisson,brut,,Kg,18.68 €,kg,1,8.34,1440,21.80,0,9.10,708,169,2.45,0,0.80
+EMApp,301,Poisson-Saumon ss peau ss aretes Pavé,10.02,Surgelés,Surgelé poisson,surgelé,100-120g,Kg,9.90 €,kg,1,11.20,47,19.90,0,11.30,756,181,0,0,0.90
+EMApp,302,Poisson-Saumon (Darne),10.02,Surgelés,Surgelé poisson,surgelé,120g,Kg,5.99 €,kg,1,11.20,47,19.90,0,11.30,756,181,0,0,0.80
+EMApp,303,Filet de saumon ss peau ss aretes,10.08,Viandes_Poissons,Poisson,brut,,Kg,9.90 €,kg,1,11.20,47,19.90,0,11.30,756,181,2.32,0,1
+EMApp,304,Saucisson sec pur porc,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,7.20 €,kg,1,22.20,1980,26.20,0.10,32.90,1660,401,12.40,0,1
+EMApp,305,Saucisson à l'ail,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,2.31 €,kg,1,9,1300,14.60,0.70,25,1190,287,8.92,0,1
+EMApp,306,Saucisse fumée,10.07,Viandes_Poissons,Charcuterie,brut,,kg,5.32 €,kg,1,18.30,921,12.00,0.20,28.20,1283,307,8.56,0,1
+EMApp,307,Saucisse de Toulouse,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4.60 €,kg,1,11.50,686,18.80,1,25.70,1290,312,9.44,0,1
+EMApp,308,Saucisse de Strasbourg,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.35 €,kg,1,25,834,12.50,1,25.90,1190,287,9.18,0,1
+EMApp,309,Saucisse de Morteau,10.07,Viandes_Poissons,Charcuterie,brut,,kg,15.90 €,kg,1,8.40,809,15.20,0,30.20,1380,334,11.70,0,1
+EMApp,310,Saucisse de Monbéliard,10.07,Viandes_Poissons,Charcuterie,brut,,kg,13.52 €,kg,1,29.90,931,15.70,0.70,28.80,1340,325,11.50,0,1
+EMApp,311,Saucisse de Francfort,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,7.20 €,kg,1,31.50,974,12.10,1.15,26.70,1210,294,9.87,0,1
+EMApp,312,Saucisse cocktail,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.50 €,kg,1,33.70,828,12.70,1.35,27,1240,300,10.20,0,1
+EMApp,313,Saucisse alsacienne fumée ou Gendarme,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,7.80 €,kg,1,18.30,1100,21.00,3.31,28.20,1460,351,8.56,0,1
+EMApp,314,Sauce soja,10.14,Epicerie,Epicerie,,liquide,kg,0.24 €,litre,1,27.30,6260,4.75,6.30,0,186,44,0,5.96,1
+EMApp,315,Sauce Pizza,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,2.32 €,kg,1,22.80,668,1.80,11.60,3.80,310,73.70,0.20,2.46,1
+EMApp,316,Sauce nuoc,10.14,Epicerie,Epicerie,,Liquide,Litre,11.84 €,litre,1,0,8860,9.30,10.90,0,345,81.50,0,8.34,1
+EMApp,317,Sauce anglaise,10.14,Epicerie,Epicerie,,Liquide,Litre,8.25 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,318,Sardine à l'huile,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,9.35 €,kg,1,613,341,26.40,0,12.90,926,222,3.33,0,1
+EMApp,319,Sardine,10.08,Viandes_Poissons,Poisson,brut,,Kg,3.50 €,kg,1,130,140,30.00,0,10.40,895,214,3.12,0,0.50
+EMApp,320,Salsifis,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,6.90 €,kg,1,21,385,1.50,3.66,0.30,119,28.30,0.09,1.30,1
+EMApp,321,Salsifis,10.03,Surgelés,Surgelé légume,surgelé,,kg,1.76 €,kg,1,16,47,2.00,5.50,0.20,135,32,0,0,1
+EMApp,322,Salami,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,11.50 €,kg,1,19.20,1720,18.10,1.23,45,1990,482,16.90,0,1
+EMApp,323,Salade de fruits frais,10.09,Fruits_et_légumes,Fruits,brut,,Kg,5.62 €,kg,1,14.50,1.47,0.73,18.30,0.33,354,84,0.04,17.10,1
+EMApp,324,Fromage-Saint Nectaire,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,carton,0.23 €,piece,0.025,519,328,24.40,0.23,26.90,1420,341,17.50,0,1
+EMApp,325,Fromage-Saint nectaire,10.12,BOF,Fromages affinés à pâte ferme,brut,entier,piece,6.23 €,kg,1,519,328,24.40,0.23,26.90,1420,341,17.50,0,1
+EMApp,326,Fromage-Saint marcellin,10.12,BOF,Fromages affinés à pâte molle,brut,piece,piece,3.28 €,kg,1,107,1520,12.70,1.01,25.40,1170,284,16.40,0,1
+EMApp,327,Saint Jacques,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,17.71 €,kg,1,176,191,17.00,0.90,1.30,354,84,0,0,0.60
+EMApp,328,Safran liquide,10.14,Epicerie,Epicerie,,Liquide,Litre,24.23 €,litre,1,111,148,11.43,65.37,5.85,1298,310,1.58,0,1
+EMApp,329,Rutabaga,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.15 €,kg,1,50,0,1.20,7,0.10,142,34,0.01,2.19,0.70
+EMApp,330,Roussette,10.08,Viandes_Poissons,Poisson,brut,,Kg,6.50 €,kg,1,0,0,25.40,0,0.29,443,104,0.07,0,0.50
+EMApp,331,Boeuf-Rôti (aloyau),10.07,Viandes_Poissons,Bœuf,brut,,Kg,8.25 €,kg,1,10,153,26.40,0,3.78,583.60,139.62,0.94,0,0.80
+EMApp,332,Rosette,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,10 €,kg,1,44,1560,24.90,2,32.70,1670,402,11.30,0,1
+EMApp,333,Roquette,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,3.40 €,kg,1,160,0,2.60,3.70,0.60,105,25,0.07,0,1
+EMApp,334,Roquette,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,3.40 €,kg,1,160,0,2.60,3.70,0.60,105,25,0.07,0,1
+EMApp,335,Roquette,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.85 €,kg,1,160,0,2.60,3.70,0.60,105,25,0.07,0,0.50
+EMApp,336,Fromage-Roquefort,10.12,BOF,Fromages affinés à pâte persillée,brut,bloc,pièce,20.72 €,kg,1,601,1560,19.10,1.78,32.10,1550,375,18.40,0.10,1
+EMApp,337,Fromage-Roquefort,10.12,BOF,Fromages affinés à pâte persillée,brut,des,barquette,5.49 €,kg,1,601,1560,19.10,1.78,32.10,1550,375,18.40,0.10,1
+EMApp,338,Porc-Rognon,10.07,Viandes_Poissons,Porc,brut,,Kg,4.19 €,kg,1,8,190,16.40,0,3,387,92.60,0.80,0,1
+EMApp,339,Boeuf-Rognon,10.07,Viandes_Poissons,Bœuf,brut,,Kg,2.90 €,kg,1,10.20,198,15.30,0.85,2.65,373,88.50,0.50,0.80,1
+EMApp,340,Agneau-Rognon,10.07,Viandes_Poissons,Agneau,brut,,Kg,11.90 €,kg,1,15.50,210,24.10,0,5,593,141,1.66,0,1
+EMApp,341,Fromage-Rocamadour,10.12,BOF,Fromages affinés à pâte molle,brut,entier,piece,1.01 €,piece,0.065,98.90,368,23.20,0.90,23.20,1290,310,15.30,0,1
+EMApp,342,Riz complet,10.14,Epicerie,Epicerie,déshydraté,,Kg,1.25 €,kg,1,11.10,4.10,7.02,71.40,2.80,1480,350,0.61,0.66,1
+EMApp,343,Riz rond,10.14,Epicerie,Epicerie,déshydraté,,kg,0.95 €,kg,1,11.10,38.60,7.27,77.75,3.50,1595,377,1.40,0.12,2.50
+EMApp,344,Riz long étuvé,10.14,Epicerie,Epicerie,déshydraté,,kg,0.80 €,kg,1,101,5.08,7.11,78.60,0.98,1510,356,0.21,0.40,1
+EMApp,345,Riz d'or,10.14,Epicerie,Epicerie,déshydraté,,Pot,90 €,kg,1,0,0,9.10,27.70,8.90,950,227,0,0,1
+EMApp,346,Rillettes pur porc,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.90 €,kg,1,20,474,14.20,0.10,39.20,1690,410,13.30,0.10,1
+EMApp,347,"Rillettes autres (volaille, thon…)",10.07,Viandes_Poissons,Charcuterie,brut,,Kg,15.80 €,kg,1,11.20,450,15.10,0.12,40.30,1750,424,15.40,0,1
+EMApp,348,Rillette de thon,10.14,Epicerie,Epicerie,déshydraté,,kg,12 €,kg,1,18,409,15.60,1.70,17.10,927,223,2.20,1.70,1
+EMApp,349,Fromage-Ricotta,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,pot,pot,6.11 €,kg,1,215,118,11.50,3.75,10.50,670,161,6.99,3.75,1
+EMApp,350,Rhum dénaturé,10.14,Epicerie,Epicerie,,Liquide,Litre,1.89 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,351,Rhubarbe,10.10,Fruits_et_légumes,Fruits,brut,,Kg,8.75 €,kg,1,86,3,0.50,1,0.10,30.50,7.30,0,0,0.50
+EMApp,352,Reine-Claude,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière denoyautée,Kg,1.60 €,kg,1,5.30,0.75,0.80,9.60,0.28,206,49,0.04,9.60,1
+EMApp,353,Reine-Claude,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière,Kg,1.60 €,kg,1,5.30,0.75,0.80,9.60,0.28,206,49,0.05,9.60,0.80
+EMApp,354,Reine-Claude,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.60 €,kg,1,5.30,0.75,0.80,9.60,0.28,206,49,0.05,9.60,0.80
+EMApp,355,Fromage-Reblochon,10.12,BOF,Fromages affinés à pâte molle,brut,entier,piece,7.65 €,kg,1,493,477,20.80,0.09,27.60,1380,332,16.90,0,1
+EMApp,356,Raz el hanout,10.14,Epicerie,Epicerie,déshydraté,,kg,3.98 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,357,Raviolis,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,11.20 €,kg,1,21,454,3.00,13.50,3.17,409,97.40,0.93,2.57,1
+EMApp,358,Ratatouille,10.03,Surgelés,Surgelé légume,surgelé,cuisiné,Kg,2.34 €,kg,1,16.80,418,1.20,6.20,5.40,326,78,0,0,1
+EMApp,359,Ratatouille,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,10.50 €,kg,1,16.80,418,1.20,4.77,4.98,299,72.10,0.69,0,1
+EMApp,360,Rascasse,10.08,Viandes_Poissons,Poisson,brut,,Kg,18.60 €,kg,1,61,0,19.00,0,1.64,384,91,0.40,0,0.50
+EMApp,361,Raisin sec,10.14,Epicerie,Epicerie,déshydraté,,kg,2.14 €,kg,1,63.80,19.70,2.99,66.40,0.57,1290,303,0.20,59.20,1
+EMApp,362,Raisin noir,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.85 €,kg,1,8.98,0.29,0.50,12.10,0.25,264,62.10,0.08,12.10,0.60
+EMApp,363,Raisin blanc,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.05 €,kg,1,10.10,1.07,0.60,16.10,0.16,297,70,0.05,16.10,0.60
+EMApp,364,Raifort,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,7.90 €,kg,1,86.60,113,3.96,9.54,0.53,292,70,0,0,1
+EMApp,365,Raie,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,3.39 €,kg,1,50,161,18.90,0,0.50,340,80,0,0,0.80
+EMApp,366,Raie,10.08,Viandes_Poissons,Poisson,brut,,Kg,15.90 €,kg,1,50,150,18.90,0,0.50,340,80,0.14,0,0.50
+EMApp,367,Radis noir,10.09,Fruits_et_légumes,Légumes,cru sous vide,rapé,Kg,3.65 €,kg,1,53.80,8.60,2.80,0.60,0.10,75,18,0,0,1
+EMApp,368,Radis noir,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.52 €,kg,1,53.80,8.60,2.80,0.60,0.10,75,18,0,0,0.80
+EMApp,369,Radis,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,4 €,kg,1,30.60,22.10,0.76,1.77,0.10,55,13,0.03,1.77,1
+EMApp,370,Radis,10.09,Fruits_et_légumes,Légumes,cru sous vide,equeuté,Kg,4 €,kg,1,30.60,22.10,0.76,1.77,0.10,55,13,0.03,1.77,1
+EMApp,371,Radis,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,4.65 €,kg,1,30.60,22.10,0.76,1.77,0.10,55,13,0.03,1.77,1
+EMApp,372,Radis,10.10,Fruits_et_légumes,Légumes,brut,equeuté,Kg,4.65 €,kg,1,30.60,22.10,0.76,1.77,0.10,55,13,0.03,1.77,1
+EMApp,373,Radis,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.52 €,kg,1,30.60,22.10,0.76,1.77,0.10,55,13,0.03,1.77,0.60
+EMApp,374,Fromage-Raclette,10.12,BOF,Fromages affinés à pâte ferme,brut,tranche,paquet 400g,3.10 €,kg,1,661,603,25.00,0.69,29.60,1530,369,20.20,0,1
+EMApp,375,Fromage-Raclette,10.12,BOF,Fromages affinés à pâte ferme,brut,entiere,kg,4.20 €,kg,1,661,603,25.00,0.69,29.60,1530,369,20.20,0,1
+EMApp,376,Quinoa,10.14,Epicerie,Epicerie,déshydraté,,kg,3.53 €,kg,1,0,20,12.50,63.70,5.50,1500,358,0.90,0,1
+EMApp,377,Quiche lorraine,10.06,Surgelés,Surgelé entrée,surgelé,bande,unité,2.56 €,kg,1,106,495,8.70,22.80,14.40,1068,256,0,0,1
+EMApp,378,Quiche individuelle,10.04,Surgelés,Surgelé entrée,surgelé,individuelle,unité,0.53 €,piece,0.065,106,495,8.70,22.80,14.40,1068,256,0,0,1
+EMApp,379,Quenelle de volaille. appertisée,10.04,Epicerie,Epicerie,appertisé,,Kg,5.30 €,kg,1,35.40,913,6.80,9.93,13,770,185,5.34,0,1
+EMApp,380,Quenelle de veau au naturel. appertisée,10.04,Epicerie,Epicerie,appertisé,,Kg,5 €,kg,1,22.40,501,4.90,9.33,15.70,828,199,6.04,0,1
+EMApp,381,Purée PdT déshydratée,10.14,Epicerie,Epicerie,déshydraté,,kg,3 €,kg,1,73,155,10.90,65.80,3.02,1480,350,1.84,3.24,1
+EMApp,382,Purée granulé salé à chaud,10.14,Epicerie,Epicerie,déshydraté,,kg,2.84 €,kg,1,73,155,10.90,65.80,3.02,1480,350,1.84,3.24,1
+EMApp,383,Purée granulé complète,10.14,Epicerie,Epicerie,déshydraté,,kg,5.22 €,kg,1,73,155,10.90,65.80,3.02,1480,350,1.84,3.24,1
+EMApp,384,Pruneau,10.14,Epicerie,Epicerie,déshydraté,denoyauté,Kg,5.40 €,kg,1,47.90,4.33,2.36,52.30,3.30,1070,253,0.07,37.90,1
+EMApp,385,Pruneau,10.14,Epicerie,Epicerie,déshydraté,,Kg,5.40 €,kg,1,47.90,4.33,2.36,52.30,3.30,1070,253,0.07,37.90,0.70
+EMApp,386,Pruneau,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,5.40 €,kg,1,47.90,4.33,2.36,52.30,0.71,1040,244,0.07,37.90,0.80
+EMApp,387,Prune,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière denoyautée,Kg,7.85 €,kg,1,13,1,0.80,12,0.10,217,52,0.02,12,1
+EMApp,388,Prune,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière,Kg,5.67 €,kg,1,13,1,0.80,12,0.10,217,52,0.02,12,0.70
+EMApp,389,Prune reine claude,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.05 €,kg,1,13,1,0.80,12,0.10,217,52,0.02,12,0.70
+EMApp,390,Printanière de légume,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.89 €,kg,1,0,0,2.60,9.10,0.10,203,48,0,0,0.90
+EMApp,391,Préparation pour génoise,10.14,Epicerie,Epicerie,déshydraté,,kg,2.35 €,kg,1,0,0,5.70,53.10,13,1488,354,0,40,1
+EMApp,392,Préparation bavarois poire,10.14,Epicerie,Epicerie,déshydraté,,kg,16.11 €,kg,1,0,0,4.10,32.50,12.10,1071,256,0,25,1
+EMApp,393,Préparation bavarois passion,10.14,Epicerie,Epicerie,déshydraté,,kg,17.11 €,kg,1,0,0,4.10,32.50,12.10,1071,256,0,25,1
+EMApp,394,Préparation bavarois framboise,10.14,Epicerie,Epicerie,déshydraté,,kg,16.22 €,kg,1,0,0,4.10,32.50,12.10,1071,256,0,25,1
+EMApp,395,Préparation bavarois ananas,10.14,Epicerie,Epicerie,déshydraté,,kg,13.23 €,kg,1,0,0,4.10,32.50,12.10,1071,256,0,25,1
+EMApp,396,Pralin,10.14,Epicerie,Epicerie,déshydraté,,kg,9.45 €,kg,1,0,100,8.10,58.70,29.40,2221,530,2.20,52,1
+EMApp,397,Pousse d'epinard,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.66 €,kg,1,0,0,2.00,1.60,0.50,88,21,0.06,0.25,1
+EMApp,398,Pousse de soja,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,4.60 €,kg,1,41,226,1.60,3.50,0.22,119,28.40,0.01,0.40,1
+EMApp,399,Pousse de soja,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.51 €,kg,1,44.20,24.70,3.81,5.16,0.52,181,43,0.10,3.40,1
+EMApp,400,Pousse de betterave,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.20 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,401,Poulpe cru,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,5 €,kg,1,33,136,17.90,1.45,0.90,362,86,0.25,0,0.60
+EMApp,402,Poulet-Manchons Marinés et rôtis,10.07,Viandes_Poissons,Volaille,cuit sous vide,,Kg,5.60 €,kg,1,34,674,22.40,2.10,12.60,890,213,3.16,0,0.50
+EMApp,403,Poulet-Cuisses (Déjointées),10.01,Surgelés,Surgelé viande,surgelé,160-180g,Kg,2.15 €,kg,1,14.50,103,26.00,0,9,775,185,0,0,0.50
+EMApp,404,Poule PAC,10.07,Viandes_Poissons,Volaille,brut,,Kg,7.90 €,kg,1,13,78,30.40,0,11.90,957,229,2.92,0,0.30
+EMApp,405,Poudre de réglisse,10.14,Epicerie,Epicerie,déshydraté,,Boite,2.90 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,406,Potiron,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,3.75 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.01,0.60,1
+EMApp,407,Potiron,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.65 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.06,0.60,1
+EMApp,408,Potiron,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.90 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.01,0.60,0.60
+EMApp,409,Potimarron épluché,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.65 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.01,0.60,1
+EMApp,410,Potimarron,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.40 €,kg,1,25.90,9.30,0.60,1.90,0.10,57,14,0.01,0.60,0.60
+EMApp,411,Porto dénaturé,10.12,Epicerie,Epicerie,,Liquide,Litre,4.36 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,412,Fromage-Pont l'eveque,10.12,BOF,Fromages affinés à pâte molle,brut,entier,pièce,3.29 €,kg,1,478,701,21.00,0,22.40,1190,286,14.50,0,1
+EMApp,413,Pommes rissolées,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.68 €,kg,1,12.30,243,2.70,27.40,4.25,691,164,0,0,1
+EMApp,414,Pommes frites,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.80 €,kg,1,12.40,62.40,2.10,23.50,4.20,591,140,0,0,1
+EMApp,415,Pomme en quartier,10.14,Fruits_et_légumes,Fruits,cuit sous vide,,,7.40 €,kg,1,4.44,9.80,0.32,22,0.23,398,93.70,0.02,15.90,1
+EMApp,416,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cuit sous vide,lamelle,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,417,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cuit sous vide,cube,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,418,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cuit sous vide,entière,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,419,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cru sous vide,lamelle,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,420,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cru sous vide,cube,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,421,Pomme de terre,10.09,Fruits_et_légumes,Légumes,cru sous vide,entière,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,422,Pomme de terre,10.10,Fruits_et_légumes,Légumes,brut,lamelle,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,423,Pomme de terre,10.10,Fruits_et_légumes,Légumes,brut,cube,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,424,Pomme de terre,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,2.60 €,kg,1,5,1.43,1.87,19.10,0.22,379,90,0.03,0.70,1
+EMApp,425,Pomme,10.09,Fruits_et_légumes,Fruits,cuit sous vide,cube,Kg,3.55 €,kg,1,4.44,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,426,Pomme,10.09,Fruits_et_légumes,Fruits,cuit sous vide,lamelle,Kg,3.55 €,kg,1,4.44,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,427,Pomme,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière,Kg,2.85 €,kg,1,4.44,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,428,Pomme,10.09,Fruits_et_légumes,Fruits,cru sous vide,cube,Kg,3.45 €,kg,1,5.20,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,429,Pomme,10.09,Fruits_et_légumes,Fruits,cru sous vide,lamelle,Kg,3.45 €,kg,1,5.20,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,430,Pomme,10.09,Fruits_et_légumes,Fruits,cru sous vide,entière,Kg,2.95 €,kg,1,5.20,2.01,0.31,11.30,0.16,225,53,0.04,11.30,1
+EMApp,431,Pomme,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.15 €,kg,1,5.20,2.01,0.31,11.30,0.16,225,53,0.04,11.30,0.80
+EMApp,432,Poivron vert,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,3.90 €,kg,1,11,10.70,0.80,3.08,0.30,89,21,0.06,1.93,1
+EMApp,433,Poivron vert,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.90 €,kg,1,11,10.70,0.80,3.08,0.30,89,21,0.06,1.93,1
+EMApp,434,Poivron vert,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.90 €,kg,1,11,10.70,0.80,3.08,0.30,89,21,0.06,1.93,0.80
+EMApp,435,Poivron rouge,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,3.90 €,kg,1,8.72,6.76,1.00,5.73,0.40,144,34,0.06,4.20,1
+EMApp,436,Poivron rouge,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.90 €,kg,1,8.72,6.76,1.00,5.73,0.40,144,34,0.06,4.20,1
+EMApp,437,Poivron rouge,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.60 €,kg,1,8.72,6.76,1.00,5.73,0.40,144,34,0.06,4.20,0.80
+EMApp,438,Poivron jaune,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,3.90 €,kg,1,13,2,0.90,4.20,0.30,112,27,0.03,4.20,1
+EMApp,439,Poivron jaune,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.90 €,kg,1,13,2,0.90,4.20,0.30,112,27,0.03,4.20,1
+EMApp,440,Poivron jaune,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.60 €,kg,1,13,2,0.90,4.20,0.30,112,27,0.03,4.20,0.80
+EMApp,441,Poivron,10.03,Surgelés,Surgelé légume,surgelé,lanière,Kg,1.20 €,kg,1,13,2,0.90,4.20,0.30,112,27,0.03,4.20,1
+EMApp,442,Poivre vert,10.14,Epicerie,Epicerie,appertisé,Boite 4/4,kg,2.46 €,kg,1,10,0,0.30,11.30,0.20,53,225,0,0,1
+EMApp,443,Poivre noir moulu,10.14,Epicerie,Epicerie,déshydraté,,unité,3.42 €,kg,1,430,44,11.00,44.50,3.30,1280,304,0.99,38.30,1
+EMApp,444,Poivre gris moulu,10.14,Epicerie,Epicerie,déshydraté,,kg,5.64 €,kg,1,430,44,11.00,44.50,3.30,1280,304,0.99,38.30,1
+EMApp,445,Poivre gris grains,10.14,Epicerie,Epicerie,déshydraté,,kg,5.68 €,kg,1,430,44,11.00,44.50,3.30,1280,304,0.99,38.30,1
+EMApp,446,Poivre blanc moulu,10.14,Epicerie,Epicerie,déshydraté,,kg,13.01 €,kg,1,430,44,11.00,44.50,3.30,1280,304,0.99,38.30,1
+EMApp,447,Poitrine de porc fumée crue,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,5.50 €,kg,1,0,1400,16.50,0,27.30,1290,312,8.30,0,1
+EMApp,448,Poisson pané. frit,10.08,Viandes_Poissons,Poisson,brut,,Kg,5.60 €,kg,1,24.90,354,8.60,15.30,11.30,830,199,1.89,0,1
+EMApp,449,Poisson colin lieu,10.02,Surgelés,Surgelé poisson,surgelé,cube,Kg,3.49 €,kg,1,27.70,306,15.50,0,0.20,267,64,0.06,0,1
+EMApp,450,Pois chiche,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.94 €,kg,1,41,154,8.86,21.10,1.09,588,139,0,0,1
+EMApp,451,Pois cassé,10.14,Epicerie,Epicerie,déshydraté,,kg,2.39 €,kg,1,25,135,21.25,35,2.72,1270,302,0.36,1.62,1
+EMApp,452,Poireau,10.09,Fruits_et_légumes,Légumes,cuit sous vide,entier,Kg,3.05 €,kg,1,25.30,3,0.81,3.28,0.20,103,25,0.03,2.11,1
+EMApp,453,Poireau,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,3.05 €,kg,1,25.30,11.20,0.81,3.28,0.20,103,25,0.05,3.28,1
+EMApp,454,Poireau,10.09,Fruits_et_légumes,Légumes,cru sous vide,entier,Kg,3.05 €,kg,1,25.30,11.20,0.81,3.28,0.20,103,25,0.05,3.28,1
+EMApp,455,Poireau,10.03,Surgelés,Surgelé légume,surgelé,émincé,Kg,0.69 €,kg,1,27.40,11.20,2.80,2.35,0.28,122,29,0,0,1
+EMApp,456,Poireau,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,3.05 €,kg,1,25.30,11.20,0.81,3.28,0.20,103,25,0,0,1
+EMApp,457,Poireau,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.50 €,kg,1,25.30,11.20,0.81,3.28,0.20,103,25,0.05,3.28,1
+EMApp,458,Poireau,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.80 €,kg,1,25.30,11.20,0.81,3.28,0.20,103,25,0.05,3.28,0.60
+EMApp,459,Poire belle helène,10.04,Surgelés,Surgelé dessert,surgelé,120ml,unité,0.22 €,piece,0.120,49.30,15.70,1.10,30.10,3.50,660,156,0,0,1
+EMApp,460,Poire demi fruit au sirop,10.14,Epicerie,Epicerie,appertisé,,Boite 5/1,5.90 €,kg,1,6,3.33,0.25,13.90,0.10,262,62,0,12.50,1
+EMApp,461,Poire,10.09,Fruits_et_légumes,Fruits,cuit sous vide,cube,Kg,4.85 €,kg,1,12.90,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,462,Poire,10.09,Fruits_et_légumes,Fruits,cuit sous vide,lamelle,Kg,4.85 €,kg,1,12.90,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,463,Poire,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière,Kg,4.50 €,kg,1,12.90,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,464,Poire,10.09,Fruits_et_légumes,Fruits,cru sous vide,cube,Kg,4.75 €,kg,1,7.35,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,465,Poire,10.09,Fruits_et_légumes,Fruits,cru sous vide,lamelle,Kg,4.75 €,kg,1,7.35,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,466,Poire,10.09,Fruits_et_légumes,Fruits,cru sous vide,entière,Kg,3.75 €,kg,1,7.35,1.85,0.39,10.80,0.22,224,53,0.03,10.40,1
+EMApp,467,Poire,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.75 €,kg,1,7.35,1.85,0.39,10.80,0.22,224,53,0.03,10.40,0.80
+EMApp,468,Poelee,10.03,Surgelés,Surgelé légume,surgelé,meridionale,Kg,1.37 €,kg,1,0,3,1.60,6,3.20,248,59,0,0,1
+EMApp,469,Poelee,10.03,Surgelés,Surgelé légume,surgelé,campagnarde,Kg,1.12 €,kg,1,0,3,1.60,4.40,3.20,220,53,0,0,1
+EMApp,470,Boeuf-Plat de côte,10.07,Viandes_Poissons,Bœuf,brut,,Kg,6.50 €,kg,1,0,0,17.40,0,23.70,1170,283,10.60,0,0.50
+EMApp,471,Pizza bande fromage 0.5kg,10.04,Surgelés,Surgelé entrée,surgelé,0.5kg,unité,1.16 €,piece,0.500,106,542,7.20,28.40,7.50,805,210,0,0,1
+EMApp,472,Pizza fromage 0.2 kg,10.04,Surgelés,Surgelé entrée,surgelé,0.2kg,unité,0.57 €,piece,0.200,106,542,7.20,28.40,7.50,805,210,0,0,1
+EMApp,473,extrait de Pistache,10.14,Epicerie,Epicerie,,liquide,Litre,3.89 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,474,Pistache émondée,10.14,Epicerie,Epicerie,déshydraté,,kg,29 €,kg,1,110,10,21.35,27.65,45.97,2391,572,5.55,7.81,1
+EMApp,475,Piment extra fin moulu,10.14,Epicerie,Epicerie,déshydraté,,kg,6.62 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,476,Piment,10.14,Epicerie,Epicerie,déshydraté,,Kg,2 €,kg,1,148,30,12.00,29.40,17.30,1560,376,3.26,10.30,1
+EMApp,477,Poulet-Pilon,10.07,Viandes_Poissons,Volaille,brut,70-90g,Kg,3.45 €,kg,1,15,103,26.00,0,9.57,796,190,2.26,0,0.30
+EMApp,478,Pignon de pin,10.14,Epicerie,Epicerie,déshydraté,,kg,25.29 €,kg,1,6.20,9,13.70,5.58,65.40,2870,695,4.63,3.59,1
+EMApp,479,Petit suisse,10.12,BOF,Fromages ultrafrais,brut,nature 40%MG,colis,0.15 €,piece,0.060,111,31,9.40,3.30,10.10,592.30,141.70,6.40,3.30,1
+EMApp,480,Petit suisse,10.12,BOF,Fromages ultrafrais,brut,20% MG nature,colis,0.13 €,piece,0.060,117,16,9.85,3.50,5.30,433,103,3.66,3.50,1
+EMApp,481,Petit suisse,10.12,BOF,Fromages ultrafrais,brut,pot sucré,colis,0.14 €,piece,0.060,97.60,27.20,6.20,14.30,5.51,562,134,2.80,13.90,1
+EMApp,482,Petit pot parfum assorti,10.04,Surgelés,Surgelé dessert,surgelé,90g,unité,0.13 €,piece,0.090,115,56.10,2.90,25.10,10.60,873,209,0,0,0.90
+EMApp,483,Petit pois très fin,10.14,Epicerie,Epicerie,appertisé,,kg,1.16 €,kg,1,23.90,259,5.36,12.70,0.40,368,87.30,0.14,1.77,1
+EMApp,484,Petit pois très fin,10.03,Surgelés,Surgelé légume,surgelé,,kg,1.15 €,kg,1,33.50,167,6.50,13.50,0.20,347,82,0,0,0.90
+EMApp,485,Persil,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,10 €,kg,1,190,90.70,3.00,4.57,0.84,194,47,0,0,0.50
+EMApp,486,Perche,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,5.15 €,kg,1,73,57.50,24.70,0,3.42,546,130,0,0,0.90
+EMApp,487,Perche,10.08,Viandes_Poissons,Poisson,brut,,Kg,5.49 €,kg,1,73,38.30,24.70,0,3.42,546,130,0,0.15,0.50
+EMApp,488,Penne Rigate,10.14,Epicerie,Epicerie,déshydraté,,,3.51 €,kg,1,17,115,12.12,74.25,1.87,1602,377,0.25,1.17,1
+EMApp,489,Pêche melba,10.04,Surgelés,Surgelé dessert,surgelé,120ml,unité,0.22 €,piece,0.120,62.30,25.10,1.60,29.80,5.80,748,178,0,0,1
+EMApp,490,Pêche au sirop,10.14,Epicerie,Epicerie,appertisé,,Kg,1.54 €,kg,1,4,3.33,0.35,17.60,0.05,319,75,0.01,15,1
+EMApp,491,Pêche,10.09,Fruits_et_légumes,Fruits,cuit sous vide,oreillon,Kg,1.80 €,kg,1,6.10,2.22,0.70,11.30,0.25,225,53,0.02,11.30,1
+EMApp,492,Pêche,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.80 €,kg,1,6.10,2.22,0.70,11.30,0.25,225,53,0.02,11.30,0.90
+EMApp,493,Dinde-Pavé (filet),10.07,Viandes_Poissons,Volaille,brut,120-140g,Kg,6.30 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.40,0,0.90
+EMApp,494,Paupiette du pêcheur,10.04,Surgelés,Surgelé poisson,surgelé,125g,Kg,4.46 €,kg,1,0,0,12.00,5,6,511,122,0,0,1
+EMApp,495,Veau-Paupiette surgelé,10.01,Surgelés,Surgelé viande,surgelé,140g,Kg,3.12 €,kg,1,27.60,1860,16.00,3.60,15,959,228,0,0,0.80
+EMApp,496,Veau-Paupiette surgelé,10.01,Surgelés,Surgelé viande,surgelé,100g,Kg,3.21 €,kg,1,27.60,1860,16.00,3.60,15,959,228,0,0,0.80
+EMApp,497,Paupiette de volaille,10.07,Surgelés,Surgelé viande,brut,,Kg,5.50 €,kg,1,27.60,719,14.40,9.47,7.58,696,166,0.79,0,0.80
+EMApp,498,Pâte multicolore,10.14,Epicerie,Epicerie,déshydraté,,kg,2.39 €,kg,1,17,115,12.12,74.25,1.87,1602,377,0.25,1.17,2
+EMApp,499,Fromage-Pate fraiche ail et fh,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,portion,kg,0.15 €,piece,0.025,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,500,Fromage-Pate fraiche ail et fh,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,cuisine,Kg,8.35 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,501,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,4 poivres,barquette,4.49 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,502,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,portion,barquette,0.11 €,piece,0.025,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,503,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,nature,barquette,4.05 €,kg,1,100,550,7.86,2,42,1740,423,27.10,2,1
+EMApp,504,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,curry,barquette,4.55 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,505,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,bacon,barquette,4.85 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,506,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,raifort,barquette,4.55 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,507,Fromage-Pate fraiche,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,olive noire,barquette,4.55 €,kg,1,94.80,504,7.86,3.44,36.70,1570,381,22.60,3.44,1
+EMApp,508,Pâte feuilletée,10.06,Surgelés,Surgelé pâtisserie,surgelé,2.8mm,unité,3.65 €,piece,0.714,90,627,5.30,32.70,26.30,1616,388,0,0,1
+EMApp,509,Pâté en croûte,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,14 €,kg,1,19.70,662,12.10,18.70,17.90,1190,285,8.58,0,1
+EMApp,510,Pâté de lapin,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,16.50 €,kg,1,12.50,341,14.80,2,23,1140,274,6.54,0,1
+EMApp,511,Pâté de foie de volaille,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,14.90 €,kg,1,10,386,11.90,6,18,970,234,4,0,1
+EMApp,512,Pâté de foie de porc,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,8.50 €,kg,1,28.20,660,10.60,2.30,32.70,1430,346,11.90,0,1
+EMApp,513,Pâté de campagne,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,13.90 €,kg,1,26.10,1190,14.70,3.47,28.90,1380,333,10.40,0,1
+EMApp,514,Pâte à lasagne,10.14,Epicerie,Epicerie,déshydraté,,kg,0.99 €,kg,1,17,115,12.12,47.25,1.87,1602,377,0.25,1.17,1
+EMApp,515,Pâte tagliatelle,10.14,Epicerie,Epicerie,déshydraté,,kg,3.72 €,kg,1,17,115,12.12,74.25,1.87,1602,377,0.25,1.17,1
+EMApp,516,Pastèque,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.75 €,kg,1,0.77,0.29,0.60,7.28,0.08,144,34,0.01,6.29,0.60
+EMApp,517,Fromage-Parmesan bloc,10.12,BOF,Fromages affinés à pâte dure,brut,bloc,kg,16.39 €,kg,1,1200,1090,39.40,1.87,30.90,1840,441,18.80,0.40,1
+EMApp,518,Fromage-Parmesan,10.12,BOF,Fromages affinés à pâte dure,brut,rapé,kg,20.07 €,kg,1,1200,1090,39.40,1.87,30.90,1840,441,18.80,0.40,1
+EMApp,519,Fromage-Parmesan,10.12,BOF,Fromages affinés à pâte dure,brut,copeau,kg,22 €,kg,1,1200,1090,39.40,1.87,30.90,1840,441,18.80,0.40,1
+EMApp,520,Paprika,10.14,Epicerie,Epicerie,déshydraté,,Kg,5.29 €,kg,1,0,0,14.80,55.70,12.90,1208,289,0,0,1
+EMApp,521,Papaye,10.10,Fruits_et_légumes,Fruits,brut,,Kg,4.70 €,kg,1,22.50,5.67,0.56,7.81,0.22,183,43,0.06,7.81,0.60
+EMApp,522,Panais,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,4.38 €,kg,1,57,0,1.70,16,0.40,309,74,0,0,1
+EMApp,523,Panais,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.25 €,kg,1,57,0,1.70,16,0.40,309,74,0,0,0.80
+EMApp,524,Pamplemousse,10.10,Fruits_et_légumes,Fruits,brut,,unité,0.48 €,piece,0.400,23.30,2.65,0.80,6.20,0.10,152,36,0.03,6.20,0.60
+EMApp,525,Agneau-Palette,10.07,Viandes_Poissons,Agneau,brut,,Kg,9.60 €,kg,1,0,0,21.00,0,12,803,192,6.39,0,0.80
+EMApp,526,Palet au chocolat,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.89 €,kg,1,26.20,313,7.55,64.80,21.50,2040,486,12.20,24.50,1
+EMApp,527,Paleron,10.07,Viandes_Poissons,Bœuf,brut,,Kg,8.90 €,kg,1,0,0,20.10,0,6.53,583,139,2.59,0,0.80
+EMApp,528,Pain hamburger,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.16 €,piece,0.055,231,498,9.81,40.90,5.98,1100,260,2.56,5.36,1
+EMApp,529,Pain d'épice,10.14,Epicerie,Epicerie,déshydraté,,Unité,6 €,kg,1,4,162,2.98,71.70,2.39,1380,326,0.23,44.90,1
+EMApp,530,Pain de mie,10.14,Epicerie,Epicerie,déshydraté,,Unité,1.50 €,kg,1,115,498,8.20,49.20,4.70,1190,281,1.14,5.36,1
+EMApp,531,Pain de campagne,10.14,Epicerie,Epicerie,déshydraté,,Unité,4.80 €,kg,1,39.20,525,7.54,52.30,0.95,1090,258,0.27,1.80,1
+EMApp,532,Pain de 4 livres,10.14,Epicerie,Epicerie,déshydraté,,kg,2.10 €,kg,1,39.20,525,7.54,52.30,0.95,1090,258,0.27,1.80,1
+EMApp,533,Pain a kebab,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.25 €,piece,0.110,53,530,8.33,53.40,1.25,1110,261,0,0,1
+EMApp,534,Oseille,10.10,Fruits_et_légumes,Légumes,brut,epluchée,botte,7.30 €,kg,1,44,4,2.00,0.30,0.70,88,21,0,0,1
+EMApp,535,Origan,10.14,Epicerie,Epicerie,déshydraté,,Boite,24 €,kg,1,416,0,8.70,55.80,10.90,1510,358,0,0,1
+EMApp,536,Orange,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.02 €,kg,1,39,4.87,0.96,8.32,0.26,197,47,0.05,8.32,0.60
+EMApp,537,Omelette,10.12,BOF,Oeufs et dérivés,cuit sous vide,individuelle,kg,3.80 €,piece,0.450,80.20,166,13.70,0.89,15.30,816,196,4.93,0.31,1
+EMApp,538,Olive verte dénoyautée,10.14,Epicerie,Epicerie,appertisé,Boite 4/4,Boite 4/4,2.80 €,kg,1,36,1680,1.02,1.32,13.90,595,145,1.99,0,0.60
+EMApp,539,Olive noire dénoyautée boite,10.14,Epicerie,Epicerie,appertisé,Boite 4/4,Boite 4/4,1.05 €,kg,1,58.40,886,0.92,1.71,14,663,162,1.42,0,0.60
+EMApp,540,Olive noire boite,10.14,Epicerie,Epicerie,appertisé,Boite 4/4,Boite 4/4,0.95 €,kg,1,58.40,886,0.92,1.71,14,663,162,1.42,0,0.80
+EMApp,541,Oignons,10.03,Surgelés,Surgelé légume,surgelé,emincé,Kg,0.83 €,kg,1,31,39,1.25,7.37,0.58,182,43,0,0,1
+EMApp,542,Oignons,10.03,Surgelés,Surgelé légume,surgelé,grelot,Kg,1.40 €,kg,1,22,39,1.20,4.90,0.30,115,27,0,0,1
+EMApp,543,Oignon rouge,10.09,Fruits_et_légumes,Légumes,cru sous vide,entier,Kg,3.45 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,1
+EMApp,544,Oignon rouge,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,2.95 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,1
+EMApp,545,Oignon rouge,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.78 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,0.70
+EMApp,546,Oignon,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,2.11 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,1
+EMApp,547,Oignon,10.09,Fruits_et_légumes,Légumes,cru sous vide,entier,Kg,3.50 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,1
+EMApp,548,Oignon,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.50 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,1
+EMApp,549,Oignon,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.95 €,kg,1,31,39,1.25,7.37,0.59,182,43,0.04,5.35,0.70
+EMApp,550,Oie,10.07,Viandes_Poissons,Volaille,brut,,Kg,0.65 €,kg,1,12,113,29.10,0,17.50,1140,274,4.56,0,0.50
+EMApp,551,Oeuf poché,10.12,BOF,Oeufs et dérivés,cuit sous vide,alveole,alveole,7.90 €,piece,0.050,68.20,79.30,12.50,0.71,9.47,575,138,2.99,0.47,1
+EMApp,552,Oeuf poché,10.12,BOF,Oeufs et dérivés,cuit sous vide,seau,seau,6.80 €,kg,1,68.20,79.30,12.50,0.71,9.47,575,138,2.99,0.37,1
+EMApp,553,Oeuf jaune liquide,10.12,BOF,Oeufs et dérivés,brut,2 litres,litre,4.69 €,litre,1,91.60,34.50,16.00,0.50,31,1430,345,8.48,0.50,1
+EMApp,554,Oeuf frais - Entier,10.12,BOF,Oeufs et dérivés,brut,unite,carton,0.09 €,piece,0.050,68.60,128,12.30,0.70,10.30,602,145,2.74,0.68,0.90
+EMApp,555,Oeuf entier liquide,10.12,BOF,Oeufs et dérivés,brut,outre,litre,2.54 €,litre,1,68.60,128,12.30,0.70,10.30,602,145,2.74,0.68,1
+EMApp,556,Oeuf entier liquide,10.12,BOF,Oeufs et dérivés,brut,litre,litre,2.54 €,litre,1,68.60,128,12.30,0.70,10.30,602,145,2.74,0.68,1
+EMApp,557,Oeuf dur écalé,10.12,BOF,Oeufs et dérivés,brut,seau,piece,0.14 €,piece,0.050,41,124,13.70,0.52,8.62,557,134,2.85,0.52,1
+EMApp,558,Oeuf brouille,10.12,BOF,Oeufs et dérivés,cuit sous vide,poche 1 kg,kg,6.43 €,kg,1,57,224,13.80,0.87,16.20,849,204,6.59,0.87,1
+EMApp,559,Nugget,10.04,Surgelés,Surgelé viande,surgelé,poulet,Kg,2.40 €,kg,1,16.40,676,24.80,3.41,11.50,919,220,0,0,0.80
+EMApp,560,Nougatine,10.14,Epicerie,Epicerie,déshydraté,,Kg,5.40 €,kg,1,36.70,158,6.12,71.30,15.30,1890,450,2.12,64.10,1
+EMApp,561,Noix de Pécan,10.14,Epicerie,Epicerie,déshydraté,,kg,24.56 €,kg,1,69.70,0.67,9.30,2.94,73.80,3040,739,6.77,2.64,1
+EMApp,562,Noix de coco râpée,10.14,Epicerie,Epicerie,déshydraté,,kg,2.33 €,kg,1,18.40,32.50,6.64,9.27,65,2810,683,57.10,7.35,1
+EMApp,563,Noix de cajou grillée salée,10.14,Epicerie,Epicerie,déshydraté,,kg,14.50 €,kg,1,41.80,272,19.80,21.80,49.10,2620,631,9.50,5.30,1
+EMApp,564,Veau-Noix (rôti),10.07,Viandes_Poissons,Veau,brut,,Kg,14.90 €,kg,1,0,0,19.60,0,2.57,428,102,0.80,0,0.90
+EMApp,565,Noix,10.14,Epicerie,Epicerie,déshydraté,,kg,7.17 €,kg,1,67.80,3,14.70,10.80,63.80,2880,698,5.73,3,1
+EMApp,566,Noisette décortiquée,10.14,Epicerie,Epicerie,déshydraté,,kg,14.70 €,kg,1,135,9.97,16.40,5.62,63,2820,683,5.22,3.31,1
+EMApp,567,Fromage-Neufchâtel,10.12,BOF,Fromages affinés à pâte molle,brut,entier,pièce,2.09 €,piece,0.250,117,334,9.15,3.49,22.80,1060,256,12.80,3.02,1
+EMApp,568,Nem,10.04,Surgelés,Surgelé viande,surgelé,55g,unité,0.20 €,piece,0.055,28.60,531,8.42,19,13,975,234,0,0,0.80
+EMApp,569,Nèfle du Japon,10.10,Fruits_et_légumes,Fruits,brut,,Kg,3.80 €,kg,1,16,2.67,0.41,12,0.27,235,56,0.04,12,0.50
+EMApp,570,Nectarine,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.53 €,kg,1,4.85,1.84,1.40,7.69,0.10,180,43,0.01,7.62,0.90
+EMApp,571,Navet,10.09,Fruits_et_légumes,Légumes,cru sous vide,batonnet,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,572,Navet,10.09,Fruits_et_légumes,Légumes,cru sous vide,lamelle,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.39,1
+EMApp,573,Navet,10.09,Fruits_et_légumes,Légumes,cru sous vide,cube,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,574,Navet,10.09,Fruits_et_légumes,Légumes,cru sous vide,entier,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,575,Navet,10.10,Fruits_et_légumes,Légumes,brut,batonnet,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,576,Navet,10.10,Fruits_et_légumes,Légumes,brut,lamelle,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,577,Navet,10.10,Fruits_et_légumes,Légumes,brut,cube,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0,0,1
+EMApp,578,Navet,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,2.80 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,1
+EMApp,579,Navet,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.70 €,kg,1,38.70,33.80,0.95,2.39,0.26,88,21,0.01,2.19,0.70
+EMApp,580,Agneau-Navarin (sauté),10.07,Viandes_Poissons,Agneau,brut,,Kg,9.90 €,kg,1,11,70,22.30,0,10.90,782,187,6.39,0,1
+EMApp,581,Nappage blond,10.14,Epicerie,Epicerie,déshydraté,,Kg,1.24 €,kg,1,0,0,0.00,62.50,0,1063,252,0,60,1
+EMApp,582,Myrtille,10.10,Fruits_et_légumes,Fruits,brut,,Kg,20.80 €,kg,1,10,2.33,0.65,11.60,0.24,255,60,0.02,7.92,0.90
+EMApp,583,Muscadet,10.14,Epicerie,Epicerie,,Liquide,Litre,3.14 €,litre,1,0,0,0.00,3.40,0,322,77,0,0,1
+EMApp,584,Muscade,10.14,Epicerie,Epicerie,déshydraté,,kg,8.92 €,kg,1,0,0,5.80,49.30,36.30,2195,525,0,0,1
+EMApp,585,Mûre noire,10.10,Fruits_et_légumes,Fruits,brut,,Kg,15.50 €,kg,1,37.50,6,1.37,9.70,0.20,209,49,0.01,8.10,1
+EMApp,586,Fromage-Munster,10.12,BOF,Fromages affinés à pâte molle,brut,entier,kg,7.60 €,kg,1,350,682,23.40,1.12,27,1420,341,18.70,1,1
+EMApp,587,Fromage-Mozzarella,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,pain,kg,7.01 €,kg,1,495,405,19.90,0.40,19.40,1090,261,12.30,0.40,1
+EMApp,588,Fromage-Mozzarella,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,bille,kg,11.88 €,kg,1,495,405,19.90,0.40,19.40,1090,261,12.30,0.40,1
+EMApp,589,Fromage-Mozzarella,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,cossette,kg,6.75 €,kg,1,495,405,19.90,0.40,19.40,1090,261,12.30,0.40,1
+EMApp,590,Fromage-Mozzarella,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,tranche,kg,4.22 €,kg,1,495,405,19.90,0.40,19.40,1090,261,12.30,0.40,1
+EMApp,591,Moutarde à l'ancienne,10.14,Epicerie,Epicerie,déshydraté,,kg,0.82 €,kg,1,91.20,2360,7.08,2.40,14,683,165,0.73,0.86,1
+EMApp,592,Moutarde,10.14,Epicerie,Epicerie,déshydraté,,Kg,1.48 €,kg,1,91.20,2360,7.08,2.38,14,683,165,0.73,0.86,1
+EMApp,593,Mousseux,10.14,Epicerie,Epicerie,,liquide,Litre,3.40 €,litre,1,9,1.40,0.00,0,0,300,72,0,0,1
+EMApp,594,Préparation mousse vanille,10.14,Epicerie,Epicerie,déshydraté,,kg,8.91 €,kg,1,0,51,7.00,72,17,2000,470,15,58,1
+EMApp,595,Mousse de Foie,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,2.48 €,kg,1,30.20,766,10.50,3.60,28.90,1310,3177,10.50,0,1
+EMApp,596,Préparation mousse choco blanc,10.14,Epicerie,Epicerie,déshydraté,,kg,9.37 €,kg,1,0,165,10.00,68,19,2000,490,16,58,1
+EMApp,597,Préparation mousse café,10.14,Epicerie,Epicerie,déshydraté,,kg,8.34 €,kg,1,0,165,8.00,73,13,1900,440,13,67,1
+EMApp,598,Préparation mousse au citron,10.14,Epicerie,Epicerie,déshydraté,,kg,7.43 €,kg,1,0,165,7.00,72,17,2000,470,15,58,1
+EMApp,599,Préparation mousse au chocolat,10.14,Epicerie,Epicerie,déshydraté,,kg,8.85 €,kg,1,0,51,11.00,60,14,1800,420,12,57,1
+EMApp,600,Préparation nousse au Cappuccino,10.14,Epicerie,Epicerie,déshydraté,,kg,8.34 €,kg,1,0,393,8.00,68,16,1800,430,15,63,1
+EMApp,601,Moule. cuite,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,5.70 €,kg,1,69.10,376,17.10,7.40,1.81,483,114,0.52,0,0.30
+EMApp,602,Moule,10.02,Surgelés,Surgelé poisson,surgelé,coquille,Kg,2.27 €,kg,1,69.10,376,17.10,7.40,1.81,483,114,0,0,0.60
+EMApp,603,Moule,10.02,Surgelés,Surgelé poisson,surgelé,decortiquées,Kg,2.86 €,kg,1,69.10,376,17.10,7.40,1.81,483,114,0,0,1
+EMApp,604,Mortadelle,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,9.40 €,kg,1,36.50,851,14.10,1.40,27.90,1300,314,10.30,0,1
+EMApp,605,Fromage-Morbier,10.12,BOF,Fromages affinés à pâte ferme,brut,bloc,kg,6.28 €,kg,1,760,990,23.60,3.14,26.90,1450,349,17.40,0,1
+EMApp,606,Mirepoix,10.03,Surgelés,Surgelé légume,surgelé,bordelaise,Kg,1.41 €,kg,1,0,55,1.00,8,0.20,167.20,40,0,0,1
+EMApp,607,Mirabelles au sirop,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,6.90 €,kg,1,13.70,5.70,1.00,16,0.10,296,70,0,15.40,1
+EMApp,608,Mirabelle,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière denoyautée,Kg,4.55 €,kg,1,0,0,0.72,12.40,0.20,262,62,0,12.40,1
+EMApp,609,Mirabelle,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entière,Kg,3.50 €,kg,1,0,0,0.72,12.40,0.20,262,62,0,12.40,0.90
+EMApp,610,Mirabelle,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.68 €,kg,1,0,0,0.72,12.40,0.20,262,62,0,12.40,0.90
+EMApp,611,Fromage-Mimolette,10.12,BOF,Fromages affinés à pâte ferme,brut,bloc,kg,3.63 €,kg,1,860,1110,24.90,0,25.70,1380,331,16.60,0,1
+EMApp,612,Mignonette,10.14,Epicerie,Epicerie,déshydraté,,kg,6.27 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,613,Miette de crabe,10.14,Epicerie,Epicerie,appertisé,,kg,5.09 €,kg,1,120,550,18.10,0.30,0.50,331,78.10,0.10,0,1
+EMApp,614,Miel,10.14,Epicerie,Epicerie,déshydraté,,Kg,4.02 €,kg,1,7.93,4.11,0.39,81.10,0.06,1390,327,0,79.10,1
+EMApp,615,Merlu,10.02,Surgelés,Surgelé poisson,surgelé,darne,Kg,3.11 €,kg,1,9.20,80,17.60,0,2.34,386,92,0,0,0.80
+EMApp,616,Merlu,10.02,Surgelés,Surgelé poisson,surgelé,cœur,Kg,4.79 €,kg,1,9.20,80,17.60,0,2.34,386,92,0,0,1
+EMApp,617,Filet de Merlu,10.08,Viandes_Poissons,Poisson,brut,,Kg,14.50 €,kg,1,41.80,80,21.20,0,3,471,112,0.14,0,0.50
+EMApp,618,Merlan (filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,11.60 €,kg,1,21,68,19.10,0,0.78,339,80,0.10,0,0.90
+EMApp,619,Merguez mouton et bœuf,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4.05 €,kg,1,35.90,925,19.80,0.21,22.60,1180,284,11.20,1.20,1
+EMApp,620,Menthe,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,42 €,kg,1,217,25.30,3.61,3.37,0.79,202,49,0,0,1
+EMApp,621,Melon,10.10,Fruits_et_légumes,Fruits,brut,,unité,0.60 €,piece,0.400,11.40,11.40,0.71,6.49,0.15,136,32,0.05,5.94,0.60
+EMApp,622,Mayonnaise seau,10.14,Epicerie,Epicerie,appertisé,,kg,1.32 €,kg,1,10.30,368,1.51,1.92,79.30,2990,727,16.10,1.50,1
+EMApp,623,Fromage-Mascarpone,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,pot,pot,4.26 €,kg,1,100,80,4.80,4.80,41.50,1700,412,26,4.80,1
+EMApp,624,Marron,10.14,Epicerie,Epicerie,appertisé,Boite 4/4,Boite 4/4,7 €,kg,1,21.10,52.10,2.00,26.10,1.25,562,133,0.25,3.90,1
+EMApp,625,Fromage-Maroilles,10.12,BOF,Fromages affinés à pâte molle,brut,entier,kg,8.30 €,kg,1,335,933,28.20,0.10,26.40,1460,351,17.10,0,1
+EMApp,626,Margarine,10.12,BOF,Margarines et matières grasses composées,brut,plaquette,kg,4.45 €,kg,1,3.05,170,0.05,0.20,81.60,3020,735,84.40,0,1
+EMApp,627,Maquereaux vin blanc,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,14.95 €,kg,1,123,415,18.90,0,14.50,858,206,3.15,0,1
+EMApp,628,Maquereaux moutarde,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,14.95 €,kg,1,22.90,405,16.90,1.50,15.20,875,210,3.92,1.50,1
+EMApp,629,Poisson-Maquereau (entier),10.08,Viandes_Poissons,Poisson,brut,,Kg,16.25 €,kg,1,12.80,83,23.90,0,15.80,991,238,4.64,0,0.50
+EMApp,630,Mangue,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.50 €,kg,1,12,2,0.70,13.60,0.20,269,64,0.06,13.10,0.60
+EMApp,631,Mandarine,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.42 €,kg,1,25.20,6.46,0.80,9.19,0.19,205,49,0,9.19,0.70
+EMApp,632,Fécule de maïs,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.65 €,kg,1,1.55,1.70,7.90,74,1.80,1480,350,0.22,0,1
+EMApp,633,Maïs,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,2.29 €,kg,1,5.40,235,2.90,17.80,1.40,436,103,0.16,3.54,1
+EMApp,634,Magret canard,10.07,Viandes_Poissons,Volaille,brut,,Kg,18.40 €,kg,1,5,155,26.70,0,10.90,861,206,2.85,0,0.50
+EMApp,635,Madère dénaturé,10.14,Epicerie,Epicerie,,Liquide,Litre,5.29 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,636,Boeuf-Macreuse rôti,10.07,Viandes_Poissons,Bœuf,brut,,Kg,9.50 €,kg,1,0,0,19.50,0,3.49,461,109,1.23,0,1
+EMApp,637,Mâche,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,7.60 €,kg,1,90.70,7.12,2.02,1.25,0.40,87,21,0.07,0,1
+EMApp,638,Mâche,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,7.60 €,kg,1,90.70,7.12,2.02,1.25,0.40,87,21,0.07,0,1
+EMApp,639,Mâche,10.10,Fruits_et_légumes,Légumes,brut,,Kg,4.60 €,kg,1,90.70,7.12,2.02,1.25,0.40,87,21,0.07,0,0.70
+EMApp,640,Macédoine de légumes,10.14,Epicerie,Epicerie,appertisé,,Boite 5/1,3.60 €,kg,1,35.50,358,1.90,6.70,0.80,200,47.60,0.05,2.41,1
+EMApp,641,Macaronis,10.14,Epicerie,Epicerie,déshydraté,,kg,1.18 €,kg,1,41.25,287,12.10,74.25,1.87,1582,375,0.25,1.17,1
+EMApp,642,Fromage-Maasdam,10.12,BOF,Fromages affinés à pâte ferme,brut,entier,kg,8.82 €,kg,1,495,382,26.50,0,27.30,1470,354,18.80,0,1
+EMApp,643,Lotte ou Baudroie,10.08,Viandes_Poissons,Poisson,brut,,Kg,39.80 €,kg,1,12,26,22.70,0,0.64,410,97,0.18,0,0.50
+EMApp,644,Porc-Echine (rôti),10.07,Viandes_Poissons,Porc,brut,,Kg,3.86 €,kg,1,18,0,27.30,0,13.90,1014,242,4.20,0,0.90
+EMApp,645,Lolorossa,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.88 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,1.19,0.90
+EMApp,646,Fromage-Livarot,10.12,BOF,Fromages affinés à pâte molle,brut,entier,colis,6.98 €,kg,1,654,744,22.10,4.85,20.70,1230,296,13.40,0,1
+EMApp,647,Litchi,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.85 €,kg,1,5,1,0.82,14,0.42,294,69,0.10,14,0.60
+EMApp,648,Limande (filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,13.50 €,kg,1,54.30,116,16.60,0,1.34,332,79,0.33,0,0.90
+EMApp,649,Poisson-Filet (Lieu ou colin d'Alaska),10.08,Viandes_Poissons,Poisson,brut,,Kg,5.95 €,kg,1,13.10,158,15.30,0,0.60,271,64,0.06,0,0.90
+EMApp,650,Lieu noir (filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,8.50 €,kg,1,23.90,81.80,18.20,0,1,346,82,0.14,0,0.90
+EMApp,651,Lieu,10.02,Surgelés,Surgelé poisson,surgelé,filet,Kg,5.95 €,kg,1,14.30,155,18.80,0,0.37,333,79,0,0,1
+EMApp,652,Liégeois,10.12,BOF,Desserts lactés frais ou UHT,brut,vanille pot,colis,0.19 €,piece,0.125,87.10,59.10,3.30,15.90,8.76,651,156,4.87,14,1
+EMApp,653,Liégeois,10.12,BOF,Desserts lactés frais ou UHT,brut,chocolat pot,colis,0.19 €,piece,0.125,87.10,59.10,3.30,15.90,8.76,651,156,4.87,14,1
+EMApp,654,Liégeois,10.12,BOF,Desserts lactés frais ou UHT,brut,caramel pot,colis,0.19 €,piece,0.125,87.10,59.10,3.30,15.90,8.76,651,156,4.87,14,1
+EMApp,655,Liégeois,10.12,BOF,Desserts lactés frais ou UHT,brut,café pot,colis,0.19 €,piece,0.125,87.10,59.10,3.30,15.90,8.76,651,156,4.87,14,1
+EMApp,656,Levure de boulanger,10.14,Epicerie,Epicerie,déshydraté,,Kg,0.01 €,kg,1,20,0,13.20,6,0.50,340,81,0,0,1
+EMApp,657,Levure chimique,10.14,Epicerie,Epicerie,déshydraté,,Kg,16.02 €,kg,1,130,0,48.00,23.70,5.40,1530,362,0,0,1
+EMApp,658,Lentille verte sèche,10.14,Epicerie,Epicerie,déshydraté,,kg,1.45 €,kg,1,64,5,25.10,44.50,1.80,1380,327,0.24,1.10,1
+EMApp,659,Lentille paysanne,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,8.10 €,kg,1,29,397,5.80,11.70,0.60,349,83,0.16,0.90,1
+EMApp,660,Légume couscous,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,6.60 €,kg,1,0,0,1.30,3.80,0.60,123,29,0,0,1
+EMApp,661,Legume couscous,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.79 €,kg,1,0,3,1.90,16,0.50,317,76,0,0,1
+EMApp,662,Laurier,10.14,Epicerie,Epicerie,déshydraté,,kg,42 €,kg,1,834,23,7.61,48.60,8.36,1480,353,2.28,48.60,1
+EMApp,663,Lardons natures - cru,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.60 €,kg,1,20,1230,15.40,0.40,22.50,1180,284,8.51,0,1
+EMApp,664,Lardons Fumés - cru,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.79 €,kg,1,18.20,1290,16.40,0.60,21.80,1100,266,8.25,0,1
+EMApp,665,Lapin,10.07,Viandes_Poissons,Volaille,brut,,Kg,16.60 €,kg,1,124,120,20.50,0.50,9.20,689,165,4.02,0,0.50
+EMApp,666,Langue,10.07,Viandes_Poissons,Bœuf,brut,,Kg,17.90 €,kg,1,14.50,75.30,15.10,0.40,13.80,774,186,5.19,0,0.80
+EMApp,667,Fromage-Langres,10.12,BOF,Fromages affinés à pâte molle,brut,entier,piece,5.09 €,kg,1,188,547,17.20,0.68,24.60,1220,293,15.90,0.68,1
+EMApp,668,Langouste (cuite ),10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,110 €,kg,1,63,227,26.40,3.11,1.94,573,136,0.29,0,0.30
+EMApp,669,Laitue,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,3.65 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,0.63,1
+EMApp,670,Laitue,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.88 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,0.63,0.50
+EMApp,671,Lait gelifié,10.12,BOF,Desserts lactés frais ou UHT,brut,chocolat pot,colis,0.10 €,piece,0.125,102,42.90,3.18,26,3.10,611,145,1.93,21.30,1
+EMApp,672,Lait gelifié,10.12,BOF,Desserts lactés frais ou UHT,brut,vanille pot,colis,0.10 €,piece,0.125,118,51.20,3.00,12,1.50,320,75,0.90,11,1
+EMApp,673,Lait gelifié,10.12,BOF,Desserts lactés frais ou UHT,brut,caramel pot,colis,0.10 €,piece,0.125,118,51.20,3.00,13,1.50,340,80,0.90,12,1
+EMApp,674,Lait entier,10.12,BOF,Laits,cuit sous vide,uht,litre,0.68 €,litre,1,112,42.20,3.20,4.67,3.71,271,64.90,2.30,4.20,1
+EMApp,675,Lait entier,10.12,BOF,Laits,cuit sous vide,pasteurisé,litre,0.68 €,litre,1,117,52.20,3.20,4.62,3.54,264,63.10,1.46,4.20,1
+EMApp,676,Lait demi-écrémé,10.12,BOF,Laits,brut,uht litre,litre,0.57 €,litre,1,116.90,43.10,3.30,4.83,1.53,195,46.30,0.92,4.60,1
+EMApp,677,Lait concentré sucré,10.12,BOF,Laits,cuit sous vide,sucré,boite,4.94 €,litre,1,290,85.20,7.70,55.90,8.47,1390,331,5.28,55.90,1
+EMApp,678,Lait concentré,10.12,BOF,Laits,cuit sous vide,non sucré,boite,4.88 €,litre,1,286,109,7.35,25.60,7.53,839,200,4.59,10,1
+EMApp,679,Lait écremé,10.12,BOF,Laits,cuit sous vide,uht outre,outre,0.55 €,litre,1,113,41.80,3.28,4.32,0.15,135,31.80,0.11,3.80,1
+EMApp,680,Kiwi,10.10,Fruits_et_légumes,Fruits,brut,,unité,0.25 €,piece,0.080,26.60,3.10,1.10,9.37,0.73,243,58,0.03,9.10,0.90
+EMApp,681,Ketchup,10.14,Epicerie,Epicerie,appertisé,,kg,0.89 €,kg,1,21.40,1400,2.20,26.60,0.10,505,119,0,18,1
+EMApp,682,Kaki,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.36 €,kg,1,11.30,5,0.63,13.70,0.26,285,68,0.03,13.70,0.60
+EMApp,683,Jus d'orange,10.11,Epicerie,Epicerie,,Liquide,Litre,0.72 €,litre,1,50.10,2.20,0.57,8.66,0.10,175,41.30,0.02,8.14,1
+EMApp,684,Jus de veau,10.14,Epicerie,Epicerie,déshydraté,,boite,3.80 €,kg,1,0,0,0.50,3.50,1.50,130,30,0,0,1
+EMApp,685,Jus de rôti d’agneau,10.14,Epicerie,Epicerie,déshydraté,,boite,2.17 €,kg,1,0,0,0.40,3.30,0.20,72,17,0,0,1
+EMApp,686,Jus de pommes brick,10.14,Epicerie,Epicerie,,Liquide,Litre,1.55 €,litre,1,2.42,1.55,0.10,9.90,0.10,180,42,0,9.65,1
+EMApp,687,Jus de citron vert,10.14,Epicerie,Epicerie,,Liquide,Litre,5.50 €,litre,1,12,16,0.20,1.50,0.20,104,24,0.03,1.37,1
+EMApp,688,Jus de citron,10.14,Epicerie,Epicerie,,Liquide,Litre,2.24 €,litre,1,11,21,0.40,6.10,0.29,119.60,28.60,0.04,2.40,1
+EMApp,689,Jus d' orange concentré,10.14,Epicerie,Epicerie,,Liquide,Litre,9.11 €,litre,1,8.15,1.62,0.71,8.85,0.25,180,42.40,0.05,8.21,1
+EMApp,690,Julienne de légume,10.03,Surgelés,Surgelé légume,surgelé,,Kg,1.30 €,kg,1,43,9,1.20,3,0.20,82,19,0,0,1
+EMApp,691,Julienne ss peau ss aretes filet,10.08,Viandes_Poissons,Poisson,brut,,Kg,10 €,kg,1,25,120,18.80,0,0.70,346,82,0.01,0,0.90
+EMApp,692,Julienne sspeau ss aretes,10.02,Surgelés,Surgelé poisson,surgelé,filet,Kg,4.35 €,kg,1,25,120,18.80,0,0.70,346,82,0,0,1
+EMApp,693,Joue,10.07,Viandes_Poissons,Bœuf,brut,,Kg,14 €,kg,1,0,0,20.00,0,3.56,472,112,0,1.52,0.80
+EMApp,694,Oeuf jaune liquide,10.12,BOF,Oeufs et dérivés,brut,bidon,L,4.01 €,litre,1,91.60,34.50,16.00,0.50,31,1430,345,8.48,0.50,1
+EMApp,695,Veau-Jarret,10.07,Viandes_Poissons,Veau,brut,,Kg,10.90 €,kg,1,0,90,19.00,0,3.65,458,109,1.11,0,0.50
+EMApp,696,Jardinière de légume,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.71 €,kg,1,41,30,2.57,5.23,0.03,131,31,0,0,1
+EMApp,697,Jambonneau demi sel,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,5.21 €,kg,1,0,910,20.60,1.10,6.40,606,144,1.96,0.75,1
+EMApp,698,Jambon sec,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.96 €,kg,1,16.30,2430,26.60,1.80,9.10,818,195,3.29,0.30,1
+EMApp,699,Porc - Jambon Grill fumé,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4.48 €,kg,1,0,0,22.00,0.80,4,531,127,0.45,0,1
+EMApp,700,Jambon de volaille,10.07,Viandes_Poissons,Charcuterie,brut,,kg,7.80 €,kg,1,10,730,21.40,0.50,2.14,451,107,0.72,0.46,1
+EMApp,701,Jambon de vendée,10.07,Viandes_Poissons,Charcuterie,brut,,kg,5.31 €,kg,1,0,0,25.00,0,5,606,145,0.45,0,1
+EMApp,702,Jambon cuit DD supérieur,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4.13 €,kg,1,7.20,745,20.90,0.50,3.20,479,114,1.08,0,1
+EMApp,703,Jambon cuit,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.12 €,kg,1,7.14,829,24.00,1.26,4.90,508,121,0.39,1.26,1
+EMApp,704,Huître creuse. crue,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,8 €,kg,1,74.60,580,6.36,0.80,1.50,177,42,0.33,0,1
+EMApp,705,Huile d’olive,10.14,Epicerie,Epicerie,,Liquide,Litre,3.20 €,litre,1,2.57,1.11,0.00,0,100,3700,900,11.90,0,1
+EMApp,706,Huile friture,10.14,Epicerie,Epicerie,,Liquide,Litre,2.06 €,litre,1,0,0,0.00,0,100,3700,900,92.60,0,1
+EMApp,707,Huile de noix,10.14,Epicerie,Epicerie,,Liquide,Litre,3.52 €,litre,1,0,0,0.00,0,100,3700,900,9.87,0,1
+EMApp,708,Huile colza,10.14,Epicerie,Epicerie,,Liquide,Litre,1.41 €,litre,1,5.60,5.49,0.00,0,100,3700,900,6.98,0,1
+EMApp,709,Huile arachide,10.14,Epicerie,Epicerie,,Liquide,Litre,2.74 €,litre,1,0,0,0.00,0,99.40,3680,895,16,0,1
+EMApp,710,Homard. cuit,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,30.70 €,kg,1,66.50,350,22.10,0.30,1.60,440,104,0.20,0,0.30
+EMApp,711,Hoki,10.02,Surgelés,Surgelé poisson,surgelé,pané,Kg,3.71 €,kg,1,6.50,70.80,13.80,16.50,6.90,754,182,0,0,1
+EMApp,712,Herbes de provence,10.14,Epicerie,Epicerie,déshydraté,,boite,8.64 €,kg,1,0,0,7.80,65,9.60,1581,378,0,0,1
+EMApp,713,Poulet-Haut de Cuisse,10.07,Viandes_Poissons,Volaille,brut,130-160g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,0.50
+EMApp,714,Harissa,10.14,Epicerie,Epicerie,appertisé,,boite,1.33 €,kg,1,78.10,1120,2.70,7.10,2.90,315,76,0,0,1
+EMApp,715,Haricots verts extra fins,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,3.95 €,kg,1,48.10,281,1.30,2.70,0.10,100,24,0.03,0.86,1
+EMApp,716,Haricots beurre extra fin,10.14,Epicerie,Epicerie,appertisé,Boite 51,Boite 51,7.90 €,kg,1,42.90,273,1.48,2.80,0.13,98.70,23.60,0.03,1.25,1
+EMApp,717,Haricots beurre extra fin,10.03,Surgelés,Surgelé légume,surgelé,,Kg,1.02 €,kg,1,56,8,3.00,3.10,0,104,24,0,0,1
+EMApp,718,Haricot vert,10.03,Surgelés,Surgelé légume,surgelé,extra fin,Kg,1.38 €,kg,1,56,8,1.70,4.43,0.10,134,32,0,0,1
+EMApp,719,Haricot rouge,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,2.69 €,kg,1,42.90,161,8.58,14.40,0.52,469,111,0.08,3.80,1
+EMApp,720,Haricot midnight black,10.14,Epicerie,Epicerie,déshydraté,,Kg,3 €,kg,1,68.30,405,7.26,29.50,0.49,705,150,0.08,0.29,1
+EMApp,721,Haricot blanc,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.65 €,kg,1,68.30,405,7.26,11.80,0.49,397,94.30,0.08,0.29,1
+EMApp,722,Haricot blanc,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.65 €,kg,1,55,77.50,8.40,13.60,0.30,437,104,0.10,0.76,1
+EMApp,723,Hareng,10.08,Viandes_Poissons,Poisson,brut,,Kg,2.50 €,kg,1,0,160,23.00,0,10.20,768,184,2.80,0,0.50
+EMApp,724,Boeuf-Hampe,10.07,Viandes_Poissons,Bœuf,brut,100-120 g,Kg,16.40 €,kg,1,0,0,18.00,0,8.62,625,150,3.91,0,0.80
+EMApp,725,Hamburger de veau,10.01,Surgelés,Surgelé viande,surgelé,120g,Kg,3.05 €,kg,1,0,0,16.00,0.50,15,836,201,0,0,0.80
+EMApp,726,Fromage-Gruyère,10.12,BOF,Fromages affinés à pâte dure,brut,portion,carton,0.23 €,piece,0.025,1020,361,27.20,1.40,33.40,1730,416,20.10,0.36,1
+EMApp,727,Fromage-Gruyère,10.12,BOF,Fromages affinés à pâte dure,brut,bloc,kg,13.34 €,kg,1,1020,361,27.20,1.40,33.40,1730,416,20.10,0.36,1
+EMApp,728,Groseilles,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.55 €,kg,1,36,2,1.10,6.14,0.50,232,55.40,0.13,5.39,0.80
+EMApp,729,Grenade,10.10,Fruits_et_légumes,Fruits,brut,,Kg,8.55 €,kg,1,4.33,4.33,1.06,13.60,0.56,301,71,0.08,13.60,0.80
+EMApp,730,Grand Marnier,10.14,Epicerie,Epicerie,déshydraté,,Litre,9.80 €,litre,1,0,0,0.00,0,0,318,76,0,0,1
+EMApp,731,Goyave,10.10,Fruits_et_légumes,Fruits,brut,,Kg,4.65 €,kg,1,15,0,0.70,11,0.60,217,52,0.05,9,0.80
+EMApp,732,Fromage-Gouda,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,carton,0.15 €,piece,0.025,736,747,24.00,0,29.90,1520,365,18.30,0,1
+EMApp,733,Fromage-Gouda,10.12,BOF,Fromages affinés à pâte ferme,brut,bloc,kg,8.32 €,kg,1,736,747,24.00,0,29.90,1520,365,18.30,0,1
+EMApp,734,Fromage-Gorgonzola,10.12,BOF,Fromages affinés à pâte persillée,brut,bloc,kg,12.39 €,kg,1,612,1450,19.40,0.10,31.20,1500,362,20.20,0,1
+EMApp,735,Glucose,10.14,Epicerie,Epicerie,déshydraté,,Kg,1.71 €,kg,1,0,0,0.00,100,0,1672,400,0,100,1
+EMApp,736,Clou de girofle,10.14,Epicerie,Epicerie,déshydraté,,kg,10.80 €,kg,1,632,277,5.97,31.60,13,1390,335,3.95,2.38,1
+EMApp,737,Gingembre,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,2.41 €,kg,1,114,27,8.98,57.50,4.24,1400,332,0,0,0.80
+EMApp,738,Gingembre,10.14,Epicerie,Epicerie,déshydraté,,Kg,3.36 €,kg,1,114,27,8.90,57.50,4.24,1400,332,0,0,1
+EMApp,739,Agneau-Gigot,10.07,Viandes_Poissons,Agneau,brut,,Kg,11.90 €,kg,1,10,71.30,17.80,0,6.29,535,128,2.58,0,0.50
+EMApp,740,Gésiers confits de canard,10.07,Viandes_Poissons,Volaille,brut,,Kg,5.09 €,kg,1,9,766,30.70,0,10.50,910,217,4.80,0,0.90
+EMApp,741,Génoise,10.14,Epicerie,Epicerie,déshydraté,en plaque,Unité,10.82 €,kg,1,0,0,7.90,54.10,7.40,1334,316,0,40,1
+EMApp,742,Gateau génoise,10.14,Epicerie,Epicerie,déshydraté,,Unité,10.82 €,kg,1,0,0,7.90,54.10,7.40,1334,316,0,40,1
+EMApp,743,Gelée groseille,10.14,Epicerie,Epicerie,appertisé,,kg,1.84 €,kg,1,13,0,0.60,58.60,0.20,1020,241,0,56,1
+EMApp,744,Gâteau sablé nature,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.09 €,piece,0.013,26.20,313,7.55,64.80,21.50,2040,486,12.20,24.50,1
+EMApp,745,Gâteau sablé fruit,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.09 €,piece,0.013,46,140,4.10,69.10,10.80,1670,396,4.69,44.20,1
+EMApp,746,Gâteau sablé chocolat,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.09 €,piece,0.013,59.40,247,6.70,60,24.10,2050,490,12.60,30.80,1
+EMApp,747,Gâteau palet breton,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.09 €,piece,0.013,26.20,313,7.55,64.80,21.50,2040,486,12.20,24,1
+EMApp,748,Gâteau marbré,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,85,457,5.70,48,23.70,1810,433,9.41,27,1
+EMApp,749,Gâteau madeleine,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,24.90,321,6.70,54.20,22.20,1870,447,6.32,19,1
+EMApp,750,Gâteau galette bretonne,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,26.20,544,7.55,64.80,21.50,2040,486,12.20,24.50,1
+EMApp,751,Gâteau croissant,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,50,544,6.90,47.70,20.80,1730,413,10.70,3.69,1
+EMApp,752,Gâteau cookie,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,35.60,401,6.52,61.30,25.40,2110,504,12.30,31,1
+EMApp,753,Gâteau cake,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,38.60,244,5.00,55.70,15.30,1650,392,2.97,25,1
+EMApp,754,Gâteau boudoir,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,26.80,110,8.16,80.30,3.71,1640,388,0.72,55,1
+EMApp,755,Gâteau baba,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.15 €,piece,0.040,44.30,44.30,3.20,29.90,8.76,983,234,5.71,18.50,1
+EMApp,756,Garniture framboise,10.14,Epicerie,Epicerie,déshydraté,,kg,17.38 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,757,Cerise amarena,10.14,Epicerie,Epicerie,déshydraté,Boite 4/4,Boite 4/4,15.30 €,kg,1,0,118,0.90,63,0.30,1108,261,0.20,42,0.96
+EMApp,758,Galette bretonne,10.12,BOF,Oeufs et dérivés,cuit sous vide,nature,piece,0.32 €,piece,0.030,21.60,544,5.83,30.20,1.74,681,161,0.48,7.20,1
+EMApp,759,Galantine,10.07,Viandes_Poissons,Charcuterie,brut,,kg,21.90 €,kg,1,0,810,15.90,6.52,16.50,996,239,5.83,0,1
+EMApp,760,Fumet de poisson,10.14,Epicerie,Epicerie,déshydraté,Liquide,pot,1.67 €,kg,1,0,0,0.50,2,1,70,15,0,0,1
+EMApp,761,Fruit de la passion,10.10,Fruits_et_légumes,Fruits,brut,,Kg,7.75 €,kg,1,10.40,28,2.20,9.48,0.70,353,84,0.06,9.48,0.50
+EMApp,762,Fruit confit,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.97 €,kg,1,0,0,0.34,82.80,0.07,1346,322,0.01,80.68,1
+EMApp,763,Fruit rouge,10.03,Surgelés,Surgelé fruit,surgelé,,Kg,7.50 €,kg,1,27.10,1.84,1.10,5.30,0.62,196,47,0,0,1
+EMApp,764,Fromage frais portion,10.12,BOF,Fromages ultrafrais,brut,portion,kg,0.13 €,piece,0.020,85,610,15.00,3,13.30,801.30,191.70,8.40,3,1
+EMApp,765,Fromage fondu,10.12,BOF,Fromages fondus,brut,portion,carton,0.12 €,piece,0.025,576,737,10.20,6.50,22.50,1150,277,13.90,6.50,1
+EMApp,766,Fromage de tête,10.07,Viandes_Poissons,Charcuterie,brut,,kg,8.63 €,kg,1,21,830,14.70,0,12,697,168,4.19,0,1
+EMApp,767,Fromage blanc battu,10.12,BOF,Fromages ultrafrais,brut,portion,colis,0.17 €,piece,0.100,113,32.70,6.80,3.47,8.11,484,116,5.60,3,1
+EMApp,768,Fromage blanc battu,10.12,BOF,Fromages ultrafrais,brut,pot 100G 1/2 écrémé,colis,0.25 €,piece,0.100,111,29.20,7.54,3.68,3.22,320,76.10,0.70,3.42,1
+EMApp,769,Fromage blanc battu,10.12,BOF,Fromages ultrafrais,brut,entier,seau,1.48 €,kg,1,113,32.70,6.80,3.47,8.11,484,116,5.60,3,1
+EMApp,770,Fromage blanc battu,10.12,BOF,Fromages ultrafrais,brut,1/2 écrémé,seau,1.32 €,kg,1,111,29.20,7.54,3.68,3.22,320,76.10,0.70,3.42,1
+EMApp,771,Fromage blanc battu,10.12,BOF,Fromages ultrafrais,brut,0% MG,seau,1.28 €,kg,1,118,42.10,7.40,4,0.18,200,47.20,0.12,4,1
+EMApp,772,Frite fraiche,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,0.89 €,kg,1,24,0,1.87,19.10,0.22,379,89.50,0.03,0.70,1
+EMApp,773,Frisée,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,2.50 €,kg,1,37,0,1.20,1.30,0.30,53,13,0.06,0.95,1
+EMApp,774,Frisée,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.05 €,kg,1,37,0,1.20,1.30,0.30,53,13,0.06,0.95,0.90
+EMApp,775,Friand viande,10.04,Surgelés,Surgelé entrée,surgelé,viande 65g,unité,0.09 €,piece,0.065,16.20,727,12.70,14.80,22.60,1320,317,11.50,0,1
+EMApp,776,Friand fromage,10.04,Surgelés,Surgelé entrée,surgelé,fromage 65g,unité,0.08 €,piece,0.065,119,574,7.22,27.50,20.60,1380,332,0,0,1
+EMApp,777,Framboise surgelée,10.03,Surgelés,Surgelé fruit,surgelé,,Kg,5.62 €,kg,1,20.60,3.45,1.40,4.25,0.30,188,45,0,0,1
+EMApp,778,Framboise,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.50 €,kg,1,20.60,3.45,1.40,4.25,0.30,188,45,0.02,4.25,1
+EMApp,779,Fraise Melba,10.04,Surgelés,Surgelé dessert,surgelé,120ml,unité,0.22 €,piece,0.125,0,0,0.70,29.80,3,630,149,0,0,1
+EMApp,780,extrait de Fraise,10.14,Epicerie,Epicerie,,liquide,litre,2.62 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,781,Fraise,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.65 €,kg,1,14.90,2.64,0.75,4.06,0.26,120,29,0.05,4.06,0.90
+EMApp,782,Fromage-Fourme d’Ambert,10.12,BOF,Fromages affinés à pâte persillée,brut,Portion,kg,8.34 €,piece,0.020,443,921,19.80,4.14,28.50,1470,355,18.40,0,1
+EMApp,783,Fond de veau,10.14,Epicerie,Epicerie,,liquide,Pot,2.47 €,litre,1,0,0,0.50,1.50,0.50,45,10,0,0,1
+EMApp,784,Fond de tarte indiv feuilletée,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.40 €,piece,0.035,19,627,5.90,48.80,31,2150,517,13.90,0,1
+EMApp,785,Fond de tarte indi brisée,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.33 €,piece,0.040,17,690,7.50,58.30,26.40,2110,505,6.54,0,1
+EMApp,786,Fond d’artichaut,10.14,Epicerie,Epicerie,appertisé,Boite 3/1,Boite 3/1,8.20 €,kg,1,43.10,61,2.90,4.84,0.23,180,43.10,0.07,0.99,1
+EMApp,787,Fond brun,10.14,Epicerie,Epicerie,,,Pot,6.25 €,kg,1,0,0,0.50,3,0.50,65,15,0,0,1
+EMApp,788,Fond blanc de volaille,10.14,Epicerie,Epicerie,,,Pot,3.05 €,kg,1,0,0,0.50,2.50,0.60,90,20,0,0,1
+EMApp,789,Veau-Foie,10.07,Viandes_Poissons,Veau,brut,,Kg,12.50 €,kg,1,5,64.80,15.40,7.33,3.82,528,125,1.95,0,0.90
+EMApp,790,Boeuf-Foie,10.07,Viandes_Poissons,Bœuf,brut,100-120 g,Kg,4.50 €,kg,1,5.99,81,19.00,5.09,4.46,575,136,1.24,0,0.90
+EMApp,791,Foie,10.07,Viandes_Poissons,Volaille,brut,,Kg,5.90 €,kg,1,7,268,24.70,0.17,6.21,653,155,2.06,0,1
+EMApp,792,Agneau-Foie,10.07,Viandes_Poissons,Agneau,brut,,Kg,4.50 €,kg,1,8.50,73,19.10,3.25,5.15,570,136,1.47,0,0.90
+EMApp,793,Fleurs d'oranger,10.14,Epicerie,Epicerie,,Liquide,Litre,7.56 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,794,Flétan (filet),10.08,Viandes_Poissons,Poisson,brut,,Kg,26.36 €,kg,1,29,60,21.10,0,0.97,394,93,0.20,0,0.90
+EMApp,795,Flan vanille nappé caramel,10.12,BOF,Yaourts et spécialités laitières type yaourts,brut,pot,piece,0.13 €,piece,0.100,97.30,36.60,2.97,21.60,1.88,490,116,0.95,19.40,1
+EMApp,796,Préparation flan vanille,10.14,Epicerie,Epicerie,déshydraté,,kg,16.25 €,kg,1,0,51,0.50,95,0.50,1600,390,0.10,80,1
+EMApp,797,Préparation flan praliné,10.14,Epicerie,Epicerie,déshydraté,,kg,16.25 €,kg,1,0,51,1.00,89,3.50,1700,400,0.30,74,1
+EMApp,798,Préparation flan pistache,10.14,Epicerie,Epicerie,déshydraté,,kg,16.38 €,kg,1,0,51,0.50,95,0.50,1700,400,0.10,92,1
+EMApp,799,Préparation Flan patissier,10.14,Epicerie,Epicerie,déshydraté,,kg,15 €,kg,1,91,51,3.80,30.40,7,841,200,3.03,10.40,1
+EMApp,800,Préparation flan fruit de la passion,10.14,Epicerie,Epicerie,déshydraté,,kg,17 €,kg,1,0,0,0.50,95,0.50,1600,390,0.10,80,1
+EMApp,801,Préparation Flan citron,10.14,Epicerie,Epicerie,déshydraté,,kg,17.50 €,kg,1,0,51,0.50,94,0.50,1600,390,0.10,78,1
+EMApp,802,Préparation Flan chocolat,10.14,Epicerie,Epicerie,déshydraté,,kg,14.50 €,kg,1,0,51,4.50,76,4.50,1600,370,3,64,1
+EMApp,803,Préparation flan caramel,10.14,Epicerie,Epicerie,déshydraté,,kg,16.25 €,kg,1,0,51,0.50,95,0.50,1600,390,0.10,81,1
+EMApp,804,Préparation flan abricots,10.14,Epicerie,Epicerie,déshydraté,,kg,16.75 €,kg,1,0,51,0.50,95,0.50,1600,390,0.10,80,1
+EMApp,805,Flageolet vert fin,10.03,Surgelés,Surgelé légume,surgelé,,Kg,2.01 €,kg,1,0,45,9.50,21.90,0.40,549,129,0,0,1
+EMApp,806,Poisson-Pané plein filet,10.02,Surgelés,Surgelé poisson,surgelé,120g,Kg,4.39 €,kg,1,24.90,354,8.60,15.30,11.30,830,199,1.89,0,1
+EMApp,807,Poisson-Pané (Plein filet),10.02,Surgelés,Surgelé poisson,surgelé,100g,Kg,5.50 €,kg,1,24.90,354,8.60,15.30,11.30,830,199,1.89,0,1
+EMApp,808,Filet limande meuniere,10.02,Surgelés,Surgelé poisson,surgelé,130g,Kg,4.90 €,kg,1,17.70,470,16.30,7.80,4.30,569,135,0,0,1
+EMApp,809,Filet d’anchois,10.14,Epicerie,Epicerie,appertisé,,Boite,12.57 €,kg,1,296,4450,27.40,0,8.40,761,182,3.08,0.20,1
+EMApp,810,Dinde-Filet (entier),10.07,Viandes_Poissons,Volaille,brut,,Kg,5.75 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.45,0,1
+EMApp,811,Figue,10.10,Fruits_et_légumes,Fruits,brut,,Kg,10.80 €,kg,1,38,3,1.30,13.40,0.30,283,67,0.05,12.30,0.90
+EMApp,812,Fève pelée,10.14,Epicerie,Epicerie,déshydraté,,kg,1.27 €,kg,1,18,20,5.10,6.05,0.80,254,60.60,0.10,1.82,1
+EMApp,813,Fève,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.88 €,kg,1,18,20,5.00,6,0.80,254,61,0.10,1.82,0.60
+EMApp,814,Feuille de gélatine,10.14,Epicerie,Epicerie,déshydraté,,Kg,29.63 €,kg,1,265,199,87.60,0,0.10,1490,351,0.04,0,1
+EMApp,815,Feuille de chêne,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,6.35 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,0.63,1
+EMApp,816,Feuille de chêne,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,5 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,0.63,1
+EMApp,817,Feuille de chêne,10.10,Fruits_et_légumes,Légumes,brut,,Kg,3.50 €,kg,1,44.70,13.20,1.34,1.39,0.20,58,14,0.04,0.63,0.50
+EMApp,818,Feuille de brick,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.17 €,piece,0.007,110,1670,8.20,79.40,2.20,1610,380,0.21,0,1
+EMApp,819,Fromage-Feta de Brebis,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,dés,barquette,11.50 €,kg,1,318,1240,15.50,1.40,22.40,1130,273,13.70,1.40,1
+EMApp,820,Fromage-Feta de brebis,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,bloc,kg,8 €,kg,1,318,1240,15.50,1.40,22.40,1130,273,13.70,1.40,1
+EMApp,821,Fenouil,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,2.30 €,kg,1,24,11,0.90,3.01,0.20,89,21,0,1.70,1
+EMApp,822,Fenouil,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,2.30 €,kg,1,24,11,0.90,3.01,0.20,89,21,0,1.70,1
+EMApp,823,Fenouil,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,2.30 €,kg,1,24,11,0.90,3.01,0.20,89,21,0,1.70,1
+EMApp,824,Fenouil,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.75 €,kg,1,24,11,0.90,3.01,0.20,89,21,0,1.70,0.80
+EMApp,825,Faux-filet,10.07,Viandes_Poissons,Bœuf,brut,,Kg,17.85 €,kg,1,0,62.50,21.60,0,3.37,492,117,1.55,0,0.80
+EMApp,826,Farine de blé,10.14,Epicerie,Epicerie,déshydraté,type 45,kg,0.45 €,kg,1,24,2.90,11.70,69.30,0.80,1460,343,0.16,1.82,1
+EMApp,827,Farfalles,10.14,Epicerie,Epicerie,déshydraté,,kg,1.18 €,kg,1,41.25,0,12.25,29.70,1.87,1602,377.50,0.25,1.17,1
+EMApp,828,Faisan,10.07,Viandes_Poissons,Volaille,brut,,Kg,19.95 €,kg,1,16,43,32.40,0,12.10,998,238,3.91,0,0.50
+EMApp,829,Extrait de vanille,10.14,Epicerie,Epicerie,,liquide,Litre,8.29 €,litre,1,0,0,3.90,51.60,0.20,948,226,0,0,1
+EMApp,830,Extrait de café,10.14,Epicerie,Epicerie,,Liquide,Litre,5.26 €,litre,1,0,0,0.30,66.60,0.60,1141,273,0,0,1
+EMApp,831,Estragon sec,10.14,Epicerie,Epicerie,déshydraté,,pot,5.07 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,832,Estragon,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,42 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,833,Espadon,10.08,Viandes_Poissons,Poisson,brut,,Kg,29.95 €,kg,1,5,122,22.90,0,11,796,191,0.40,0,0.50
+EMApp,834,Escargot. cru,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,15.90 €,kg,1,90,138,16.00,2,1.20,350,83,0.21,0,0.30
+EMApp,835,Porc-Escalope,10.07,Viandes_Poissons,Porc,brut,120-140 g,Kg,5.02 €,kg,1,6.39,49.20,21.05,0,4.76,542,129,1.75,0,1
+EMApp,836,Escalope,10.01,Surgelés,Surgelé viande,surgelé,viennoise,Kg,3.26 €,kg,1,28,394,13.60,15.50,8.60,815,194,0,0,0.80
+EMApp,837,Veau-Escalope de veau,10.07,Viandes_Poissons,Veau,brut,,Kg,15 €,kg,1,0,128,19.60,0,2.60,428,102,0.90,0,0.90
+EMApp,838,Epinard,10.03,Surgelés,Surgelé légume,surgelé,branche,Kg,0.90 €,kg,1,141,90.70,3.00,3.10,0.50,122,29,0,0,1
+EMApp,839,Épinard,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.50 €,kg,1,98.20,70,2.70,3.20,0.43,144,35,0.07,0.53,1
+EMApp,840,Épinard,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.70 €,kg,1,98.20,70,2.70,3.20,0.43,144,35,0.07,0.53,0.30
+EMApp,841,Éperlan,10.08,Viandes_Poissons,Poisson,brut,,Kg,16.90 €,kg,1,0,56,17.40,0,1.70,359,85,0.01,0,0.50
+EMApp,842,Epaule DD en cubes,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,4 €,kg,1,0,0,18.40,0.80,4,468,112,1.10,0,1
+EMApp,843,Veau-collier (sauté),10.07,Viandes_Poissons,Veau,brut,40-60 g,Kg,6.95 €,kg,1,10,51,17.80,0,5.92,582,124,1.99,0,0.90
+EMApp,844,Préparation entremets vanille,10.14,Epicerie,Epicerie,déshydraté,,kg,3.43 €,kg,1,0,51,0.50,80,0.50,1600,390,0.10,95,1
+EMApp,845,Préparation entremets chocolat,10.14,Epicerie,Epicerie,déshydraté,,kg,3.70 €,kg,1,0,51,4.50,76,4.50,1600,370,3,64,1
+EMApp,846,Boeuf-Entrecôte(pad),10.07,Viandes_Poissons,Bœuf,brut,,Kg,12 €,kg,1,7,59.50,18.40,0,17,942,227,8.06,0,0.80
+EMApp,847,Endive,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.50 €,kg,1,23.20,2.49,1.03,2.37,0.20,73,17,0.05,1.72,0.80
+EMApp,848,Encornet,10.02,Surgelés,Surgelé poisson,surgelé,tube,Kg,2.37 €,kg,1,15.70,195,16.00,0.60,1.47,337,80,0,0,1
+EMApp,849,Encornet,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,18.70 €,kg,1,15.70,195,16.00,0.60,1.47,337,80,0.32,0,0.50
+EMApp,850,Fromage-Emmental râpé,10.12,BOF,Fromages affinés à pâte dure,brut,sachet,kg,4.45 €,kg,1,1040,206,27.80,0.05,30,1590,383,20.40,0.05,1
+EMApp,851,Fromage-Emmental,10.12,BOF,Fromages affinés à pâte dure,brut,portion,carton,0.17 €,piece,0.025,971,277,28.20,0,28.30,1530,369,18.70,0,1
+EMApp,852,Fromage-Emmental,10.12,BOF,Fromages affinés à pâte dure,brut,allégé,carton,4.30 €,kg,1,1070,255,33.20,2,17,1230,294,11.30,1.90,1
+EMApp,853,Fromage-Emmental,10.12,BOF,Fromages affinés à pâte dure,brut,bloc,kg,4.59 €,kg,1,971,277,28.20,0,28.30,1530,369,18.70,0,1
+EMApp,854,Volaille-Emince,10.07,Viandes_Poissons,Volaille,brut,20-40g,Kg,6.20 €,kg,1,11,87.50,28.50,0,1.44,538,127,0.40,0,0.80
+EMApp,855,Porc-Filet(émincé),10.07,Viandes_Poissons,Porc,brut,20-30 g,Kg,4.68 €,kg,1,6.39,49.20,21.50,0,4.76,542,129,0.86,0,1
+EMApp,856,Emincé de bœuf (aloyau),10.07,Viandes_Poissons,Bœuf,brut,,Kg,5.65 €,kg,1,10,153,20.60,0,3.69,487,116,0.79,0,0.80
+EMApp,857,Églefin,10.08,Viandes_Poissons,Poisson,brut,,Kg,22.90 €,kg,1,26,73,20.90,0,0.60,377,89,0.10,0,0.50
+EMApp,858,Fromage-Edam,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,carton,0.15 €,piece,0.025,793,867,32.60,0,20.50,1310,315,13.70,0,1
+EMApp,859,Fromage-Edam,10.12,BOF,Fromages affinés à pâte ferme,brut,bloc,kg,3.88 €,kg,1,793,867,32.60,0,20.50,1310,315,13.70,0,1
+EMApp,860,Écrevisse crue,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,31.65 €,kg,1,36.30,184,15.20,1.70,0.64,311,13,0.10,0,0.30
+EMApp,861,Echalote,10.03,Surgelés,Surgelé légume,surgelé,haché,Kg,2.20 €,kg,1,31,11,1.90,15.90,0.15,323,76.10,0,0,1
+EMApp,862,Echalote,10.03,Surgelés,Surgelé légume,surgelé,emincé,Kg,2.16 €,kg,1,31,11,1.90,15.90,0.15,323,76,0,0,1
+EMApp,863,Echalote déshydratée,10.14,Epicerie,Epicerie,déshydraté,,kg,24.19 €,kg,1,0,0,12.00,80,0.50,0,348,0,0,1
+EMApp,864,Echalote,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincée,Kg,4.20 €,kg,1,31,11,1.90,15.90,0.15,323,76,0.01,3.20,1
+EMApp,865,Echalote,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,4.20 €,kg,1,31,11,1.90,15.90,0.15,323,76,0.01,3.20,1
+EMApp,866,Echalote,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.50 €,kg,1,31,11,1.90,15.90,0.15,323,76,0.01,3.20,0.70
+EMApp,867,Eau minérale,10.11,Epicerie,Epicerie,,Liquide,Litre,0.75 €,litre,1,24.40,7.88,0.00,0,0,0,0,0,0,1
+EMApp,868,Eau de source,10.11,Epicerie,Epicerie,,Liquide,Bouteille,0.16 €,litre,1,5.81,1.61,0.00,0,0,0,0,0,0,1
+EMApp,869,Dinde-Escalope,10.07,Viandes_Poissons,Volaille,brut,100-120g,Kg,5.25 €,kg,1,11,73.70,28.50,0,1.44,538,127,0.40,0,0.90
+EMApp,870,Daurade grise,10.08,Viandes_Poissons,Poisson,brut,,Kg,12.62 €,kg,1,100,60.60,20.10,0,4.81,520,124,1.41,0,0.50
+EMApp,871,Datte,10.10,Epicerie,Fruits,déshydraté,,Kg,3.80 €,kg,1,44.90,18.20,2.70,62.50,0.40,1200,282,0,58.10,0.80
+EMApp,872,Curry,10.14,Epicerie,Epicerie,déshydraté,,Kilo,6 €,kg,1,478,52,12.70,25.20,13.80,1420,342,0,0,1
+EMApp,873,Fromage-Curé nantais,10.12,BOF,Fromages affinés à pâte molle,brut,entier,pièce,3.38 €,piece,0.300,592,540,21.90,0.97,26.50,1370,330,17.10,0.35,1
+EMApp,874,Cumin,10.14,Epicerie,Epicerie,déshydraté,,Kg,8.70 €,kg,1,931,168,17.80,33.70,22.30,1780,428,0,0,1
+EMApp,875,Poulet-Cuisses (Déjointées),10.07,Viandes_Poissons,Volaille,brut,180-200g,Kg,2.87 €,kg,1,5.80,103,26.20,0,9.60,801,191,2.97,0,0.50
+EMApp,876,Croutons nature,10.14,Epicerie,Epicerie,déshydraté,,Unité,2.56 €,kg,1,76,698,11.90,73.50,6.60,1703,407,1.51,4.41,1
+EMApp,877,Crouton à l’ail,10.14,Epicerie,Epicerie,déshydraté,,Unité,2.60 €,kg,1,96,1238,10.10,63.50,18.30,1946,465,5.25,4.41,1
+EMApp,878,Fromage-Crottin de Chavignol,10.12,BOF,Fromages affinés à pâte molle,brut,portion,kg,2.93 €,piece,0.060,151,679,19.70,1.25,26.90,1370,331,16.20,1.25,1
+EMApp,879,Croque,10.04,Surgelés,Surgelé viande,surgelé,œuf jambon,Kg,19.31 €,kg,1,200,515,13.60,17,15.50,1100,264,0,0,1
+EMApp,880,Croque,10.04,Surgelés,Surgelé viande,surgelé,fromage,Kg,0 €,kg,1,252,625,14.50,25.50,14.80,1240,297,0,0,1
+EMApp,881,Croisillon,10.04,Surgelés,Surgelé entrée,surgelé,emmental,unité,0.19 €,piece,0.100,46,546,6.50,22.90,16.70,1118,268,0,0,1
+EMApp,882,Crevette. cuite,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,13.30 €,kg,1,225,691,21.40,0,0.60,386,91,0.10,0,0.40
+EMApp,883,Crevette cuite,10.02,Surgelés,Surgelé poisson,surgelé,decortiquées,Kg,5.40 €,kg,1,225,691,21.40,0,0.60,386,91,0,0,1
+EMApp,884,Crevette cuite,10.02,Surgelés,Surgelé poisson,surgelé,entières,Kg,4.42 €,kg,1,225,691,21.40,0,0.60,386,91,0,0,0.60
+EMApp,885,Cresson,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,1.85 €,kg,1,130,39.70,1.60,2.09,0.30,89,21,0.11,0.30,1
+EMApp,886,Cresson,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,1.50 €,kg,1,130,39.70,1.60,2.09,0.30,89,21,0.11,0.30,1
+EMApp,887,Cresson,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.40 €,kg,1,130,39.70,1.60,2.09,0.30,89,21,0.11,0.30,0.60
+EMApp,888,Crêpes jambon fromage,10.04,Surgelés,Surgelé entrée,surgelé,50g,unité,0.08 €,piece,0.050,97.10,438,7.40,17.70,6.85,687,164,0,0,1
+EMApp,889,Crepe jambon fromage,10.04,Surgelés,Surgelé entrée,surgelé,100g,unité,0.25 €,piece,0.100,97.10,438,7.40,17.70,6.85,687,164,0,0,1
+EMApp,890,Crêpe,10.12,BOF,Oeufs et dérivés,cuit sous vide,paquet,paquet,6.53 €,kg,1,69.20,289,6.45,57.20,7.02,1360,321,3.11,6,1
+EMApp,891,Crêpe,10.12,BOF,Oeufs et dérivés,cuit sous vide,individuelle,piece,0.21 €,piece,0.030,69.20,289,6.45,57.20,7.02,1360,321,3.11,6,1
+EMApp,892,Crème UHT 35%,10.12,BOF,Crèmes et spécialités à base de crème,brut,bidon,litre,3.56 €,litre,1,75,26.70,2.00,3.50,35,1409,337,22.10,2.80,1
+EMApp,893,Préparation crème pâtissière à froid,10.14,Epicerie,Epicerie,déshydraté,,kg,2.63 €,kg,1,0,185,9.00,84,0.50,1600,380,0.01,65,1
+EMApp,894,Crème fraîche 15-20% MG. épaisse,10.12,BOF,Crèmes et spécialités à base de crème,brut,seau,litre,1.96 €,kg,1,94.50,43.50,2.90,4.25,18,691,167,12.80,4.25,1
+EMApp,895,Crème fluide UHT,10.12,BOF,Crèmes et spécialités à base de crème,brut,30 % MG,litre,1.94 €,litre,1,105,40,2.20,2.57,32.40,1290,312,23.10,2.57,1
+EMApp,896,Crème fluide UHT,10.12,BOF,Crèmes et spécialités à base de crème,brut,15/20 % MG,litre,2.12 €,litre,1,95,42,2.23,2.32,16.40,691,167,11.70,2.32,1
+EMApp,897,Crème dessert vanille,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,14 €,kg,1,141,66.50,3.50,16.70,4.60,518,123,1.88,14.40,1
+EMApp,898,Crème dessert chocolat,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,14 €,kg,1,98.10,57.30,3.80,22.90,3.65,597,142,1.72,16.80,1
+EMApp,899,Crème de marrons vanillée,10.14,Epicerie,Epicerie,déshydraté,Boite 5/1,Boite 5/1,14 €,kg,1,11.30,3.30,1.00,65.50,0.56,1170,275,0.10,48.70,1
+EMApp,900,Crème de cassis,10.14,Epicerie,Epicerie,,Liquide,Litre,2.77 €,litre,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,901,Crème brûlée,10.14,Epicerie,Epicerie,déshydraté,,kg,13.30 €,kg,1,67.10,39.60,4.33,16.20,24.30,1250,300,0,15,1
+EMApp,902,Crème anglaise,10.12,BOF,Desserts lactés frais ou UHT,brut,bidon,Litre,1.03 €,litre,1,101,64.40,2.76,17.70,3.17,465,110,1.98,13.50,1
+EMApp,903,Couscous moyen semoule,10.14,Epicerie,Epicerie,déshydraté,,kg,0.94 €,kg,1,36.50,307.50,9.47,89.25,1.93,1777.50,422.50,0.07,0.25,1
+EMApp,904,Courgettes rondelles,10.03,Surgelés,Surgelé légume,surgelé,,kg,0.98 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0,0,1
+EMApp,905,Courgette,10.09,Fruits_et_légumes,Légumes,cru sous vide,batonnet,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,906,Courgette,10.09,Fruits_et_légumes,Légumes,cru sous vide,rondelle,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,907,Courgette,10.09,Fruits_et_légumes,Légumes,cru sous vide,cube,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84.30,20,0.05,1.90,1
+EMApp,908,Courgette,10.09,Fruits_et_légumes,Légumes,cru sous vide,epluchée,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84.30,20,0.05,1.90,1
+EMApp,909,Courgette,10.10,Fruits_et_légumes,Légumes,brut,batonnet,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,910,Courgette,10.10,Fruits_et_légumes,Légumes,brut,rondelle,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,911,Courgette,10.10,Fruits_et_légumes,Légumes,brut,cube,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,912,Courgette,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,3.50 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,1
+EMApp,913,Courgette,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.40 €,kg,1,18.40,2.84,1.34,2.49,0.27,84,20,0.05,1.90,0.80
+EMApp,914,Fromage-Coulommiers,10.12,BOF,Fromages affinés à pâte molle,brut,portion,kg,0.28 €,piece,0.020,453,506,19.40,0,24,1220,294,16.50,0,1
+EMApp,915,Fromage-Coulommiers,10.12,BOF,Fromages affinés à pâte molle,brut,entier,pièce,6.20 €,piece,0.500,453,506,19.40,0,24,1220,294,16.50,0,1
+EMApp,916,Coulis fruits de la passion,10.14,Epicerie,Epicerie,appertisé,Liquide,Litre,8.90 €,litre,0,26,1.90,0.90,17.50,0.50,380,90,0,17,1
+EMApp,917,Coulis de framboise,10.14,Epicerie,Epicerie,appertisé,Liquide,Litre,8.90 €,litre,0,26,1.90,0.90,17.50,0.50,380,90,0,17,1
+EMApp,918,Coulis de fraise,10.14,Epicerie,Epicerie,appertisé,Liquide,Litre,8.90 €,litre,0,26,1.90,0.90,17.50,0.50,380,90,0,17,1
+EMApp,919,Cotes de blettes,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,12.40 €,kg,1,66.90,208,1.88,2.03,0.08,86.20,20.60,0.01,1.10,1
+EMApp,920,Agneau-Côte ( première),10.07,Viandes_Poissons,Agneau,brut,,Kg,18.50 €,kg,1,0,120,15.50,0,23.20,1120,271,10.50,0,0.50
+EMApp,921,Agneau-Côte (seconde),10.07,Viandes_Poissons,Agneau,brut,,Kg,20.80 €,kg,1,0,120,16.30,0,18.50,962,232,8.33,0,0.40
+EMApp,922,Cornichons,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.02 €,kg,1,32,551,1.20,3,0.30,116,28,0,2.40,1
+EMApp,923,Coriandre en grain,10.14,Epicerie,Epicerie,déshydraté,,boite,35 €,kg,1,709,35,12.40,13,17.80,1430,346,0.97,0,1
+EMApp,924,Coriandre fraîche,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,52 €,kg,1,709,35,12.40,13,17.80,1430,346,0.96,13,1
+EMApp,925,Cordon bleu,10.04,Surgelés,Surgelé viande,surgelé,,kg,2.65 €,kg,1,68.50,794,14.70,10.90,14,958,230,0,0,0.80
+EMApp,926,Coquillettes,10.14,Epicerie,Epicerie,déshydraté,,kg,1.18 €,kg,1,41.25,287,12.13,74.25,2,1602,377.50,0.26,1.18,1
+EMApp,927,Coquille Saint-Jacques,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,12 €,kg,1,176,191,17.00,0.96,1.31,354,84,0.19,0,0.30
+EMApp,928,Coquille de poisson,10.02,Surgelés,Surgelé poisson,surgelé,calcaire,unité,0.76 €,piece,0.140,0,0,9.40,11.50,3.70,492,117,0,0,0.60
+EMApp,929,Coquille de poisson,10.02,Surgelés,Surgelé poisson,surgelé,alu,unité,0.21 €,piece,0.120,0,0,4.10,12.60,0.60,306,72,0,0,0.80
+EMApp,930,Coppa,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,24 €,kg,1,39.30,1500,23.90,0.20,15.10,968,232,2.94,0,1
+EMApp,931,Confiture framboise,10.14,Epicerie,Epicerie,appertisé,,Unité,0.13 €,piece,0.020,10,10.70,0.50,58.60,0.60,1040,246,0.10,50.80,1
+EMApp,932,Confiture fraise,10.14,Epicerie,Epicerie,appertisé,,kg,8 €,kg,1,11,15,0.40,64,0.70,1110,262,0.03,60,1
+EMApp,933,Confiture abricot portion,10.14,Epicerie,Epicerie,appertisé,,unité,0.13 €,piece,0.020,9,15.40,0.30,56.60,0.25,983,232,0.01,53,1
+EMApp,934,Confit de canard,10.07,Viandes_Poissons,Charcuterie,appertisé,,Kg,16.63 €,kg,1,9.60,944,30.70,0,10.50,914,218,4.80,0,0.50
+EMApp,935,Cone glace,10.04,Surgelés,Surgelé dessert,surgelé,fraise,unité,0.17 €,piece,0.100,98,73.30,4.15,33.10,14.20,1170,279,0,0,1
+EMApp,936,Cone glace,10.04,Surgelés,Surgelé dessert,surgelé,pistache,unité,0.17 €,piece,0.100,98,73.30,4.15,33.10,14.20,1170,279,0,0,1
+EMApp,937,Cone glace,10.04,Surgelés,Surgelé dessert,surgelé,vanille,unité,0.17 €,piece,0.100,98,73.30,4.15,33.10,14.20,1170,279,11.40,21.80,1
+EMApp,938,Cone glace,10.04,Surgelés,Surgelé dessert,surgelé,chocolat,unité,0.17 €,piece,0.100,98,73.30,4.15,33.10,14.20,1170,279,0,0,1
+EMApp,939,Concombre,10.09,Fruits_et_légumes,Légumes,cru sous vide,rondelle,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,940,Concombre,10.09,Fruits_et_légumes,Légumes,cru sous vide,cube,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,941,Concombre,10.09,Fruits_et_légumes,Légumes,cru sous vide,epluché,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,942,Concombre,10.10,Fruits_et_légumes,Légumes,brut,rondelle,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,943,Concombre,10.10,Fruits_et_légumes,Légumes,brut,cube,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,944,Concombre,10.10,Fruits_et_légumes,Légumes,brut,epluché,kg,2.70 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,1
+EMApp,945,Concombre,10.10,Fruits_et_légumes,Légumes,brut,,kg,0.90 €,kg,1,14,4.25,0.59,1.63,0.19,50.40,12,0.01,1.38,0.80
+EMApp,946,Concentré tomates double,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,5.22 €,kg,1,46,108,3.20,16.30,0.50,386,92,0.08,14.70,1
+EMApp,947,Fromage-Comté,10.12,BOF,Fromages affinés à pâte dure,brut,portion,piece,0.31 €,piece,0.025,909,567,28.10,0,34,1740,420,0,0,1
+EMApp,948,Fromage-Comté,10.12,BOF,Fromages affinés à pâte dure,brut,bloc,kg,12.15 €,kg,1,909,567,28.10,0,34,1740,420,18.80,0,1
+EMApp,949,Compote pommes/framboises sucrée,10.14,Epicerie,Epicerie,appertisé,portion,Unité,0.21 €,piece,0.100,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,950,Compote pommes/abricots sucrée,10.14,Epicerie,Epicerie,appertisé,portion,Unité,0.21 €,piece,0.100,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,951,Compote pommes portion,10.14,Epicerie,Epicerie,appertisé,portion,Unité,0.17 €,piece,0.100,4.40,9.80,0.32,22,0.30,398,93.70,0.02,15.90,1
+EMApp,952,Compote pommes patissière sucrée,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.15 €,kg,1,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,953,Compote pommes,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,3.13 €,kg,1,20,9.80,0.32,22,0.23,398,93.70,0.02,15.90,1
+EMApp,954,Compote poires sucrée,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.23 €,kg,1,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,955,Compote pêches morceaux sucrée,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.35 €,kg,1,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,956,Compote ananas sucrée,10.14,Epicerie,Epicerie,appertisé,,Boite 5/1,4.56 €,kg,1,20,1.77,0.28,24.50,0.40,442,104,0.03,22,1
+EMApp,957,Veau-Carré (rôti),10.07,Viandes_Poissons,Veau,brut,,Kg,14.40 €,kg,1,0,0,17.80,0,5.92,522,124,1.99,0,0.30
+EMApp,958,Agneau-Collier (sauté),10.07,Viandes_Poissons,Agneau,brut,40-60 g,Kg,10.40 €,kg,1,0,0,16.40,0,13.20,767,184,5.80,0,1
+EMApp,959,Poisson-Dos (Colin),10.02,Surgelés,Surgelé poisson,surgelé,120-140g,Kg,4.33 €,kg,1,13.10,158,17.00,0,0.70,315,74,0,0,1
+EMApp,960,Coing,10.10,Fruits_et_légumes,Fruits,brut,,kg,2.05 €,kg,1,8.67,3.67,0.37,11.20,0.40,243,58,0.04,6.30,0.50
+EMApp,961,Cognac dénaturé,10.14,Epicerie,Epicerie,,liquide,Litre,6.81 €,litre,1,0,0,0.00,0,0,1016,243,0,0,1
+EMApp,962,Cognac,10.14,Epicerie,Epicerie,,liquide,Litre,6.53 €,litre,1,0,0,0.00,0,0,1016,243,0,0,1
+EMApp,963,Poulet-Coeur,10.07,Viandes_Poissons,Volaille,brut,,Kg,4.50 €,kg,1,12,69,16.40,0.70,2.76,393,93,0.56,0,0.90
+EMApp,964,Dinde-Coeur,10.07,Viandes_Poissons,Volaille,brut,,Kg,4.50 €,kg,1,6,94,16.50,0.22,2.86,390,92,0.56,0,0.90
+EMApp,965,Cœur de palmier,10.14,Epicerie,Epicerie,appertisé,,kg,4.92 €,kg,1,46.10,740,2.73,3.40,0.61,139,33,0.13,0,1
+EMApp,966,Blé,10.14,Epicerie,Epicerie,déshydraté,,kg,2.64 €,kg,1,47.25,42.50,12.75,76,1.65,1622,382,0.32,1.60,1
+EMApp,967,Agneau-Cœur,10.07,Viandes_Poissons,Agneau,brut,,Kg,8.90 €,kg,1,7.50,114,16.80,0.40,3.09,407,97,0.59,0,0.90
+EMApp,968,Cocktail fruits,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,4.54 €,kg,1,13,3,0.40,14,0.10,226,53,0.02,13.90,1
+EMApp,969,Cocktail de fruits de mer,10.08,Viandes_Poissons,Poisson,brut,,Kg,4.85 €,kg,1,70,183,13.50,2.20,1,302,72,0.30,0,0.50
+EMApp,970,Clémentine,10.10,Fruits_et_légumes,Fruits,brut,,kg,1.42 €,kg,1,25.20,6.46,0.80,9.19,0.19,205,49,0,9.19,0.60
+EMApp,971,Citrouille,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,3.85 €,kg,1,21,0,1.30,6,0.20,130,31,0.10,2.80,1
+EMApp,972,Citrouille,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.25 €,kg,1,21,0,1.30,6,0.20,130,31,0.10,2.80,0.50
+EMApp,973,Citron vert,10.10,Fruits_et_légumes,Fruits,brut,,kg,5 €,kg,1,33,2,0.70,2.82,0.20,153,36,0.02,1.69,0.40
+EMApp,974,Citron,10.10,Fruits_et_légumes,Fruits,brut,,kg,1.96 €,kg,1,18,3,0.80,2.45,0.30,146,34,0.02,1.69,0.40
+EMApp,975,Cidre doux,10.14,Epicerie,Epicerie,,Liquide,Litre,1.94 €,litre,1,9,2.90,0.00,3.20,0,114,27,0,3.20,1
+EMApp,976,Cidre brut,10.14,Epicerie,Epicerie,,Liquide,Litre,2.24 €,litre,1,5,3.98,0.00,2.30,0,137,33,0,2.30,1
+EMApp,977,Ciboulette lyophilisé,10.14,Epicerie,Epicerie,déshydraté,,kg,22.50 €,kg,1,69.50,12.30,2.30,4.42,0.43,145,34.40,0.06,3.84,1
+EMApp,978,Ciboulette,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,52 €,kg,1,69.50,12.30,2.30,4.42,0.43,145,34,0.06,3.95,1
+EMApp,979,Choux fleurs,10.03,Surgelés,Surgelé légume,surgelé,fleurette,Kg,1.05 €,kg,1,23.80,8.92,2.46,2.21,0.31,118,28,0,0,1
+EMApp,980,Choux de Bruxelles,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.80 €,kg,1,36.20,9.70,3.50,5.20,0.30,157,38,0,0,1
+EMApp,981,Choux nature,10.14,Epicerie,Epicerie,déshydraté,,kg,0.90 €,kg,1,72,0,4.50,32.20,16.80,1260,301,0,0.43,1
+EMApp,982,Chouquette,10.14,Epicerie,Epicerie,déshydraté,,unité,0.12 €,piece,0.030,36.40,382,9.30,38.70,21.80,1670,401,0,0.43,1
+EMApp,983,Chou-fleur,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,3.20 €,kg,1,23.80,8.92,2.46,2.34,0.31,118,28,0.07,2.21,1
+EMApp,984,Chou-fleur,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,3.15 €,kg,1,23.80,8.92,2.46,2.34,0.31,118,28,0.07,2.21,1
+EMApp,985,Chou-fleur,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.10 €,kg,1,23.80,8.92,2.46,2.34,0.31,118,28,0.07,2.21,0.70
+EMApp,986,Chou vert,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,1.30 €,kg,1,58.50,114,1.40,3,0.50,85,20,0.01,2.50,1
+EMApp,987,Chou vert,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,1.30 €,kg,1,58.50,114,1.40,3,0.50,85,20,0.01,2.50,1
+EMApp,988,Chou vert,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.90 €,kg,1,58.50,114,1.40,3,0.50,85,20,0.01,2.50,0.70
+EMApp,989,Chou rouge,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,1.50 €,kg,1,49.80,23,1.61,4.99,0.20,138,33,0.05,3.26,1
+EMApp,990,Chou rouge,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,1.50 €,kg,1,49.80,23,1.61,4.99,0.20,138,33,0.05,3.26,1
+EMApp,991,Chou rouge,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.90 €,kg,1,49.80,23,1.61,4.99,0.20,138,33,0.05,3.26,0.70
+EMApp,992,Chou chinois,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.35 €,kg,1,0,0,1.60,2.20,0.30,59,14,0.02,0,0.70
+EMApp,993,Chou blanc,10.09,Fruits_et_légumes,Légumes,cru sous vide,emincé,Kg,1.85 €,kg,1,50,13,1.25,4.75,0.20,123,29,0.02,0,1
+EMApp,994,Chou blanc,10.10,Fruits_et_légumes,Légumes,brut,emincé,Kg,0.70 €,kg,1,50,13,1.25,4.75,0.20,123,29,0.02,0,1
+EMApp,995,Chou blanc,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.85 €,kg,1,50,13,1.25,4.75,0.20,123,29,0.02,0,0.70
+EMApp,996,Chorizo Doux,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,6.10 €,kg,1,35.80,1730,21.10,3.50,42.10,1980,477,14.60,0,1
+EMApp,997,Chocolat pépites,10.14,Epicerie,Epicerie,déshydraté,,kg,2.90 €,kg,1,130,19.10,4.90,54.90,30.20,2190,526,18.10,40,1
+EMApp,998,Chocolat labo,10.14,Epicerie,Epicerie,déshydraté,,Kg,2.90 €,kg,1,130,19.10,4.90,54.90,30.20,2190,526,18.10,40,1
+EMApp,999,Chocolat copeaux,10.14,Epicerie,Epicerie,déshydraté,,Kg,5.36 €,kg,1,130,19.10,4.90,54.90,30.20,2190,526,18.10,40,1
+EMApp,1000,Chocolat amer,10.14,Epicerie,Epicerie,déshydraté,,Kg,7.89 €,kg,1,60,21,9.30,33.30,41.90,2370,572,18.10,21,1
+EMApp,1001,Sachet de Chips,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.13 €,piece,0.030,27,622,5.60,48.70,36.10,2290,550,4,1.09,1
+EMApp,1002,Chipolatas,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.96 €,kg,1,11.80,855,19.00,8.40,25.40,1410,338,9.20,0,1
+EMApp,1003,Fromage-Chèvretine,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,portion,colis,0.26 €,piece,0.020,750,390,6.80,3,32.10,1350,328,22.30,1.70,1
+EMApp,1004,Fromage-Chèvre,10.12,BOF,Fromages non affinés et spécialités fromagères,brut,frais,kg,2.60 €,kg,1,94,297,10.60,2.75,12.40,687,165,9.55,2.75,1
+EMApp,1005,Fromage-Chèvre,10.12,BOF,Fromages affinés à pâte molle,brut,buchette,kg,0.86 €,piece,0.175,107,511,19.30,1.50,24.10,1270,305,16.60,0.80,1
+EMApp,1006,Fromage-Chèvre,10.12,BOF,Fromages affinés à pâte molle,brut,long,kg,1.25 €,kg,1,107,511,19.30,1.50,24.10,1270,305,16.60,0.80,1
+EMApp,1007,Cheesburger,10.04,Surgelés,Surgelé viande,surgelé,,Pièce,0.59 €,piece,0.120,91.30,537,13.70,25.40,11.50,1090,261,0,0,1
+EMApp,1008,Fromage-Cheddar,10.12,BOF,Fromages affinés à pâte ferme,brut,Bloc,kg,9.55 €,kg,1,720,670,25.50,0.50,33.40,1680,405,20.20,0,1
+EMApp,1009,Chapelure brune,10.14,Epicerie,Epicerie,déshydraté,,kg,1.01 €,kg,1,73,728,11.60,71.50,5.50,1670,395,0.22,2.60,1
+EMApp,1010,Fromage-Chaource,10.12,BOF,Fromages affinés à pâte molle,brut,entier,kg,3.50 €,kg,1,388,792,17.40,1.35,22,1130,273,14.20,0,1
+EMApp,1011,Champignon pied & morceaux,10.14,Epicerie,Epicerie,appertisé,boite 5/1,boite 5/1,11.20 €,kg,1,24.60,310,2.40,0.98,0.39,91,22,0.10,0.20,1
+EMApp,1012,Champignon hôtel,10.14,Epicerie,Epicerie,appertisé,boite 3/1,boite 3/1,9.20 €,kg,1,16.30,281,2.37,0.46,0.40,83,20,0.10,0.20,1
+EMApp,1013,Champignon de paris,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,6.75 €,kg,1,28.50,16.90,1.80,2.73,0.43,105,25,0.07,0.20,1
+EMApp,1014,Champignon de paris,10.10,Fruits_et_légumes,Légumes,brut,,Kg,4 €,kg,1,28.50,16.90,1.80,2.73,0.43,105,25,0.07,0.20,0.90
+EMApp,1015,Champignon,10.03,Surgelés,Surgelé légume,surgelé,emincé,Kg,1.04 €,kg,1,28.50,16.90,1.80,2.73,0.43,105,25,0,0,1
+EMApp,1016,Champagne,10.14,Epicerie,Epicerie,,Liquide,Litre,13.29 €,litre,1,7,1.93,0.30,2.80,0,340,82,0,0,1
+EMApp,1017,Chair à saucisse,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.80 €,kg,1,15,0,13.00,0.60,30,1354,324,9.20,0,1
+EMApp,1018,Cervelas,10.01,Surgelés,Surgelé viande,surgelé,orloff,Kg,4 €,kg,1,32.60,822,13.60,1.10,21.20,1034,250,0,0,0.80
+EMApp,1019,Cervelas,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,2.30 €,kg,1,32.60,822,12.00,1.30,26.50,1210,293,10.40,0,1
+EMApp,1020,Cerise,10.10,Fruits_et_légumes,Fruits,brut,,Kg,4.75 €,kg,1,15.40,5.20,1.30,14.20,0.30,300,71,0.05,12.40,0.80
+EMApp,1021,Céréales petit-déjeuner chocolat,10.14,Epicerie,Epicerie,déshydraté,,kg,7.30 €,kg,1,453,442,4.20,83.20,4,1660,391,2.15,31,1
+EMApp,1022,Céréales petit-déjeuner aux fruits,10.14,Epicerie,Epicerie,déshydraté,,kg,4.88 €,kg,1,56.80,489,14.00,73,2.70,1620,383,1.48,24,1
+EMApp,1023,Céréales petit-déj fourrées choco,10.14,Epicerie,Epicerie,déshydraté,,kg,4.88 €,kg,1,153,221,8.40,67.20,14.30,1850,439,4.99,30,1
+EMApp,1024,Céleri-rave,10.09,Fruits_et_légumes,Légumes,cru sous vide,entier,Kg,2.10 €,kg,1,38.80,269,1.20,5.68,0.30,154,37,0.07,1.44,1
+EMApp,1025,Céleri-rave,10.10,Fruits_et_légumes,Légumes,brut,rapé,Kg,2.30 €,kg,1,38.80,269,1.20,5.68,0.30,154,37,0.07,1.44,1
+EMApp,1026,Céleri-rave,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,2.30 €,kg,1,38.80,269,1.20,5.68,0.30,154,37,0.07,1.44,1
+EMApp,1027,Céleri-rave,10.09,Fruits_et_légumes,Légumes,cuit sous vide,,Kg,2.10 €,kg,1,52.40,58.20,0.96,4.56,0.86,146,35,0.07,1.44,1
+EMApp,1028,Céleri-rave,10.09,Fruits_et_légumes,Légumes,cru sous vide,rapé,Kg,2.30 €,kg,1,38.80,269,1.20,5.68,0.30,154,37,0.07,1.44,1
+EMApp,1029,Céleri-rave,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.80 €,kg,1,38.80,269,1.20,5.68,0.30,154,37,0.07,1.44,0.80
+EMApp,1030,Céleri rémoulade,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,7.80 €,kg,1,28.70,437,1.00,6,12.50,592,132,1.02,1.74,1
+EMApp,1031,Céleri branche,10.09,Fruits_et_légumes,Légumes,cuit sous vide,,Kg,3.65 €,kg,1,53.30,83.10,0.80,1.60,0.10,55,13,0.04,1.11,1
+EMApp,1032,Céleri branche,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,3.43 €,kg,1,53.30,109,1.20,1.16,0.20,66,16,0.04,1.11,1
+EMApp,1033,Céleri branche,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,2.10 €,kg,1,53.30,109,1.20,1.16,0.20,66,16,0.04,1.11,1
+EMApp,1034,Céleri branche,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.20 €,kg,1,53.30,109,1.20,1.16,0.20,66,16,0.04,1.11,0.70
+EMApp,1035,Coeur de céleri branche,10.14,Epicerie,Epicerie,appertisé,Boite 51,Boite 51,7.30 €,kg,1,29.20,360,0.83,1.28,0.09,50,12,0.02,0,1
+EMApp,1036,Cassonade,10.14,Epicerie,Epicerie,déshydraté,,kg,1.74 €,kg,1,134,0,1.90,96.70,0,1650,387,0,96,1
+EMApp,1037,Cassis,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.54 €,kg,1,60,3,0.90,10.40,0.10,289,69,0.09,6.60,1
+EMApp,1038,Carrelet ou Plie,10.08,Viandes_Poissons,Poisson,brut,,Kg,7 €,kg,1,0,0,19.00,0,0.93,357,84,0.20,0,0.50
+EMApp,1039,Porc-Carré,10.07,Viandes_Poissons,Porc,brut,,Kg,3.54 €,kg,1,10,63.60,34.10,0,7.45,855,203,3.03,0,0.50
+EMApp,1040,Carotte,10.03,Surgelés,Surgelé légume,surgelé,purée,Kg,0.70 €,kg,1,46,93.80,2.00,5.50,0.20,135,32,0,0,1
+EMApp,1041,Carotte,10.03,Surgelés,Surgelé légume,surgelé,rondelle,Kg,0.70 €,kg,1,46,93.80,2.00,5.50,0.20,135,32,0,0,1
+EMApp,1042,Carotte,10.09,Fruits_et_légumes,Légumes,cuit sous vide,rondelle,Kg,1.90 €,kg,1,46,93.80,0.76,4.94,0.10,117,27,0.06,4.86,1
+EMApp,1043,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,brunoise,Kg,1.90 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1044,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,mirepoix,Kg,1.90 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1045,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,batonnet,Kg,1.90 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1046,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,rapée,Kg,1.90 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1047,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,rondelle,Kg,2.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1048,Carotte,10.09,Fruits_et_légumes,Légumes,cru sous vide,epluchée,Kg,1.50 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1049,Carotte,10.10,Fruits_et_légumes,Légumes,brut,brunoise,Kg,2.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1050,Carotte,10.10,Fruits_et_légumes,Légumes,brut,mirepoix,Kg,2.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1051,Carotte,10.10,Fruits_et_légumes,Légumes,brut,batonnet,Kg,2.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1052,Carotte,10.10,Fruits_et_légumes,Légumes,brut,rapée,Kg,1.50 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1053,Carotte,10.10,Fruits_et_légumes,Légumes,brut,rondelle,Kg,2.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1054,Carotte,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,1.50 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,1
+EMApp,1055,Carotte,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.10 €,kg,1,26.20,49,0.80,6.60,0.26,153,36,0.06,4.86,0.80
+EMApp,1056,Cardon,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,3.38 €,kg,1,58.50,17.40,0.60,3.69,0.10,89,21,0.01,1.50,1
+EMApp,1057,Cardon,10.10,Fruits_et_légumes,Légumes,brut,epluché,Kg,2.56 €,kg,1,58.50,17.40,0.60,3.69,0.10,89,21,0.01,1.50,1
+EMApp,1058,Cardon,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2.56 €,kg,1,58.50,17.40,0.60,3.69,0.10,89,21,0.01,1.50,0.60
+EMApp,1059,Caramel mou au cacao,10.14,Epicerie,Epicerie,déshydraté,,kg,21.83 €,kg,1,0,0,3.30,77.10,9.60,1725,410,8.70,75,1
+EMApp,1060,Carambole,10.10,Fruits_et_légumes,Fruits,brut,,unité,1.56 €,kg,1,4.67,2,0.78,2.91,0.34,114,27,0.02,2.91,1
+EMApp,1061,Câpre,10.14,Epicerie,Epicerie,appertisé,,Boite 4/4,2.42 €,kg,1,29.50,2240,2.48,2.10,0.48,123,29,0.10,1.26,1
+EMApp,1062,Fromage-Cantal,10.12,BOF,Fromages affinés à pâte ferme,brut,portion,unité,0.18 €,piece,0.025,759,837,24.70,0.18,30.30,1550,373,19,0,1
+EMApp,1063,Fromage-Cantal,10.12,BOF,Fromages affinés à pâte ferme,brut,bloc,kg,9.82 €,kg,1,759,837,24.70,0.18,30.30,1550,373,19,0,1
+EMApp,1064,Cannelle bâton,10.14,Epicerie,Epicerie,déshydraté,,Kg,4.12 €,kg,1,1000,10,3.87,27.50,1.22,1000,243,0.44,2.17,1
+EMApp,1065,Canelé 15-20g,10.14,Epicerie,Epicerie,déshydraté,,kg,25 €,kg,1,0,74.40,4.40,62.70,3.24,1280,302,2.16,42.50,1
+EMApp,1066,Fromage-Cancoillotte,10.12,BOF,Fromages fondus,brut,pot,kg,6.35 €,kg,1,20.10,732,15.00,1,6.20,536,128,4.01,1,1
+EMApp,1067,Fromage-Camembert,10.12,BOF,Fromages affinés à pâte molle,brut,portion,piece,0.15 €,piece,0.025,490,570,19.50,0.20,26.20,1310,315,17,0,1
+EMApp,1068,Fromage-Camembert,10.12,BOF,Fromages affinés à pâte molle,brut,26%MG,piece,2.26 €,piece,0.250,490,570,19.50,0.20,26.20,1310,315,17,0,1
+EMApp,1069,Fromage-Camembert,10.12,BOF,Fromages affinés à pâte molle,brut,20%MG,piece,1.10 €,piece,0.250,463,581,22.40,0.38,20,1130,271,12.90,0.38,1
+EMApp,1070,Fromage-Camembert,10.12,BOF,Fromages affinés à pâte molle,brut,lait cru,piece,3.40 €,piece,0.250,245,670,20.40,1.22,20.20,1120,269,13.70,0.10,1
+EMApp,1071,Calamar,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,4.90 €,kg,1,15.70,195,16.00,0.60,1.47,337,80,0.32,0,0.50
+EMApp,1072,Calamar,10.02,Surgelés,Surgelé poisson,surgelé,romaine,kg,2.75 €,kg,1,15.70,195,10.60,17.80,11.50,920,220,0,0,1
+EMApp,1073,Caille,10.07,Viandes_Poissons,Volaille,brut,,Kg,17.80 €,kg,1,15,52,25.10,0,10.90,830,198,2.83,0,0.50
+EMApp,1074,Café moulu Arabica,10.14,Epicerie,Epicerie,déshydraté,,kg,4.66 €,kg,1,27.20,7.14,0.05,0.10,0,1,0,0,0,1
+EMApp,1075,Café équilibre 50/50,10.14,Epicerie,Epicerie,déshydraté,,kg,5.29 €,kg,1,27.20,0,0.05,0.10,0,1,0,0,0,1
+EMApp,1076,Chocolat dose petit déjeuné,10.14,Epicerie,Epicerie,déshydraté,,Kg,7.27 €,piece,0.020,80.50,44.30,6.15,79.50,3.84,1650,390,2.15,59,1
+EMApp,1077,Cacao non sucré en poudre,10.14,Epicerie,Epicerie,déshydraté,,Kg,7.27 €,kg,1,73,21,18.40,13.90,21,1589,380,7.50,0.80,1
+EMApp,1078,Cacahuète salée,10.14,Epicerie,Epicerie,déshydraté,,kg,3.63 €,kg,1,47.40,374,27.30,9.73,47.40,2540,613,7.80,3.60,1
+EMApp,1079,Poisson-Pané (Cabillaud),10.02,Surgelés,Surgelé poisson,surgelé,120g,colis,4.90 €,kg,1,26,72,13.00,14,11,860,210,0,0,1
+EMApp,1080,Poisson-Cabillaud (Entier),10.08,Viandes_Poissons,Poisson,brut,,Kg,9 €,kg,1,10,65,18.50,0,0.90,350,83,0.16,0,0.60
+EMApp,1081,Bulot cuit,10.08,Viandes_Poissons,Crustacés et mollusques,brut,,Kg,5.50 €,kg,1,67.80,370,20.50,2.79,0.60,418,99,0.09,0,0.30
+EMApp,1082,Brunoise légume,10.03,Surgelés,Surgelé légume,surgelé,,Kg,0.97 €,kg,1,29,38,0.95,5.10,0,101,24,0,0,1
+EMApp,1083,Brugnon,10.10,Fruits_et_légumes,Fruits,brut,,Kg,2.22 €,kg,1,4,1.84,0.70,14,0.10,268,64,0,10,0.90
+EMApp,1084,Brocolis,10.03,Surgelés,Surgelé légume,surgelé,,kg,1.26 €,kg,1,55.80,53,2.10,2.82,0.51,120,28.70,0,0,1
+EMApp,1085,Brochette,10.01,Surgelés,Surgelé viande,surgelé,porc,Kg,5.12 €,kg,1,0,0,0.00,0,0,0,0,0,0,0.80
+EMApp,1086,Brochette de poisson,10.02,Surgelés,Surgelé poisson,surgelé,poisson,Kg,4.44 €,kg,1,26.50,223,15.50,0,0.20,267,64,0,0,1
+EMApp,1087,Brochette,10.01,Surgelés,Surgelé viande,surgelé,dinde,Kg,3.93 €,kg,1,14,257,14.90,1.70,7,541,129,0,0,0.80
+EMApp,1088,Brochet,10.08,Viandes_Poissons,Poisson,brut,,Kg,12 €,kg,1,0,0,21.50,0,0.90,399,94,0.38,0,0.50
+EMApp,1089,Brioche tranchée,10.14,Epicerie,Epicerie,déshydraté,,Unité,2.57 €,kg,1,33,454,7.80,49.60,14.80,1530,365,7.40,9,1
+EMApp,1090,Fromage (carré de l'est),10.12,BOF,Fromages affinés à pâte molle,brut,entier,kg,3.92 €,kg,1,450,1100,21.00,0,24,1250,300,15.50,0,1
+EMApp,1091,Boeuf-Bourguignon (cuit),10.07,Viandes_Poissons,Bœuf,cuit sous vide,,Kg,6.50 €,kg,1,0,0,30.00,0,4.10,660,156,1.69,0,1
+EMApp,1092,Bouquet garni,10.14,Epicerie,Epicerie,déshydraté,poudre,kg,21.39 €,kg,1,0,0,0.00,0,0,0,0,0,0,1
+EMApp,1093,Boulgour,10.14,Epicerie,Epicerie,déshydraté,,Kg,1.20 €,kg,1,43.40,39.10,11.30,71.90,1.70,1455,348,0.30,1.38,1
+EMApp,1094,Bouillon de légumes concentré,10.14,Epicerie,Epicerie,déshydraté,Liquide,Litre,3.97 €,litre,1,1,222,0.70,0.10,0.40,28.40,6.80,0.06,0,1
+EMApp,1095,Boudin Noir,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.46 €,kg,1,27.20,749,14.80,1.80,21.60,1100,266,11.50,0,1
+EMApp,1096,Boudin Blanc,10.07,Viandes_Poissons,Charcuterie,brut,,Kg,3.33 €,kg,1,48.90,683,10.00,5.60,18,957,231,7.90,0,1
+EMApp,1097,Bouchées traiteur,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.19 €,piece,0.030,90,627,8.00,41,41,2350,565,27.20,1.05,1
+EMApp,1098,Bœuf,10.01,Surgelés,Surgelé viande,surgelé,boulette,Kg,2.50 €,kg,1,29,452,14.30,2.70,14,814,194,0,0,0.80
+EMApp,1099,Fromage-Bleu d'Auvergne,10.12,BOF,Fromages affinés à pâte persillée,brut,portion,carton,0.20 €,piece,0.020,563,1230,19.70,1.40,28.40,1420,343,19,0,1
+EMApp,1100,Fromage-Bleu d'Auvergne,10.12,BOF,Fromages affinés à pâte persillée,brut,bloc,kg,4.79 €,kg,1,563,1230,19.70,1.40,28.40,1420,343,19,0,1
+EMApp,1101,Blanc d’oeuf en neige,10.12,BOF,Oeufs et dérivés,cuit sous vide,cuit,barquette,1.46 €,kg,1,6.67,155,10.30,0.71,0.18,194,45.70,0,0.71,1
+EMApp,1102,Blanc d’œuf,10.12,BOF,Oeufs et dérivés,brut,bidon,Litre,2.10 €,litre,1,6.67,155,10.30,0.71,0.18,194,45.70,0,0.71,1
+EMApp,1103,Biscuit sec petit beurre,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.17 €,piece,0.025,46.70,371,8.20,72.50,12.70,1850,440,7.86,21.60,1
+EMApp,1104,Biscuit sec ou tuile. aux amandes,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.14 €,piece,0.018,50,312,7.80,69.50,14.80,1890,449,4.17,31,1
+EMApp,1105,Biscuit sec feuilleté. type palmier,10.14,Epicerie,Epicerie,déshydraté,,Unité,0.21 €,piece,0.017,14.40,371,6.15,60.90,26.90,2160,515,18.70,18,1
+EMApp,1106,Bigarreaux dénoyautés,10.14,Epicerie,Epicerie,appertisé,Boite 5/1,Boite 5/1,6.97 €,kg,1,14,1,0.60,15.70,0.20,301,71,0.02,12,1
+EMApp,1107,Bifteck,10.07,Viandes_Poissons,Bœuf,brut,,Kg,8.41 €,kg,1,7.07,65.20,18.30,0,4.30,628,149,1.66,0,0.80
+EMApp,1108,Beurre doux,10.12,BOF,Beurres et matières grasses laitières,brut,micro pain,kg,0.04 €,piece,0.010,16.50,15.50,0.70,1,82.20,3114,745,54.90,0.58,1
+EMApp,1109,Beurre doux,10.12,BOF,Beurres et matières grasses laitières,brut,plaquette,kg,4.11 €,kg,1,16.50,15.50,0.70,1,82.20,3114,745,54.90,0.58,1
+EMApp,1110,Beurre demi-sel,10.12,BOF,Beurres et matières grasses laitières,brut,micro pain,kg,0.04 €,piece,0.010,16.50,774,0.70,1,80.80,3060,732,54.80,0.06,1
+EMApp,1111,Beurre demi-sel,10.12,BOF,Beurres et matières grasses laitières,brut,plaquette,kg,4.11 €,kg,1,16.50,774,0.70,1,80.80,3060,732,54.80,0.06,1
+EMApp,1112,Beurre de cacahuète,10.14,Epicerie,Epicerie,déshydraté,,kg,14.70 €,kg,1,48,472,25.10,24.70,40,2440,586,7.72,0,1
+EMApp,1113,Betteraves rouge en dés,10.14,Epicerie,Epicerie,déshydraté,Boite 5/1,Boite 5/1,2.52 €,kg,1,18.40,54.10,1.50,7,0.10,370,88,0.02,6.68,1
+EMApp,1114,Betterave rouge,10.09,Fruits_et_légumes,Légumes,cuit sous vide,cube,Kg,1.80 €,kg,1,18.40,54.10,2.30,7.17,0.10,183,43,0.02,6.68,1
+EMApp,1115,Betterave rouge,10.09,Fruits_et_légumes,Légumes,cuit sous vide,entière,Kg,1.80 €,kg,1,18.40,54.10,2.30,7.17,0.10,183,43,0.02,6.68,1
+EMApp,1116,Betterave rouge,10.09,Fruits_et_légumes,Légumes,cru sous vide,rapée,Kg,1.73 €,kg,1,18.40,54.10,2.30,7.17,0.10,183,43,0.02,6.68,1
+EMApp,1117,Betterave rouge,10.10,Fruits_et_légumes,Légumes,brut,rapée,Kg,0.60 €,kg,1,18.40,54.10,2.30,7.17,0.10,183,43,0.02,6.68,1
+EMApp,1118,Betterave rouge,10.10,Fruits_et_légumes,Légumes,brut,,Kg,0.53 €,kg,1,18.40,54.10,2.30,7.17,0.10,183,43,0.02,6.68,0.80
+EMApp,1119,Bette,10.09,Fruits_et_légumes,Légumes,cuit sous vide,,Kg,2.95 €,kg,1,66.90,208,1.88,2.03,0.08,86,21,0.01,1.10,1
+EMApp,1120,Bette,10.10,Fruits_et_légumes,Légumes,brut,epluchée,Kg,2.20 €,kg,1,66.90,208,1.88,2.03,0.08,86,21,0.01,1.10,1
+EMApp,1121,Bette,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.80 €,kg,1,66.90,208,1.88,2.03,0.08,86,21,0.01,1.10,0.60
+EMApp,1122,Beignet,10.06,Surgelés,Surgelé pâtisserie,surgelé,pomme,unité,0.16 €,piece,0.043,29.70,329,6.30,41.50,13.40,1308,312,0.25,8.34,1
+EMApp,1123,Beignet,10.06,Surgelés,Surgelé pâtisserie,surgelé,framboise,unité,0.21 €,piece,0.043,29.70,329,6.30,41,14.20,1330,317,4.57,19.20,1
+EMApp,1124,Beignet,10.06,Surgelés,Surgelé pâtisserie,surgelé,chocolat,unité,0.21 €,piece,0.043,37,273,8.00,45.50,18.50,1583,379,2.80,18,1
+EMApp,1125,Beignet,10.06,Surgelés,Surgelé pâtisserie,surgelé,abricot,unité,0.16 €,piece,0.043,29.70,329,6.00,41.90,12.40,1273,303,4.57,19.20,1
+EMApp,1126,Fromage-Beaufort,10.12,BOF,Fromages affinés à pâte dure,brut,bloc,kg,26.09 €,kg,1,745,506,26.60,3.71,30.30,1640,395,20.10,0,1
+EMApp,1127,Bavette,10.07,Viandes_Poissons,Bœuf,brut,,Kg,9.50 €,kg,1,0,0,18.30,0,3.27,432,103,1.45,0,1
+EMApp,1128,Batavia,10.09,Fruits_et_légumes,Légumes,cru sous vide,,Kg,1.80 €,kg,1,48.70,0,0.70,2.31,0.10,65,16,0.02,1.70,1
+EMApp,1129,Batavia,10.10,Fruits_et_légumes,Légumes,cru sous vide,epluchée,Kg,2.90 €,kg,1,48.70,0,0.70,2.31,0.10,65,16,0.02,1.70,1
+EMApp,1130,Batavia,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.80 €,kg,1,48.70,0,0.70,2.31,0.10,65,16,0.02,1.70,0.50
+EMApp,1131,Basilic,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,28 €,kg,1,213,6.50,3.12,1.23,0.72,128,31,0.05,1.24,1
+EMApp,1132,Bar,10.08,Viandes_Poissons,Poisson,brut,,Kg,13.77 €,kg,1,130,88.60,19.30,0,2.13,407,96,0.49,0,0.50
+EMApp,1133,Banane,10.10,Fruits_et_légumes,Fruits,brut,,Kg,1.35 €,kg,1,4.47,1,1.20,20.50,0.23,397,94,0.06,15.90,0.80
+EMApp,1134,Baie de genièvre,10.10,Epicerie,"Herbes, épices et assaisonnements",brut,,Kg,3.20 €,kg,1,1283,0,18.00,36,14,1500,359,0,0,1
+EMApp,1135,Baguette,10.14,Epicerie,Epicerie,déshydraté,,unité,0.78 €,piece,0.200,36,681,8.40,59,1.47,1230,290,0.16,2.12,1
+EMApp,1136,Bacon,10.07,Viandes_Poissons,Charcuterie,brut,,kg,6.24 €,kg,1,0,0,23.00,0.70,2.30,488,110,0.88,0,1
+EMApp,1137,Avocat,10.10,Fruits_et_légumes,Légumes,brut,,Unité,0.60 €,piece,0.150,10.80,38.80,1.80,1.02,16,685,167,2.30,1.03,0.70
+EMApp,1138,Aubergine,10.09,Fruits_et_légumes,Légumes,cru sous vide,cube,Kg,3.65 €,kg,1,20,158,0.80,6.30,0.20,148,35,0.03,3.20,1
+EMApp,1139,Aubergine,10.09,Fruits_et_légumes,Légumes,cru sous vide,lamelle,Kg,3.65 €,kg,1,20,158,0.80,6.30,0.20,148,35,0.03,3.20,1
+EMApp,1140,Aubergine,10.10,Fruits_et_légumes,Légumes,brut,cube,Kg,3.45 €,kg,1,20,158,0.80,6.30,0.20,148,35,0.03,3.20,1
+EMApp,1141,Aubergine,10.10,Fruits_et_légumes,Légumes,brut,lamelle,Kg,3.45 €,kg,1,20,158,0.80,6.30,0.20,148,35,0.03,2.30,1
+EMApp,1142,Aubergine,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2 €,kg,1,20,158,0.80,6.30,0.20,148,35,0.03,2.30,0.80
+EMApp,1143,Asperge,10.09,Fruits_et_légumes,Légumes,cuit sous vide,entière,Kg,5.26 €,kg,1,20,8.50,2.68,3.18,0.32,125,30,0.10,1.03,1
+EMApp,1144,Asperge,10.10,Fruits_et_légumes,Légumes,brut,,Kg,5.26 €,kg,1,20,8.50,2.68,3.18,0.32,125,30,0.10,1.03,0.80
+EMApp,1145,Asperge,10.14,Epicerie,Epicerie,appertisé,,Boite 4/4,2.80 €,kg,1,21,340,3.40,0.95,0.50,97,23,0.11,0.95,1
+EMApp,1146,Artichaut,10.09,Fruits_et_légumes,Légumes,cuit sous vide,coeur,Kg,5.25 €,kg,1,43.10,61.50,2.90,4.84,0.23,180,43,0.04,1.44,1
+EMApp,1147,Artichaut,10.09,Fruits_et_légumes,Légumes,cru sous vide,coeur,Kg,4.25 €,kg,1,39,56.60,2.80,4.92,0.20,186,44,0.04,1.44,1
+EMApp,1148,Artichaut,10.10,Fruits_et_légumes,Légumes,brut,coeur,Kg,3.95 €,kg,1,39,56.60,2.80,4.92,0.20,186,44,0.04,1.44,1
+EMApp,1149,Artichaut,10.10,Fruits_et_légumes,Légumes,brut,,Kg,2 €,kg,1,39,56.60,2.80,4.92,0.20,186,44,0.04,1.44,0.50
+EMApp,1150,Arome vanille en poudre,10.14,Epicerie,Epicerie,déshydraté,,Flacon,7 €,kg,1,0,0,0.60,66,0.30,0,0,0,66,1
+EMApp,1151,Arome fraise en poudre,10.14,Epicerie,Epicerie,déshydraté,,Flacon,230 €,kg,1,0,0,0.60,66,0.30,0,0,0,66,1
+EMApp,1152,Anguille,10.08,Viandes_Poissons,Poisson,brut,,Kg,23.80 €,kg,1,0,65,20.50,0,15,904,217,0.54,0,0.50
+EMApp,1153,Aneth,10.10,Fruits_et_légumes,Légumes,brut,,Kg,52 €,kg,1,0,0,3.50,7,1.10,180,43,0,0,1
+EMApp,1154,Andouillette,10.07,Viandes_Poissons,Charcuterie,cuit sous vide,,Kg,4.20 €,kg,1,35.60,0,22.50,0,20,1130,271,8.66,0,1
+EMApp,1155,Anchois,10.08,Viandes_Poissons,Poisson,brut,,Kg,5.70 €,kg,1,66.30,73,19.40,0,3.48,459,109,0.93,0,0.50
+EMApp,1156,Ananas morceaux,10.14,Epicerie,Epicerie,appertisé,,kg,1.75 €,kg,1,14.30,2,0.40,19.10,0,348,82,0,17.60,1
+EMApp,1157,Ananas,10.09,Fruits_et_légumes,Fruits,cru sous vide,cube,Kg,1.45 €,kg,1,20.30,2.88,0.40,11,0.20,223,53,0.01,9.24,1
+EMApp,1158,Ananas,10.09,Fruits_et_légumes,Fruits,cru sous vide,tranche,Kg,1.45 €,kg,1,20.30,2.88,0.40,11,0.20,223,53,0.01,9.24,1
+EMApp,1159,Ananas,10.10,Fruits_et_légumes,Fruits,brut,,Unité,1.29 €,kg,1,20.30,2.88,0.40,11,0.20,223,53,0.01,9.24,0.60
+EMApp,1160,Amande en poudre,10.14,Epicerie,Epicerie,déshydraté,,kg,6.33 €,kg,1,248,1.61,25.40,1.50,53.40,2620,634,4.04,1.08,1
+EMApp,1161,Amande effilée,10.14,Epicerie,Epicerie,déshydraté,,kg,6.79 €,kg,1,236,19,21.40,8.76,52.50,2610,631,3.95,4.63,1
+EMApp,1162,Alfalfa,10.10,Fruits_et_légumes,Légumes,brut,,Kg,1.89 €,kg,1,32,6,4.00,3.80,0.70,158,29,0.10,0.20,0.50
+EMApp,1163,Airelles,10.10,Fruits_et_légumes,Fruits,brut,,Kg,3.95 €,kg,1,15,0,0.20,5,0.40,105,25,0,5,1
+EMApp,1164,Aile de raie,10.02,Surgelés,Surgelé poisson,surgelé,,Kg,2.97 €,kg,1,50,80,18.90,0,0.50,340,80,0,0,0.80
+EMApp,1165,Ail pulpe,10.14,Epicerie,Epicerie,déshydraté,,kg,3.09 €,kg,1,0,0,4.50,23.40,20.10,1195,285,2.50,0.70,1
+EMApp,1166,Ail haché,10.03,Surgelés,Surgelé légume,surgelé,,Kg,2.05 €,kg,1,17.70,17.60,7.90,1.57,0.47,555,131,0,0,1
+EMApp,1167,Ail,10.09,Fruits_et_légumes,"Herbes, épices et assaisonnements",cru sous vide,epluché,Kg,6.25 €,kg,1,17.70,17.60,7.90,21.50,0.47,555,131,0.10,1.57,1
+EMApp,1168,Ail,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,epluché,Kg,6 €,kg,1,17.70,17.60,7.90,21.50,0.47,555,131,0.10,1.57,1
+EMApp,1169,Ail,10.10,Fruits_et_légumes,"Herbes, épices et assaisonnements",brut,,Kg,3.50 €,kg,1,17.70,17.60,7.90,21.50,0.47,555,131,0.10,1.57,0.50
+EMApp,1170,Agar-agar,10.14,Epicerie,Epicerie,déshydraté,,pot,90 €,kg,1,0,9,0.50,7,0.50,122.20,26,0,0.30,1
+EMApp,1171,Abricots au sirop,10.14,Epicerie,Epicerie,appertisé,,kg,1.84 €,kg,1,14,5.70,0.50,15.40,0.10,287,68,0,15.40,1
+EMApp,1172,Abricot sec,10.14,Epicerie,Epicerie,déshydraté,,kg,7.80 €,kg,1,61,39,3.10,53,0.80,970,229,0.07,40.50,1
+EMApp,1173,Abricot,10.09,Fruits_et_légumes,Fruits,cuit sous vide,oreillon,Kg,4.49 €,kg,1,13.70,5.70,0.50,15.40,0.10,287,68,0,15.40,1
+EMApp,1174,Abricot,10.09,Fruits_et_légumes,Fruits,cuit sous vide,entier,Kg,4 €,kg,1,13.70,5.70,0.50,15.40,0.10,287,68,0,15.40,1
+EMApp,1175,Abricot,10.10,Fruits_et_légumes,Fruits,brut,,Kg,4 €,kg,1,15.60,2.20,0.90,9.01,0.21,208,49,0,8.02,0.90
